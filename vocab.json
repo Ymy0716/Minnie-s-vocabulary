@@ -1,0 +1,9488 @@
+[
+  {
+    "id": 4,
+    "word": "a buon mercato",
+    "pos": "",
+    "meaning": "便宜的"
+  },
+  {
+    "id": 6,
+    "word": "a meno che",
+    "pos": "",
+    "meaning": "除非"
+  },
+  {
+    "id": 8,
+    "word": "abbigliamento",
+    "pos": "s.m.",
+    "meaning": "服装"
+  },
+  {
+    "id": 10,
+    "word": "abbracciare",
+    "pos": "v.tr.",
+    "meaning": "拥抱"
+  },
+  {
+    "id": 12,
+    "word": "abitante",
+    "pos": "s.m./s.f.",
+    "meaning": "居民"
+  },
+  {
+    "id": 14,
+    "word": "abito",
+    "pos": "s.m.",
+    "meaning": "服装，衣服"
+  },
+  {
+    "id": 16,
+    "word": "abituarsi",
+    "pos": "v.rifl.",
+    "meaning": "习惯"
+  },
+  {
+    "id": 18,
+    "word": "abitudine",
+    "pos": "s.f.",
+    "meaning": "习惯"
+  },
+  {
+    "id": 20,
+    "word": "accademico",
+    "pos": "agg.",
+    "meaning": "学术的"
+  },
+  {
+    "id": 22,
+    "word": "accadere",
+    "pos": "v.intr.",
+    "meaning": "发生"
+  },
+  {
+    "id": 24,
+    "word": "accelerare",
+    "pos": "v.tr.",
+    "meaning": "加速"
+  },
+  {
+    "id": 26,
+    "word": "accendere",
+    "pos": "v.tr.",
+    "meaning": "点着；开"
+  },
+  {
+    "id": 28,
+    "word": "acceso",
+    "pos": "agg.",
+    "meaning": "开着的, 点燃的"
+  },
+  {
+    "id": 30,
+    "word": "accesso",
+    "pos": "s.m.",
+    "meaning": "通道"
+  },
+  {
+    "id": 32,
+    "word": "accettabile",
+    "pos": "agg.",
+    "meaning": "可接受的"
+  },
+  {
+    "id": 34,
+    "word": "accettazione",
+    "pos": "s.f.",
+    "meaning": "接受"
+  },
+  {
+    "id": 36,
+    "word": "accorgersi",
+    "pos": "v.rifl.",
+    "meaning": "发现，发觉"
+  },
+  {
+    "id": 38,
+    "word": "accorgersi",
+    "pos": "v.rifl.",
+    "meaning": "发觉"
+  },
+  {
+    "id": 40,
+    "word": "accumulare",
+    "pos": "v.tr.",
+    "meaning": "积累，储蓄"
+  },
+  {
+    "id": 42,
+    "word": "acqua dolce",
+    "pos": "",
+    "meaning": "淡水"
+  },
+  {
+    "id": 44,
+    "word": "acqua potabile",
+    "pos": "",
+    "meaning": "可饮水"
+  },
+  {
+    "id": 46,
+    "word": "adattare",
+    "pos": "v.tr.",
+    "meaning": "适应"
+  },
+  {
+    "id": 48,
+    "word": "adatto",
+    "pos": "agg.",
+    "meaning": "合适的, 适宜的"
+  },
+  {
+    "id": 50,
+    "word": "addormentarsi",
+    "pos": "v.rifl.",
+    "meaning": "入睡"
+  },
+  {
+    "id": 52,
+    "word": "adorare",
+    "pos": "v.tr.",
+    "meaning": "爱慕"
+  },
+  {
+    "id": 54,
+    "word": "adottare",
+    "pos": "v.tr.",
+    "meaning": "采用，采纳"
+  },
+  {
+    "id": 56,
+    "word": "aeroposta",
+    "pos": "s.f.",
+    "meaning": "航空邮件"
+  },
+  {
+    "id": 58,
+    "word": "affare",
+    "pos": "s.m.",
+    "meaning": "事物，事情"
+  },
+  {
+    "id": 60,
+    "word": "affascinante",
+    "pos": "agg.",
+    "meaning": "迷人的"
+  },
+  {
+    "id": 62,
+    "word": "affermare",
+    "pos": "v.tr.",
+    "meaning": "肯定，确认"
+  },
+  {
+    "id": 64,
+    "word": "affermazione",
+    "pos": "s.f.",
+    "meaning": "肯定，确认"
+  },
+  {
+    "id": 66,
+    "word": "afferrare",
+    "pos": "v.tr.",
+    "meaning": "抓住"
+  },
+  {
+    "id": 68,
+    "word": "affettuoso",
+    "pos": "agg.",
+    "meaning": "清切的，热情的"
+  },
+  {
+    "id": 70,
+    "word": "affidare",
+    "pos": "v.tr.",
+    "meaning": "信任"
+  },
+  {
+    "id": 72,
+    "word": "affitto",
+    "pos": "s.m.",
+    "meaning": "租赁; 租金"
+  },
+  {
+    "id": 74,
+    "word": "affresco",
+    "pos": "agg.",
+    "meaning": "壁画"
+  },
+  {
+    "id": 76,
+    "word": "affrontare",
+    "pos": "v.tr.",
+    "meaning": "面对"
+  },
+  {
+    "id": 78,
+    "word": "agente",
+    "pos": "s.m.",
+    "meaning": "经销商，代理人"
+  },
+  {
+    "id": 80,
+    "word": "aggiungere",
+    "pos": "v.tr.",
+    "meaning": "添加；补充说"
+  },
+  {
+    "id": 82,
+    "word": "agire",
+    "pos": "v.intr.",
+    "meaning": "起作用，生效"
+  },
+  {
+    "id": 84,
+    "word": "agitato",
+    "pos": "agg.",
+    "meaning": "激动的"
+  },
+  {
+    "id": 86,
+    "word": "ago",
+    "pos": "s.m.",
+    "meaning": "针"
+  },
+  {
+    "id": 88,
+    "word": "agricolo",
+    "pos": "agg.",
+    "meaning": "农业的"
+  },
+  {
+    "id": 90,
+    "word": "agricoltura",
+    "pos": "s.f.",
+    "meaning": "农业"
+  },
+  {
+    "id": 92,
+    "word": "aiuto",
+    "pos": "s.m.",
+    "meaning": "帮助"
+  },
+  {
+    "id": 94,
+    "word": "alba",
+    "pos": "s.f.",
+    "meaning": "黎明, 晨曦"
+  },
+  {
+    "id": 96,
+    "word": "alcolico",
+    "pos": "agg.",
+    "meaning": "（含）酒精的"
+  },
+  {
+    "id": 98,
+    "word": "all’improvviso",
+    "pos": "",
+    "meaning": "突然"
+  },
+  {
+    "id": 100,
+    "word": "allargare",
+    "pos": "v.tr.",
+    "meaning": "加大，加宽"
+  },
+  {
+    "id": 102,
+    "word": "allarme",
+    "pos": "s.m.",
+    "meaning": "警报（器）"
+  },
+  {
+    "id": 104,
+    "word": "allegro",
+    "pos": "agg.",
+    "meaning": "快活的"
+  },
+  {
+    "id": 106,
+    "word": "allenatore",
+    "pos": "s.m.",
+    "meaning": "教练"
+  },
+  {
+    "id": 108,
+    "word": "allevare",
+    "pos": "v.tr.",
+    "meaning": "抚养，饲养；种植"
+  },
+  {
+    "id": 110,
+    "word": "alloggio",
+    "pos": "s.m.",
+    "meaning": "住宿"
+  },
+  {
+    "id": 112,
+    "word": "almeno",
+    "pos": "avv.",
+    "meaning": "至少"
+  },
+  {
+    "id": 114,
+    "word": "altezza",
+    "pos": "s.f.",
+    "meaning": "高度"
+  },
+  {
+    "id": 116,
+    "word": "altrove",
+    "pos": "avv.",
+    "meaning": "在别处"
+  },
+  {
+    "id": 118,
+    "word": "amante",
+    "pos": "s.m./s.f.",
+    "meaning": "情人"
+  },
+  {
+    "id": 120,
+    "word": "amaro",
+    "pos": "agg.",
+    "meaning": "苦的"
+  },
+  {
+    "id": 122,
+    "word": "ambasciatore",
+    "pos": "s.m.",
+    "meaning": "大使"
+  },
+  {
+    "id": 124,
+    "word": "ambiente",
+    "pos": "s.m.",
+    "meaning": "环境"
+  },
+  {
+    "id": 126,
+    "word": "ambulanza",
+    "pos": "s.f.",
+    "meaning": "救护车"
+  },
+  {
+    "id": 128,
+    "word": "amichevole",
+    "pos": "agg.",
+    "meaning": "友好的，友谊的"
+  },
+  {
+    "id": 130,
+    "word": "ammalarsi",
+    "pos": "v.rifl.",
+    "meaning": "生病"
+  },
+  {
+    "id": 132,
+    "word": "ammazzare",
+    "pos": "v.tr.",
+    "meaning": "杀掉"
+  },
+  {
+    "id": 134,
+    "word": "amministrazione",
+    "pos": "s.f.",
+    "meaning": "管理"
+  },
+  {
+    "id": 136,
+    "word": "ammirare",
+    "pos": "v.tr.",
+    "meaning": "欣赏；钦佩"
+  },
+  {
+    "id": 138,
+    "word": "ampio",
+    "pos": "agg.",
+    "meaning": "宽阔的，广阔的"
+  },
+  {
+    "id": 140,
+    "word": "andare a piedi",
+    "pos": "",
+    "meaning": "步行"
+  },
+  {
+    "id": 142,
+    "word": "angelo",
+    "pos": "s.m.",
+    "meaning": "天使"
+  },
+  {
+    "id": 144,
+    "word": "anima",
+    "pos": "s.f.",
+    "meaning": "灵魂"
+  },
+  {
+    "id": 146,
+    "word": "animale",
+    "pos": "s.m.",
+    "meaning": "动物"
+  },
+  {
+    "id": 148,
+    "word": "anniversario",
+    "pos": "s.m.",
+    "meaning": "周年纪念日"
+  },
+  {
+    "id": 150,
+    "word": "annoiarsi",
+    "pos": "v.rifl.",
+    "meaning": "厌烦, 苦恼"
+  },
+  {
+    "id": 152,
+    "word": "annuale",
+    "pos": "agg.",
+    "meaning": "每年的"
+  },
+  {
+    "id": 154,
+    "word": "ansia",
+    "pos": "s.f.",
+    "meaning": "焦虑"
+  },
+  {
+    "id": 156,
+    "word": "antipasto",
+    "pos": "s.m.",
+    "meaning": "冷盘，拼盘"
+  },
+  {
+    "id": 158,
+    "word": "anzi",
+    "pos": "cong.",
+    "meaning": "相反"
+  },
+  {
+    "id": 160,
+    "word": "anzi tutto",
+    "pos": "",
+    "meaning": "首先"
+  },
+  {
+    "id": 162,
+    "word": "anziano",
+    "pos": "s.m.",
+    "meaning": "老年人"
+  },
+  {
+    "id": 164,
+    "word": "apertivo",
+    "pos": "s.m.",
+    "meaning": "开胃酒"
+  },
+  {
+    "id": 166,
+    "word": "apparenza",
+    "pos": "s.f.",
+    "meaning": "外表"
+  },
+  {
+    "id": 168,
+    "word": "apparire",
+    "pos": "v.intr.",
+    "meaning": "出现"
+  },
+  {
+    "id": 170,
+    "word": "appartamento",
+    "pos": "s.m.",
+    "meaning": "套房"
+  },
+  {
+    "id": 172,
+    "word": "appassionato",
+    "pos": "agg.",
+    "meaning": "热爱的"
+  },
+  {
+    "id": 174,
+    "word": "apposta",
+    "pos": "avv.",
+    "meaning": "故意地"
+  },
+  {
+    "id": 176,
+    "word": "approvare",
+    "pos": "v.tr.",
+    "meaning": "同意"
+  },
+  {
+    "id": 178,
+    "word": "appunto",
+    "pos": "s.m.",
+    "meaning": "笔记"
+  },
+  {
+    "id": 180,
+    "word": "arancia",
+    "pos": "s.f.",
+    "meaning": "橙子"
+  },
+  {
+    "id": 182,
+    "word": "area",
+    "pos": "s.f.",
+    "meaning": "区域"
+  },
+  {
+    "id": 184,
+    "word": "argento",
+    "pos": "s.m.",
+    "meaning": "银"
+  },
+  {
+    "id": 186,
+    "word": "argomento",
+    "pos": "s.m.",
+    "meaning": "话题"
+  },
+  {
+    "id": 188,
+    "word": "armadio",
+    "pos": "s.m.",
+    "meaning": "衣柜"
+  },
+  {
+    "id": 190,
+    "word": "aroma",
+    "pos": "s.f.",
+    "meaning": "芬香"
+  },
+  {
+    "id": 192,
+    "word": "arrosto",
+    "pos": "s.m.",
+    "meaning": "烤肉"
+  },
+  {
+    "id": 194,
+    "word": "articolo",
+    "pos": "s.m.",
+    "meaning": "文章"
+  },
+  {
+    "id": 196,
+    "word": "artista",
+    "pos": "s.m./s.f.",
+    "meaning": "艺术家"
+  },
+  {
+    "id": 198,
+    "word": "artistico",
+    "pos": "agg.",
+    "meaning": "艺术的"
+  },
+  {
+    "id": 200,
+    "word": "ascensore",
+    "pos": "s.m.",
+    "meaning": "电梯"
+  },
+  {
+    "id": 202,
+    "word": "assaggiare",
+    "pos": "v.tr.",
+    "meaning": "品尝"
+  },
+  {
+    "id": 204,
+    "word": "assegno",
+    "pos": "s.m.",
+    "meaning": "支票"
+  },
+  {
+    "id": 206,
+    "word": "assicurare",
+    "pos": "v.tr.",
+    "meaning": "保证"
+  },
+  {
+    "id": 208,
+    "word": "assolutamente",
+    "pos": "avv.",
+    "meaning": "绝对地"
+  },
+  {
+    "id": 210,
+    "word": "assoluto",
+    "pos": "agg.",
+    "meaning": "绝对的"
+  },
+  {
+    "id": 212,
+    "word": "assurdo",
+    "pos": "agg.",
+    "meaning": "荒诞的"
+  },
+  {
+    "id": 214,
+    "word": "atmosfera",
+    "pos": "s.f.",
+    "meaning": "气氛"
+  },
+  {
+    "id": 216,
+    "word": "attacco",
+    "pos": "s.m.",
+    "meaning": "攻击；（疾病）发作"
+  },
+  {
+    "id": 218,
+    "word": "attesa",
+    "pos": "s.f.",
+    "meaning": "期待，等待"
+  },
+  {
+    "id": 220,
+    "word": "attirare",
+    "pos": "v.tr.",
+    "meaning": "吸引"
+  },
+  {
+    "id": 222,
+    "word": "attività",
+    "pos": "s.f.",
+    "meaning": "活动"
+  },
+  {
+    "id": 224,
+    "word": "attraversare",
+    "pos": "v.tr.",
+    "meaning": "通过"
+  },
+  {
+    "id": 226,
+    "word": "attraverso",
+    "pos": "avv./prep.",
+    "meaning": "通过"
+  },
+  {
+    "id": 228,
+    "word": "attrice",
+    "pos": "s.f.",
+    "meaning": "女演员"
+  },
+  {
+    "id": 230,
+    "word": "attuale",
+    "pos": "agg.",
+    "meaning": "当前的"
+  },
+  {
+    "id": 232,
+    "word": "attualmente",
+    "pos": "avv.",
+    "meaning": "目前"
+  },
+  {
+    "id": 234,
+    "word": "australiano",
+    "pos": "agg./s.f.",
+    "meaning": "澳大利亚的; 澳大利亚人"
+  },
+  {
+    "id": 236,
+    "word": "auto",
+    "pos": "s.f.",
+    "meaning": "汽车"
+  },
+  {
+    "id": 238,
+    "word": "autore",
+    "pos": "s.m.",
+    "meaning": "作者，作家"
+  },
+  {
+    "id": 240,
+    "word": "autunnale",
+    "pos": "agg.",
+    "meaning": "秋季的"
+  },
+  {
+    "id": 242,
+    "word": "avanti",
+    "pos": "avv.",
+    "meaning": "向前"
+  },
+  {
+    "id": 244,
+    "word": "avaro",
+    "pos": "agg.",
+    "meaning": "吝啬的"
+  },
+  {
+    "id": 246,
+    "word": "avvandonare",
+    "pos": "v.tr.",
+    "meaning": "抛弃，遗弃"
+  },
+  {
+    "id": 248,
+    "word": "avvertire",
+    "pos": "v.tr.",
+    "meaning": "通知"
+  },
+  {
+    "id": 250,
+    "word": "avvocato",
+    "pos": "s.m.",
+    "meaning": "律师"
+  },
+  {
+    "id": 252,
+    "word": "azienda",
+    "pos": "s.f.",
+    "meaning": "公司, 企业"
+  },
+  {
+    "id": 254,
+    "word": "azzurro",
+    "pos": "agg.",
+    "meaning": "海蓝色的"
+  },
+  {
+    "id": 259,
+    "word": "bacio",
+    "pos": "s.m.",
+    "meaning": "吻"
+  },
+  {
+    "id": 261,
+    "word": "bagaglio",
+    "pos": "s.m.",
+    "meaning": "行李"
+  },
+  {
+    "id": 263,
+    "word": "bagaglio a mano",
+    "pos": "",
+    "meaning": "手提行李"
+  },
+  {
+    "id": 265,
+    "word": "bagnato",
+    "pos": "agg.",
+    "meaning": "浸湿的"
+  },
+  {
+    "id": 267,
+    "word": "ballare",
+    "pos": "v.intr.",
+    "meaning": "跳舞"
+  },
+  {
+    "id": 269,
+    "word": "ballo",
+    "pos": "s.m.",
+    "meaning": "跳舞，舞会"
+  },
+  {
+    "id": 271,
+    "word": "balzare",
+    "pos": "v.intr.",
+    "meaning": "跳起，弹起"
+  },
+  {
+    "id": 273,
+    "word": "banana",
+    "pos": "s.f.",
+    "meaning": "香蕉"
+  },
+  {
+    "id": 275,
+    "word": "banchetto",
+    "pos": "s.m.",
+    "meaning": "宴会"
+  },
+  {
+    "id": 277,
+    "word": "banco",
+    "pos": "s.m.",
+    "meaning": "课桌, 书桌"
+  },
+  {
+    "id": 279,
+    "word": "barca",
+    "pos": "s.f.",
+    "meaning": "小船"
+  },
+  {
+    "id": 281,
+    "word": "barca a vela",
+    "pos": "",
+    "meaning": "帆船"
+  },
+  {
+    "id": 283,
+    "word": "base",
+    "pos": "s.f.",
+    "meaning": "基地；基础"
+  },
+  {
+    "id": 285,
+    "word": "basilica",
+    "pos": "s.f.",
+    "meaning": "大教堂"
+  },
+  {
+    "id": 287,
+    "word": "benché",
+    "pos": "cong.",
+    "meaning": "虽然"
+  },
+  {
+    "id": 289,
+    "word": "benzina",
+    "pos": "s.f.",
+    "meaning": "汽油"
+  },
+  {
+    "id": 291,
+    "word": "bere",
+    "pos": "v.tr.",
+    "meaning": "喝"
+  },
+  {
+    "id": 293,
+    "word": "bicchiere",
+    "pos": "s.m.",
+    "meaning": "杯子"
+  },
+  {
+    "id": 295,
+    "word": "biglietto da visita",
+    "pos": "",
+    "meaning": "名片"
+  },
+  {
+    "id": 297,
+    "word": "bimba",
+    "pos": "s.f.",
+    "meaning": "小女孩, 女幼童"
+  },
+  {
+    "id": 299,
+    "word": "bimbo",
+    "pos": "s.m.",
+    "meaning": "小男孩"
+  },
+  {
+    "id": 301,
+    "word": "binario",
+    "pos": "s.m.",
+    "meaning": "月台"
+  },
+  {
+    "id": 303,
+    "word": "bisognare",
+    "pos": "v.intr.",
+    "meaning": "需要，必须"
+  },
+  {
+    "id": 305,
+    "word": "bisogno",
+    "pos": "s.m.",
+    "meaning": "需要"
+  },
+  {
+    "id": 307,
+    "word": "bloccare",
+    "pos": "v.tr.",
+    "meaning": "封锁, 堵塞"
+  },
+  {
+    "id": 309,
+    "word": "bollente",
+    "pos": "agg.",
+    "meaning": "沸腾的"
+  },
+  {
+    "id": 311,
+    "word": "borsa",
+    "pos": "s.f.",
+    "meaning": "书包; 奖学金"
+  },
+  {
+    "id": 313,
+    "word": "bosco",
+    "pos": "s.m.",
+    "meaning": "树林"
+  },
+  {
+    "id": 315,
+    "word": "bottone",
+    "pos": "s.m.",
+    "meaning": "纽扣"
+  },
+  {
+    "id": 317,
+    "word": "braccio",
+    "pos": "s.m.",
+    "meaning": "胳膊"
+  },
+  {
+    "id": 319,
+    "word": "breve",
+    "pos": "agg.",
+    "meaning": "(时间) 短的"
+  },
+  {
+    "id": 321,
+    "word": "bruno",
+    "pos": "agg.",
+    "meaning": "褐色的"
+  },
+  {
+    "id": 323,
+    "word": "bugia",
+    "pos": "s.f.",
+    "meaning": "谎言"
+  },
+  {
+    "id": 325,
+    "word": "buio",
+    "pos": "aggg.",
+    "meaning": "光线暗的"
+  },
+  {
+    "id": 327,
+    "word": "Buongiorno",
+    "pos": "",
+    "meaning": "你好"
+  },
+  {
+    "id": 329,
+    "word": "bussare",
+    "pos": "v.intr.",
+    "meaning": "敲, 击"
+  },
+  {
+    "id": 331,
+    "word": "busta",
+    "pos": "s.f.",
+    "meaning": "信封"
+  },
+  {
+    "id": 335,
+    "word": "caccia",
+    "pos": "s.f.",
+    "meaning": "狩猎"
+  },
+  {
+    "id": 337,
+    "word": "cadere",
+    "pos": "v.intr.",
+    "meaning": "掉下"
+  },
+  {
+    "id": 339,
+    "word": "calcolare",
+    "pos": "v.tr.",
+    "meaning": "计算"
+  },
+  {
+    "id": 341,
+    "word": "calendario",
+    "pos": "s.m.",
+    "meaning": "日历"
+  },
+  {
+    "id": 343,
+    "word": "calma",
+    "pos": "s.f.",
+    "meaning": "平静"
+  },
+  {
+    "id": 345,
+    "word": "calmo",
+    "pos": "agg.",
+    "meaning": "平静的"
+  },
+  {
+    "id": 347,
+    "word": "calza",
+    "pos": "s.f.",
+    "meaning": "袜子"
+  },
+  {
+    "id": 349,
+    "word": "cambiamento",
+    "pos": "s.m.",
+    "meaning": "变化"
+  },
+  {
+    "id": 351,
+    "word": "cambiare",
+    "pos": "v.tr.",
+    "meaning": "更换"
+  },
+  {
+    "id": 353,
+    "word": "camera doppia",
+    "pos": "",
+    "meaning": "双人房"
+  },
+  {
+    "id": 355,
+    "word": "camera singola",
+    "pos": "",
+    "meaning": "单人房"
+  },
+  {
+    "id": 357,
+    "word": "cameriere",
+    "pos": "s.m.",
+    "meaning": "服务员"
+  },
+  {
+    "id": 359,
+    "word": "campanello",
+    "pos": "s.m.",
+    "meaning": "门铃"
+  },
+  {
+    "id": 361,
+    "word": "campione",
+    "pos": "s.f.",
+    "meaning": "样品；冠军"
+  },
+  {
+    "id": 363,
+    "word": "canale",
+    "pos": "s.m.",
+    "meaning": "渠; (电视) 频道"
+  },
+  {
+    "id": 365,
+    "word": "cancellare",
+    "pos": "v.tr.",
+    "meaning": "删除，取消"
+  },
+  {
+    "id": 367,
+    "word": "cancello",
+    "pos": "s.m.",
+    "meaning": "栏杆门"
+  },
+  {
+    "id": 369,
+    "word": "cancro",
+    "pos": "s.m.",
+    "meaning": "癌"
+  },
+  {
+    "id": 371,
+    "word": "candela",
+    "pos": "s.f.",
+    "meaning": "蜡烛"
+  },
+  {
+    "id": 373,
+    "word": "cane",
+    "pos": "s.m.",
+    "meaning": "狗"
+  },
+  {
+    "id": 375,
+    "word": "canzone",
+    "pos": "s.f.",
+    "meaning": "歌曲"
+  },
+  {
+    "id": 377,
+    "word": "capace",
+    "pos": "agg.",
+    "meaning": "有能力的"
+  },
+  {
+    "id": 379,
+    "word": "capo",
+    "pos": "s.m.",
+    "meaning": "头, 头部"
+  },
+  {
+    "id": 381,
+    "word": "Capodanno",
+    "pos": "s.m.",
+    "meaning": "元旦"
+  },
+  {
+    "id": 383,
+    "word": "capolavoro",
+    "pos": "s.m.",
+    "meaning": "杰作"
+  },
+  {
+    "id": 385,
+    "word": "cappella",
+    "pos": "s.f.",
+    "meaning": "小礼拜堂"
+  },
+  {
+    "id": 387,
+    "word": "cappuccino",
+    "pos": "s.m.",
+    "meaning": "卡布奇诺"
+  },
+  {
+    "id": 389,
+    "word": "carattere",
+    "pos": "s.m.",
+    "meaning": "字；性格"
+  },
+  {
+    "id": 391,
+    "word": "caratteristica",
+    "pos": "s.f.",
+    "meaning": "特点"
+  },
+  {
+    "id": 393,
+    "word": "carino",
+    "pos": "agg.",
+    "meaning": "可爱的"
+  },
+  {
+    "id": 395,
+    "word": "carne",
+    "pos": "s.f.",
+    "meaning": "肉"
+  },
+  {
+    "id": 397,
+    "word": "Carnevale",
+    "pos": "s.m.",
+    "meaning": "狂欢节"
+  },
+  {
+    "id": 399,
+    "word": "carota",
+    "pos": "s.f.",
+    "meaning": "胡萝卜"
+  },
+  {
+    "id": 401,
+    "word": "carta",
+    "pos": "s.f.",
+    "meaning": "纸片，证件"
+  },
+  {
+    "id": 403,
+    "word": "carta d’identità",
+    "pos": "",
+    "meaning": "身份证"
+  },
+  {
+    "id": 405,
+    "word": "casalinga",
+    "pos": "s.f.",
+    "meaning": "家庭妇女"
+  },
+  {
+    "id": 407,
+    "word": "caso",
+    "pos": "s.m.",
+    "meaning": "情况"
+  },
+  {
+    "id": 409,
+    "word": "cassa",
+    "pos": "s.f.",
+    "meaning": "付款处"
+  },
+  {
+    "id": 411,
+    "word": "casuale",
+    "pos": "agg.",
+    "meaning": "偶然的"
+  },
+  {
+    "id": 413,
+    "word": "cattivo",
+    "pos": "agg.",
+    "meaning": "坏的"
+  },
+  {
+    "id": 415,
+    "word": "causa",
+    "pos": "s.f.",
+    "meaning": "事业; 原因"
+  },
+  {
+    "id": 417,
+    "word": "celebrare",
+    "pos": "v.tr.",
+    "meaning": "庆祝"
+  },
+  {
+    "id": 419,
+    "word": "celebrazione",
+    "pos": "s.f.",
+    "meaning": "庆祝"
+  },
+  {
+    "id": 421,
+    "word": "celebre",
+    "pos": "agg.",
+    "meaning": "驰名的"
+  },
+  {
+    "id": 423,
+    "word": "celeste",
+    "pos": "agg.",
+    "meaning": "天蓝色的"
+  },
+  {
+    "id": 425,
+    "word": "centinaio",
+    "pos": "s.m.",
+    "meaning": "百"
+  },
+  {
+    "id": 427,
+    "word": "centrale",
+    "pos": "agg.",
+    "meaning": "中心的"
+  },
+  {
+    "id": 429,
+    "word": "certificato",
+    "pos": "s.m.",
+    "meaning": "证明"
+  },
+  {
+    "id": 431,
+    "word": "cessare",
+    "pos": "v.intr.",
+    "meaning": "停止，中止"
+  },
+  {
+    "id": 433,
+    "word": "chiacchierare",
+    "pos": "v.intr.",
+    "meaning": "聊天"
+  },
+  {
+    "id": 435,
+    "word": "chilo",
+    "pos": "s.m.",
+    "meaning": "公斤"
+  },
+  {
+    "id": 437,
+    "word": "chilometro",
+    "pos": "s.m.",
+    "meaning": "公里"
+  },
+  {
+    "id": 439,
+    "word": "cima",
+    "pos": "s.f.",
+    "meaning": "山顶"
+  },
+  {
+    "id": 441,
+    "word": "cincin",
+    "pos": "inter.",
+    "meaning": "干杯"
+  },
+  {
+    "id": 443,
+    "word": "cintura",
+    "pos": "s.f.",
+    "meaning": "皮带"
+  },
+  {
+    "id": 445,
+    "word": "cintura di sicurezza",
+    "pos": "",
+    "meaning": "保险带"
+  },
+  {
+    "id": 447,
+    "word": "cioccolatino",
+    "pos": "s.m.",
+    "meaning": "巧克力块"
+  },
+  {
+    "id": 449,
+    "word": "cioè",
+    "pos": "cong.",
+    "meaning": "也就是"
+  },
+  {
+    "id": 451,
+    "word": "circondare",
+    "pos": "v.tr.",
+    "meaning": "围绕"
+  },
+  {
+    "id": 453,
+    "word": "circostante",
+    "pos": "agg.",
+    "meaning": "周围的"
+  },
+  {
+    "id": 455,
+    "word": "cittadino",
+    "pos": "agg./s.m.",
+    "meaning": "城市的；公民"
+  },
+  {
+    "id": 457,
+    "word": "civiltà",
+    "pos": "s.f.",
+    "meaning": "文明"
+  },
+  {
+    "id": 459,
+    "word": "cliente",
+    "pos": "s.m./s.f.",
+    "meaning": "顾客"
+  },
+  {
+    "id": 461,
+    "word": "clinica",
+    "pos": "s.f.",
+    "meaning": "诊所"
+  },
+  {
+    "id": 463,
+    "word": "cognac",
+    "pos": "s.m.",
+    "meaning": "白兰地酒"
+  },
+  {
+    "id": 465,
+    "word": "collegare",
+    "pos": "v.tr.",
+    "meaning": "连接"
+  },
+  {
+    "id": 467,
+    "word": "collo",
+    "pos": "s.m.",
+    "meaning": "脖子"
+  },
+  {
+    "id": 469,
+    "word": "colpa",
+    "pos": "s.f.",
+    "meaning": "过错"
+  },
+  {
+    "id": 471,
+    "word": "colpire",
+    "pos": "v.tr.",
+    "meaning": "打击"
+  },
+  {
+    "id": 473,
+    "word": "coltello",
+    "pos": "s.m.",
+    "meaning": "刀子"
+  },
+  {
+    "id": 475,
+    "word": "commentare",
+    "pos": "v.tr.",
+    "meaning": "评论"
+  },
+  {
+    "id": 477,
+    "word": "commesso",
+    "pos": "s.m.",
+    "meaning": "店员"
+  },
+  {
+    "id": 479,
+    "word": "commosso",
+    "pos": "agg.",
+    "meaning": "感动的"
+  },
+  {
+    "id": 481,
+    "word": "compenso",
+    "pos": "s.m.",
+    "meaning": "弥补；报酬"
+  },
+  {
+    "id": 483,
+    "word": "completamente",
+    "pos": "avv.",
+    "meaning": "完全地，全面地"
+  },
+  {
+    "id": 485,
+    "word": "complicato",
+    "pos": "agg.",
+    "meaning": "复杂的"
+  },
+  {
+    "id": 487,
+    "word": "comunale",
+    "pos": "agg.",
+    "meaning": "城市的, 市府的"
+  },
+  {
+    "id": 489,
+    "word": "comunicare",
+    "pos": "v.tr./v.intr.",
+    "meaning": "通知；交流"
+  },
+  {
+    "id": 491,
+    "word": "comunicazione",
+    "pos": "s.f.",
+    "meaning": "交流，联系"
+  },
+  {
+    "id": 493,
+    "word": "concerto",
+    "pos": "s.m.",
+    "meaning": "音乐会"
+  },
+  {
+    "id": 495,
+    "word": "concludere",
+    "pos": "v.tr.",
+    "meaning": "结束；得出...结论"
+  },
+  {
+    "id": 497,
+    "word": "condizione",
+    "pos": "s.f.",
+    "meaning": "条件"
+  },
+  {
+    "id": 499,
+    "word": "confermare",
+    "pos": "v.tr.",
+    "meaning": "证实; 确定"
+  },
+  {
+    "id": 501,
+    "word": "confessare",
+    "pos": "v.tr.",
+    "meaning": "承认，坦白"
+  },
+  {
+    "id": 503,
+    "word": "confronto",
+    "pos": "s.m.",
+    "meaning": "对照, 比较"
+  },
+  {
+    "id": 505,
+    "word": "consegnare",
+    "pos": "v.tr.",
+    "meaning": "交, 发"
+  },
+  {
+    "id": 507,
+    "word": "conseguenza",
+    "pos": "s.f.",
+    "meaning": "后果"
+  },
+  {
+    "id": 509,
+    "word": "consenso",
+    "pos": "s.m.",
+    "meaning": "同意"
+  },
+  {
+    "id": 511,
+    "word": "conservare",
+    "pos": "v.tr.",
+    "meaning": "保留，保存"
+  },
+  {
+    "id": 513,
+    "word": "considerare",
+    "pos": "v.tr.",
+    "meaning": "看待"
+  },
+  {
+    "id": 515,
+    "word": "considerazione",
+    "pos": "s.f.",
+    "meaning": "考虑, 看重"
+  },
+  {
+    "id": 517,
+    "word": "consolare",
+    "pos": "v.tr.",
+    "meaning": "安慰"
+  },
+  {
+    "id": 519,
+    "word": "console",
+    "pos": "s.m.",
+    "meaning": "领事"
+  },
+  {
+    "id": 521,
+    "word": "consultare",
+    "pos": "v.tr.",
+    "meaning": "问讯, 查阅"
+  },
+  {
+    "id": 523,
+    "word": "consumare",
+    "pos": "v.tr.",
+    "meaning": "消耗, 消费"
+  },
+  {
+    "id": 525,
+    "word": "contatto",
+    "pos": "s.m.",
+    "meaning": "接触"
+  },
+  {
+    "id": 527,
+    "word": "continuamente",
+    "pos": "avv.",
+    "meaning": "不断地"
+  },
+  {
+    "id": 529,
+    "word": "continuare",
+    "pos": "v.tr./v.intr.",
+    "meaning": "继续"
+  },
+  {
+    "id": 531,
+    "word": "contributo",
+    "pos": "s.m.",
+    "meaning": "贡献"
+  },
+  {
+    "id": 533,
+    "word": "contro",
+    "pos": "prep.",
+    "meaning": "反对，违反"
+  },
+  {
+    "id": 535,
+    "word": "controllare",
+    "pos": "v.tr.",
+    "meaning": "控制"
+  },
+  {
+    "id": 537,
+    "word": "controllo",
+    "pos": "s.m.",
+    "meaning": "控制, 检查"
+  },
+  {
+    "id": 539,
+    "word": "conveniente",
+    "pos": "agg.",
+    "meaning": "便利的"
+  },
+  {
+    "id": 541,
+    "word": "convincere",
+    "pos": "v.tr.",
+    "meaning": "说服"
+  },
+  {
+    "id": 543,
+    "word": "convinto",
+    "pos": "agg.",
+    "meaning": "信服的"
+  },
+  {
+    "id": 545,
+    "word": "copia",
+    "pos": "s.f.",
+    "meaning": "副本, 抄本"
+  },
+  {
+    "id": 547,
+    "word": "copiare",
+    "pos": "v.tr.",
+    "meaning": "抄写"
+  },
+  {
+    "id": 549,
+    "word": "coprire",
+    "pos": "v.tr.",
+    "meaning": "覆盖"
+  },
+  {
+    "id": 551,
+    "word": "coraggio",
+    "pos": "s.m.",
+    "meaning": "勇气"
+  },
+  {
+    "id": 553,
+    "word": "corda",
+    "pos": "s.f.",
+    "meaning": "绳子"
+  },
+  {
+    "id": 555,
+    "word": "cordiale",
+    "pos": "agg.",
+    "meaning": "热烈的"
+  },
+  {
+    "id": 557,
+    "word": "corpo",
+    "pos": "s.m.",
+    "meaning": "身体"
+  },
+  {
+    "id": 559,
+    "word": "correre",
+    "pos": "v.intr.",
+    "meaning": "跑"
+  },
+  {
+    "id": 561,
+    "word": "corretto",
+    "pos": "agg.",
+    "meaning": "正确的"
+  },
+  {
+    "id": 563,
+    "word": "corsa",
+    "pos": "s.f.",
+    "meaning": "奔跑"
+  },
+  {
+    "id": 565,
+    "word": "costa",
+    "pos": "s.f.",
+    "meaning": "海岸"
+  },
+  {
+    "id": 567,
+    "word": "costare",
+    "pos": "v.intr.",
+    "meaning": "价格为"
+  },
+  {
+    "id": 569,
+    "word": "costituire",
+    "pos": "v.tr.",
+    "meaning": "建立, 够成"
+  },
+  {
+    "id": 571,
+    "word": "costoso",
+    "pos": "agg.",
+    "meaning": "昂贵的"
+  },
+  {
+    "id": 573,
+    "word": "costringere",
+    "pos": "v.tr.",
+    "meaning": "强迫"
+  },
+  {
+    "id": 575,
+    "word": "costume da bagno",
+    "pos": "",
+    "meaning": "泳衣"
+  },
+  {
+    "id": 577,
+    "word": "cotone",
+    "pos": "s.m.",
+    "meaning": "棉，棉花"
+  },
+  {
+    "id": 579,
+    "word": "cotto",
+    "pos": "agg.",
+    "meaning": "熟的"
+  },
+  {
+    "id": 581,
+    "word": "creare",
+    "pos": "v.tr.",
+    "meaning": "创造"
+  },
+  {
+    "id": 583,
+    "word": "creativo",
+    "pos": "agg.",
+    "meaning": "创造性的"
+  },
+  {
+    "id": 585,
+    "word": "credere",
+    "pos": "v.tr./v.intr.",
+    "meaning": "相信"
+  },
+  {
+    "id": 587,
+    "word": "credito",
+    "pos": "s.m.",
+    "meaning": "信用，贷款"
+  },
+  {
+    "id": 589,
+    "word": "crescere",
+    "pos": "v.intr.",
+    "meaning": "成长"
+  },
+  {
+    "id": 591,
+    "word": "crisi",
+    "pos": "s.f.",
+    "meaning": "危机"
+  },
+  {
+    "id": 593,
+    "word": "critica",
+    "pos": "s.f.",
+    "meaning": "批评"
+  },
+  {
+    "id": 595,
+    "word": "criticare",
+    "pos": "v.tr.",
+    "meaning": "批评"
+  },
+  {
+    "id": 597,
+    "word": "cronaca",
+    "pos": "s.f.",
+    "meaning": "专题新闻"
+  },
+  {
+    "id": 599,
+    "word": "cultura",
+    "pos": "s.f.",
+    "meaning": "文化"
+  },
+  {
+    "id": 601,
+    "word": "culturale",
+    "pos": "agg.",
+    "meaning": "文化的"
+  },
+  {
+    "id": 603,
+    "word": "cura",
+    "pos": "s.f.",
+    "meaning": "关心, 关照，治疗"
+  },
+  {
+    "id": 605,
+    "word": "curare",
+    "pos": "v.tr.",
+    "meaning": "关心，照顾"
+  },
+  {
+    "id": 607,
+    "word": "curiosità",
+    "pos": "s.f.",
+    "meaning": "好奇心"
+  },
+  {
+    "id": 609,
+    "word": "curioso",
+    "pos": "agg.",
+    "meaning": "好奇的"
+  },
+  {
+    "id": 611,
+    "word": "curriculum vitae",
+    "pos": "",
+    "meaning": "履历表"
+  },
+  {
+    "id": 613,
+    "word": "curva",
+    "pos": "s.f.",
+    "meaning": "弯, 转弯"
+  },
+  {
+    "id": 618,
+    "word": "d’intorno",
+    "pos": "",
+    "meaning": "在周围"
+  },
+  {
+    "id": 620,
+    "word": "danno",
+    "pos": "s.m.",
+    "meaning": "损坏，损失"
+  },
+  {
+    "id": 622,
+    "word": "dappertutto",
+    "pos": "avv.",
+    "meaning": "到处"
+  },
+  {
+    "id": 624,
+    "word": "davanti",
+    "pos": "prep./avv.",
+    "meaning": "在前面"
+  },
+  {
+    "id": 626,
+    "word": "davanti a",
+    "pos": "",
+    "meaning": "在...的前面"
+  },
+  {
+    "id": 628,
+    "word": "davanzale",
+    "pos": "s.m.",
+    "meaning": "窗台"
+  },
+  {
+    "id": 630,
+    "word": "debito",
+    "pos": "s.m.",
+    "meaning": "债务"
+  },
+  {
+    "id": 632,
+    "word": "debole",
+    "pos": "agg.",
+    "meaning": "虚弱的"
+  },
+  {
+    "id": 634,
+    "word": "decente",
+    "pos": "agg.",
+    "meaning": "体面的"
+  },
+  {
+    "id": 636,
+    "word": "decisione",
+    "pos": "s.f.",
+    "meaning": "决定"
+  },
+  {
+    "id": 638,
+    "word": "decisivo",
+    "pos": "agg.",
+    "meaning": "决定性的"
+  },
+  {
+    "id": 640,
+    "word": "deciso",
+    "pos": "agg.",
+    "meaning": "坚决的"
+  },
+  {
+    "id": 642,
+    "word": "decorare",
+    "pos": "v.tr.",
+    "meaning": "装饰"
+  },
+  {
+    "id": 644,
+    "word": "dedicare",
+    "pos": "v.tr.",
+    "meaning": "投入"
+  },
+  {
+    "id": 646,
+    "word": "delizioso",
+    "pos": "agg.",
+    "meaning": "美味的"
+  },
+  {
+    "id": 648,
+    "word": "deludere",
+    "pos": "v.tr.",
+    "meaning": "使失望"
+  },
+  {
+    "id": 650,
+    "word": "deluso",
+    "pos": "agg.",
+    "meaning": "失望的"
+  },
+  {
+    "id": 652,
+    "word": "denaro",
+    "pos": "s.m.",
+    "meaning": "钱"
+  },
+  {
+    "id": 654,
+    "word": "dentista",
+    "pos": "s.m./s.f.",
+    "meaning": "牙医"
+  },
+  {
+    "id": 656,
+    "word": "dentro",
+    "pos": "avv./prep.",
+    "meaning": "在里边"
+  },
+  {
+    "id": 658,
+    "word": "descrivere",
+    "pos": "v.tr.",
+    "meaning": "描写，描述"
+  },
+  {
+    "id": 660,
+    "word": "desiderio",
+    "pos": "s.m.",
+    "meaning": "愿望，想法"
+  },
+  {
+    "id": 662,
+    "word": "destino",
+    "pos": "s.m.",
+    "meaning": "命运"
+  },
+  {
+    "id": 664,
+    "word": "determinare",
+    "pos": "v.tr.",
+    "meaning": "决定"
+  },
+  {
+    "id": 666,
+    "word": "dettaglio",
+    "pos": "s.m.",
+    "meaning": "细节"
+  },
+  {
+    "id": 668,
+    "word": "dialetto",
+    "pos": "s.m.",
+    "meaning": "方言"
+  },
+  {
+    "id": 670,
+    "word": "diamante",
+    "pos": "s.m.",
+    "meaning": "钻石"
+  },
+  {
+    "id": 672,
+    "word": "dietro",
+    "pos": "avv./prep.",
+    "meaning": "在后边"
+  },
+  {
+    "id": 674,
+    "word": "difendere",
+    "pos": "v.tr.",
+    "meaning": "捍卫"
+  },
+  {
+    "id": 676,
+    "word": "difetto",
+    "pos": "s.m.",
+    "meaning": "缺点"
+  },
+  {
+    "id": 678,
+    "word": "differente",
+    "pos": "agg.",
+    "meaning": "不同的"
+  },
+  {
+    "id": 680,
+    "word": "differenza",
+    "pos": "s.f.",
+    "meaning": "区别"
+  },
+  {
+    "id": 682,
+    "word": "digerire",
+    "pos": "v.tr.",
+    "meaning": "消化"
+  },
+  {
+    "id": 684,
+    "word": "dimagrire",
+    "pos": "v.intr.",
+    "meaning": "变瘦"
+  },
+  {
+    "id": 686,
+    "word": "dimensione",
+    "pos": "s.f.",
+    "meaning": "规模"
+  },
+  {
+    "id": 688,
+    "word": "diminuire",
+    "pos": "v.tr./v.intr.",
+    "meaning": "减少"
+  },
+  {
+    "id": 690,
+    "word": "Dio",
+    "pos": "s.m.",
+    "meaning": "上帝"
+  },
+  {
+    "id": 692,
+    "word": "Dio buono!",
+    "pos": "",
+    "meaning": "老天爷！"
+  },
+  {
+    "id": 694,
+    "word": "dipendente",
+    "pos": "agg.",
+    "meaning": "依靠的"
+  },
+  {
+    "id": 696,
+    "word": "dipendere",
+    "pos": "v.intr.",
+    "meaning": "取决于"
+  },
+  {
+    "id": 698,
+    "word": "dipingere",
+    "pos": "v.tr.",
+    "meaning": "画"
+  },
+  {
+    "id": 700,
+    "word": "dipinto",
+    "pos": "s.m.",
+    "meaning": "画"
+  },
+  {
+    "id": 702,
+    "word": "diploma",
+    "pos": "s.m.",
+    "meaning": "文凭"
+  },
+  {
+    "id": 704,
+    "word": "diretto",
+    "pos": "agg.",
+    "meaning": "直接的"
+  },
+  {
+    "id": 706,
+    "word": "disastro",
+    "pos": "s.m.",
+    "meaning": "不幸"
+  },
+  {
+    "id": 708,
+    "word": "disco",
+    "pos": "s.m.",
+    "meaning": "唱片"
+  },
+  {
+    "id": 710,
+    "word": "discorso",
+    "pos": "s.m.",
+    "meaning": "话题，报告"
+  },
+  {
+    "id": 712,
+    "word": "discussione",
+    "pos": "s.f.",
+    "meaning": "讨论"
+  },
+  {
+    "id": 714,
+    "word": "discutere",
+    "pos": "v.tr.",
+    "meaning": "讨论"
+  },
+  {
+    "id": 716,
+    "word": "disgrazia",
+    "pos": "s.f.",
+    "meaning": "不幸"
+  },
+  {
+    "id": 718,
+    "word": "disoccupato",
+    "pos": "agg./s.m.",
+    "meaning": "失业的；失业者"
+  },
+  {
+    "id": 720,
+    "word": "disordine",
+    "pos": "s.m.",
+    "meaning": "杂乱无章，骚乱"
+  },
+  {
+    "id": 722,
+    "word": "distante",
+    "pos": "agg.",
+    "meaning": "远离的，疏远的"
+  },
+  {
+    "id": 724,
+    "word": "distanza",
+    "pos": "s.f.",
+    "meaning": "距离"
+  },
+  {
+    "id": 726,
+    "word": "distrarre",
+    "pos": "v.tr.",
+    "meaning": "使分心"
+  },
+  {
+    "id": 728,
+    "word": "distruggere",
+    "pos": "v.tr.",
+    "meaning": "破坏"
+  },
+  {
+    "id": 730,
+    "word": "dito",
+    "pos": "s.m.",
+    "meaning": "手指"
+  },
+  {
+    "id": 732,
+    "word": "diverso",
+    "pos": "agg.",
+    "meaning": "不同的"
+  },
+  {
+    "id": 734,
+    "word": "dividere",
+    "pos": "v.tr.",
+    "meaning": "分开，隔开"
+  },
+  {
+    "id": 736,
+    "word": "divisione",
+    "pos": "s.f.",
+    "meaning": "除法； 分开"
+  },
+  {
+    "id": 738,
+    "word": "diviso",
+    "pos": "agg.",
+    "meaning": "分开的"
+  },
+  {
+    "id": 740,
+    "word": "divorziare",
+    "pos": "v.intr.",
+    "meaning": "离婚"
+  },
+  {
+    "id": 742,
+    "word": "doccia",
+    "pos": "s.f.",
+    "meaning": "淋浴；淋浴间"
+  },
+  {
+    "id": 744,
+    "word": "dodici",
+    "pos": "num.ord.",
+    "meaning": "十二"
+  },
+  {
+    "id": 746,
+    "word": "dollaro",
+    "pos": "s.m.",
+    "meaning": "美元"
+  },
+  {
+    "id": 748,
+    "word": "doloroso",
+    "pos": "agg.",
+    "meaning": "痛苦的，令人伤心的"
+  },
+  {
+    "id": 750,
+    "word": "domattina",
+    "pos": "avv.",
+    "meaning": "明天早上"
+  },
+  {
+    "id": 752,
+    "word": "domestico",
+    "pos": "agg.",
+    "meaning": "家里的；国内的"
+  },
+  {
+    "id": 754,
+    "word": "doppio",
+    "pos": "agg.",
+    "meaning": "双倍的"
+  },
+  {
+    "id": 756,
+    "word": "dubbio",
+    "pos": "s.m.",
+    "meaning": "疑问"
+  },
+  {
+    "id": 758,
+    "word": "duemila",
+    "pos": "num.card.",
+    "meaning": "二千"
+  },
+  {
+    "id": 760,
+    "word": "duro",
+    "pos": "agg.",
+    "meaning": "坚硬的"
+  },
+  {
+    "id": 765,
+    "word": "eccellente",
+    "pos": "agg.",
+    "meaning": "优秀的，卓越的"
+  },
+  {
+    "id": 767,
+    "word": "eccetera",
+    "pos": "avv.",
+    "meaning": "等等"
+  },
+  {
+    "id": 769,
+    "word": "economia",
+    "pos": "s.f.",
+    "meaning": "经济"
+  },
+  {
+    "id": 771,
+    "word": "economico",
+    "pos": "agg.",
+    "meaning": "经济的"
+  },
+  {
+    "id": 773,
+    "word": "educazione",
+    "pos": "s.f.",
+    "meaning": "教育"
+  },
+  {
+    "id": 775,
+    "word": "effetto",
+    "pos": "s.m.",
+    "meaning": "效果"
+  },
+  {
+    "id": 777,
+    "word": "efficace",
+    "pos": "agg.",
+    "meaning": "有效的，灵验的"
+  },
+  {
+    "id": 779,
+    "word": "eleganza",
+    "pos": "s.f.",
+    "meaning": "高雅"
+  },
+  {
+    "id": 781,
+    "word": "eleggere",
+    "pos": "v.tr.",
+    "meaning": "选举"
+  },
+  {
+    "id": 783,
+    "word": "elemento",
+    "pos": "s.m.",
+    "meaning": "要素，成分"
+  },
+  {
+    "id": 785,
+    "word": "elevato",
+    "pos": "agg.",
+    "meaning": "升高的"
+  },
+  {
+    "id": 787,
+    "word": "elezione",
+    "pos": "s.f.",
+    "meaning": "选举"
+  },
+  {
+    "id": 789,
+    "word": "e-mail",
+    "pos": "",
+    "meaning": "（英）电子信件"
+  },
+  {
+    "id": 791,
+    "word": "emergenza",
+    "pos": "s.f.",
+    "meaning": "紧急状态"
+  },
+  {
+    "id": 793,
+    "word": "emigrazione",
+    "pos": "s.f.",
+    "meaning": "移民"
+  },
+  {
+    "id": 795,
+    "word": "energia",
+    "pos": "s.f.",
+    "meaning": "能源"
+  },
+  {
+    "id": 797,
+    "word": "enorme",
+    "pos": "agg.",
+    "meaning": "庞大的"
+  },
+  {
+    "id": 799,
+    "word": "entrambi",
+    "pos": "agg.num./pron.",
+    "meaning": "双方的，双方"
+  },
+  {
+    "id": 801,
+    "word": "entrata",
+    "pos": "s.f.",
+    "meaning": "进入；入口"
+  },
+  {
+    "id": 803,
+    "word": "entro",
+    "pos": "prep.",
+    "meaning": "在...之内"
+  },
+  {
+    "id": 805,
+    "word": "epoca",
+    "pos": "s.f.",
+    "meaning": "时代"
+  },
+  {
+    "id": 807,
+    "word": "eppure",
+    "pos": "cong.",
+    "meaning": "虽然，然而"
+  },
+  {
+    "id": 809,
+    "word": "equilibrio",
+    "pos": "s.m.",
+    "meaning": "平衡"
+  },
+  {
+    "id": 811,
+    "word": "erba",
+    "pos": "s.f.",
+    "meaning": "草"
+  },
+  {
+    "id": 813,
+    "word": "errore",
+    "pos": "s.m.",
+    "meaning": "错误"
+  },
+  {
+    "id": 815,
+    "word": "esagerare",
+    "pos": "v.tr.",
+    "meaning": "夸大"
+  },
+  {
+    "id": 817,
+    "word": "esatto",
+    "pos": "agg.",
+    "meaning": "确切的"
+  },
+  {
+    "id": 819,
+    "word": "esclusione",
+    "pos": "s.f.",
+    "meaning": "排除"
+  },
+  {
+    "id": 821,
+    "word": "escluso",
+    "pos": "agg.",
+    "meaning": "已除外的"
+  },
+  {
+    "id": 823,
+    "word": "esercitare",
+    "pos": "v.tr.",
+    "meaning": "训练"
+  },
+  {
+    "id": 825,
+    "word": "esercizio",
+    "pos": "s.m.",
+    "meaning": "练习"
+  },
+  {
+    "id": 827,
+    "word": "esistenza",
+    "pos": "s.f.",
+    "meaning": "存在"
+  },
+  {
+    "id": 829,
+    "word": "esistere",
+    "pos": "v.intr.",
+    "meaning": "存在"
+  },
+  {
+    "id": 831,
+    "word": "esitante",
+    "pos": "agg.",
+    "meaning": "犹豫的"
+  },
+  {
+    "id": 833,
+    "word": "esitazione",
+    "pos": "s.f.",
+    "meaning": "犹豫"
+  },
+  {
+    "id": 835,
+    "word": "esperienza",
+    "pos": "s.f.",
+    "meaning": "经验；经历"
+  },
+  {
+    "id": 837,
+    "word": "esperto",
+    "pos": "agg./s.m.",
+    "meaning": "内行的；专家"
+  },
+  {
+    "id": 839,
+    "word": "esportare",
+    "pos": "v.tr.",
+    "meaning": "出口"
+  },
+  {
+    "id": 841,
+    "word": "esposizione",
+    "pos": "s.f.",
+    "meaning": "展览"
+  },
+  {
+    "id": 843,
+    "word": "espressione",
+    "pos": "s.f.",
+    "meaning": "表示，表达方式"
+  },
+  {
+    "id": 845,
+    "word": "esprimere",
+    "pos": "v.tr.",
+    "meaning": "表达，表示"
+  },
+  {
+    "id": 847,
+    "word": "essenziale",
+    "pos": "agg.",
+    "meaning": "基本的，必要的"
+  },
+  {
+    "id": 849,
+    "word": "est",
+    "pos": "s.m.",
+    "meaning": "东"
+  },
+  {
+    "id": 851,
+    "word": "estero",
+    "pos": "agg./s.m.",
+    "meaning": "外国的；外国"
+  },
+  {
+    "id": 853,
+    "word": "estivo",
+    "pos": "agg.",
+    "meaning": "夏季的"
+  },
+  {
+    "id": 855,
+    "word": "estremamente",
+    "pos": "avv.",
+    "meaning": "极端地"
+  },
+  {
+    "id": 857,
+    "word": "eterno",
+    "pos": "agg.",
+    "meaning": "永久的"
+  },
+  {
+    "id": 859,
+    "word": "europeo",
+    "pos": "agg./s.m.",
+    "meaning": "欧洲的；欧洲人"
+  },
+  {
+    "id": 861,
+    "word": "evento",
+    "pos": "s.m.",
+    "meaning": "事件"
+  },
+  {
+    "id": 863,
+    "word": "evidente",
+    "pos": "agg.",
+    "meaning": "明显的"
+  },
+  {
+    "id": 865,
+    "word": "evitare",
+    "pos": "v.tr.",
+    "meaning": "避免"
+  },
+  {
+    "id": 870,
+    "word": "faccenda",
+    "pos": "s.f.",
+    "meaning": "事情"
+  },
+  {
+    "id": 872,
+    "word": "facchino",
+    "pos": "s.m.",
+    "meaning": "搬运工"
+  },
+  {
+    "id": 874,
+    "word": "faccia",
+    "pos": "s.f.",
+    "meaning": "脸"
+  },
+  {
+    "id": 876,
+    "word": "facilità",
+    "pos": "s.f.",
+    "meaning": "容易"
+  },
+  {
+    "id": 878,
+    "word": "fallire",
+    "pos": "v.intr.",
+    "meaning": "失败"
+  },
+  {
+    "id": 880,
+    "word": "falso",
+    "pos": "agg.",
+    "meaning": "假的"
+  },
+  {
+    "id": 882,
+    "word": "fama",
+    "pos": "s.f.",
+    "meaning": "名胜"
+  },
+  {
+    "id": 884,
+    "word": "fantasia",
+    "pos": "s.f.",
+    "meaning": "现象力"
+  },
+  {
+    "id": 886,
+    "word": "fare finta di",
+    "pos": "",
+    "meaning": "假装"
+  },
+  {
+    "id": 888,
+    "word": "fare in tempo",
+    "pos": "",
+    "meaning": "来得及"
+  },
+  {
+    "id": 890,
+    "word": "fare la coda",
+    "pos": "",
+    "meaning": "排队"
+  },
+  {
+    "id": 892,
+    "word": "farina",
+    "pos": "s.f.",
+    "meaning": "面粉"
+  },
+  {
+    "id": 894,
+    "word": "farmacia",
+    "pos": "s.f.",
+    "meaning": "药店"
+  },
+  {
+    "id": 896,
+    "word": "fatica",
+    "pos": "s.f.",
+    "meaning": "劳累"
+  },
+  {
+    "id": 898,
+    "word": "faticoso",
+    "pos": "agg.",
+    "meaning": "劳累的"
+  },
+  {
+    "id": 900,
+    "word": "fatto",
+    "pos": "s.m.",
+    "meaning": "事情，事宜"
+  },
+  {
+    "id": 902,
+    "word": "fattore",
+    "pos": "s.m.",
+    "meaning": "因素"
+  },
+  {
+    "id": 904,
+    "word": "favore",
+    "pos": "s.m.",
+    "meaning": "照顾，帮助"
+  },
+  {
+    "id": 906,
+    "word": "favorire",
+    "pos": "v.tr.",
+    "meaning": "对...有利"
+  },
+  {
+    "id": 908,
+    "word": "fede",
+    "pos": "s.f.",
+    "meaning": "忠诚；结婚戒指"
+  },
+  {
+    "id": 910,
+    "word": "felicità",
+    "pos": "s.f.",
+    "meaning": "幸福"
+  },
+  {
+    "id": 912,
+    "word": "fenomeno",
+    "pos": "s.m.",
+    "meaning": "现象"
+  },
+  {
+    "id": 914,
+    "word": "ferita",
+    "pos": "s.f.",
+    "meaning": "伤口"
+  },
+  {
+    "id": 916,
+    "word": "ferro",
+    "pos": "s.m.",
+    "meaning": "铁"
+  },
+  {
+    "id": 918,
+    "word": "ferroviaria",
+    "pos": "s.f.",
+    "meaning": "铁路"
+  },
+  {
+    "id": 920,
+    "word": "festeggiare",
+    "pos": "v.tr.",
+    "meaning": "庆祝"
+  },
+  {
+    "id": 922,
+    "word": "fiato",
+    "pos": "s.m.",
+    "meaning": "喘气"
+  },
+  {
+    "id": 924,
+    "word": "fidanzata",
+    "pos": "s.f.",
+    "meaning": "未婚妻"
+  },
+  {
+    "id": 926,
+    "word": "fiducia",
+    "pos": "s.f.",
+    "meaning": "信心"
+  },
+  {
+    "id": 928,
+    "word": "figura",
+    "pos": "s.f.",
+    "meaning": "轮廓；形象"
+  },
+  {
+    "id": 930,
+    "word": "fila",
+    "pos": "s.f.",
+    "meaning": "队"
+  },
+  {
+    "id": 932,
+    "word": "filo",
+    "pos": "s.m.",
+    "meaning": "线"
+  },
+  {
+    "id": 934,
+    "word": "finalmente",
+    "pos": "abb.",
+    "meaning": "终于"
+  },
+  {
+    "id": 936,
+    "word": "finalmente",
+    "pos": "avv.",
+    "meaning": "终于"
+  },
+  {
+    "id": 938,
+    "word": "finché",
+    "pos": "cong.",
+    "meaning": "直到...时"
+  },
+  {
+    "id": 940,
+    "word": "finora",
+    "pos": "avv.",
+    "meaning": "至今"
+  },
+  {
+    "id": 942,
+    "word": "fiorire",
+    "pos": "v。intr.",
+    "meaning": "繁荣，发达"
+  },
+  {
+    "id": 944,
+    "word": "firma",
+    "pos": "s.f.",
+    "meaning": "签名，签署"
+  },
+  {
+    "id": 946,
+    "word": "firmare",
+    "pos": "v.tr.",
+    "meaning": "签字"
+  },
+  {
+    "id": 948,
+    "word": "fisico",
+    "pos": "agg.",
+    "meaning": "体力的；物理的"
+  },
+  {
+    "id": 950,
+    "word": "fissare",
+    "pos": "v.tr.",
+    "meaning": "固定，确定"
+  },
+  {
+    "id": 952,
+    "word": "fisso",
+    "pos": "agg.",
+    "meaning": "固定的"
+  },
+  {
+    "id": 954,
+    "word": "fiume",
+    "pos": "s.m.",
+    "meaning": "河"
+  },
+  {
+    "id": 956,
+    "word": "foglia",
+    "pos": "s.f.",
+    "meaning": "树叶"
+  },
+  {
+    "id": 958,
+    "word": "foglio",
+    "pos": "s.m.",
+    "meaning": "一张（纸）"
+  },
+  {
+    "id": 960,
+    "word": "folla",
+    "pos": "s.f.",
+    "meaning": "人群"
+  },
+  {
+    "id": 962,
+    "word": "fondare",
+    "pos": "v.tr.",
+    "meaning": "建立"
+  },
+  {
+    "id": 964,
+    "word": "forbice",
+    "pos": "s.f.",
+    "meaning": "剪刀"
+  },
+  {
+    "id": 966,
+    "word": "forchetta",
+    "pos": "s.f.",
+    "meaning": "叉"
+  },
+  {
+    "id": 968,
+    "word": "foresta",
+    "pos": "s.f.",
+    "meaning": "树林"
+  },
+  {
+    "id": 970,
+    "word": "forma",
+    "pos": "s.f.",
+    "meaning": "形式"
+  },
+  {
+    "id": 972,
+    "word": "formaggio",
+    "pos": "s.m.",
+    "meaning": "奶酪"
+  },
+  {
+    "id": 974,
+    "word": "formare",
+    "pos": "v.tr.",
+    "meaning": "形成，组成"
+  },
+  {
+    "id": 976,
+    "word": "fortunatamente",
+    "pos": "avv.",
+    "meaning": "幸运地"
+  },
+  {
+    "id": 978,
+    "word": "fortunato",
+    "pos": "agg.",
+    "meaning": "幸运的"
+  },
+  {
+    "id": 980,
+    "word": "forza",
+    "pos": "s.f.",
+    "meaning": "力量"
+  },
+  {
+    "id": 982,
+    "word": "fotocopia",
+    "pos": "s.f.",
+    "meaning": "复印件"
+  },
+  {
+    "id": 984,
+    "word": "fotografia",
+    "pos": "s.f.",
+    "meaning": "相片"
+  },
+  {
+    "id": 986,
+    "word": "fragola",
+    "pos": "s.f.",
+    "meaning": "草莓"
+  },
+  {
+    "id": 988,
+    "word": "francamente",
+    "pos": "avv.",
+    "meaning": "老实说"
+  },
+  {
+    "id": 990,
+    "word": "frase",
+    "pos": "s.f.",
+    "meaning": "句子"
+  },
+  {
+    "id": 992,
+    "word": "frequentare",
+    "pos": "v.tr.",
+    "meaning": "往返于；与...交往"
+  },
+  {
+    "id": 994,
+    "word": "fresco",
+    "pos": "agg.",
+    "meaning": "新鲜的，凉爽的"
+  },
+  {
+    "id": 996,
+    "word": "frigo",
+    "pos": "s.m.",
+    "meaning": "冰箱"
+  },
+  {
+    "id": 998,
+    "word": "fronte",
+    "pos": "s.f.",
+    "meaning": "前额；前面"
+  },
+  {
+    "id": 1000,
+    "word": "frutto",
+    "pos": "s.m.",
+    "meaning": "产物"
+  },
+  {
+    "id": 1002,
+    "word": "frutti di mare",
+    "pos": "",
+    "meaning": "海鲜"
+  },
+  {
+    "id": 1004,
+    "word": "fuga",
+    "pos": "s.f.",
+    "meaning": "逃走"
+  },
+  {
+    "id": 1006,
+    "word": "fuggire",
+    "pos": "v.intr.",
+    "meaning": "逃脱"
+  },
+  {
+    "id": 1008,
+    "word": "fumare",
+    "pos": "v.tr.",
+    "meaning": "吸烟"
+  },
+  {
+    "id": 1010,
+    "word": "fumo",
+    "pos": "s.m.",
+    "meaning": "烟"
+  },
+  {
+    "id": 1012,
+    "word": "fungo",
+    "pos": "s.m.",
+    "meaning": "蘑菇"
+  },
+  {
+    "id": 1014,
+    "word": "funzione",
+    "pos": "s.f.",
+    "meaning": "作用"
+  },
+  {
+    "id": 1016,
+    "word": "fuoco",
+    "pos": "s.m.",
+    "meaning": "火"
+  },
+  {
+    "id": 1018,
+    "word": "furbo",
+    "pos": "agg.",
+    "meaning": "狡猾的，机灵的"
+  },
+  {
+    "id": 1020,
+    "word": "futuro",
+    "pos": "agg./s.m.",
+    "meaning": "将来的；未来"
+  },
+  {
+    "id": 1025,
+    "word": "galleria",
+    "pos": "s.f.",
+    "meaning": "画廊"
+  },
+  {
+    "id": 1027,
+    "word": "gas",
+    "pos": "s.m.",
+    "meaning": "煤气"
+  },
+  {
+    "id": 1029,
+    "word": "gatto",
+    "pos": "s.m.",
+    "meaning": "猫"
+  },
+  {
+    "id": 1031,
+    "word": "gelateria",
+    "pos": "s.f.",
+    "meaning": "冰淇淋店"
+  },
+  {
+    "id": 1033,
+    "word": "gelato",
+    "pos": "agg./s.m.",
+    "meaning": "冰冷的；冰激凌"
+  },
+  {
+    "id": 1035,
+    "word": "gelosia",
+    "pos": "s.f.",
+    "meaning": "嫉妒"
+  },
+  {
+    "id": 1037,
+    "word": "geloso",
+    "pos": "agg.",
+    "meaning": "妒忌的"
+  },
+  {
+    "id": 1039,
+    "word": "gemello",
+    "pos": "s.m.",
+    "meaning": "双胞胎"
+  },
+  {
+    "id": 1041,
+    "word": "generazione",
+    "pos": "s.f.",
+    "meaning": "一代人"
+  },
+  {
+    "id": 1043,
+    "word": "genere",
+    "pos": "s.m.",
+    "meaning": "种类"
+  },
+  {
+    "id": 1045,
+    "word": "generoso",
+    "pos": "agg.",
+    "meaning": "慷慨的"
+  },
+  {
+    "id": 1047,
+    "word": "geniale",
+    "pos": "agg.",
+    "meaning": "天才的"
+  },
+  {
+    "id": 1049,
+    "word": "genio",
+    "pos": "s.m.",
+    "meaning": "天才"
+  },
+  {
+    "id": 1051,
+    "word": "genuino",
+    "pos": "agg.",
+    "meaning": "纯正的，天真无邪的"
+  },
+  {
+    "id": 1053,
+    "word": "gestire",
+    "pos": "v.tr.",
+    "meaning": "管理，经营"
+  },
+  {
+    "id": 1055,
+    "word": "gesto",
+    "pos": "s.m.",
+    "meaning": "动作，手势"
+  },
+  {
+    "id": 1057,
+    "word": "gettare",
+    "pos": "v.tr.",
+    "meaning": "投，掷"
+  },
+  {
+    "id": 1059,
+    "word": "getto",
+    "pos": "s.m.",
+    "meaning": "扔"
+  },
+  {
+    "id": 1061,
+    "word": "getto del peso",
+    "pos": "",
+    "meaning": "掷铅球"
+  },
+  {
+    "id": 1063,
+    "word": "ghiaccio",
+    "pos": "s.m.",
+    "meaning": "冰"
+  },
+  {
+    "id": 1065,
+    "word": "già",
+    "pos": "avv.",
+    "meaning": "已经"
+  },
+  {
+    "id": 1067,
+    "word": "ginocchio",
+    "pos": "s.m.",
+    "meaning": "膝盖"
+  },
+  {
+    "id": 1069,
+    "word": "giocatore",
+    "pos": "s.m.",
+    "meaning": "运动员"
+  },
+  {
+    "id": 1071,
+    "word": "gioco",
+    "pos": "s.m.",
+    "meaning": "游戏"
+  },
+  {
+    "id": 1073,
+    "word": "gioia",
+    "pos": "s.f.",
+    "meaning": "高兴"
+  },
+  {
+    "id": 1075,
+    "word": "gioiello",
+    "pos": "s.m.",
+    "meaning": "珠宝，首饰"
+  },
+  {
+    "id": 1077,
+    "word": "gioventù",
+    "pos": "s.f.",
+    "meaning": "青春"
+  },
+  {
+    "id": 1079,
+    "word": "giù",
+    "pos": "avv.",
+    "meaning": "在下边"
+  },
+  {
+    "id": 1081,
+    "word": "giudicare",
+    "pos": "v.tr.",
+    "meaning": "评价，审判"
+  },
+  {
+    "id": 1083,
+    "word": "giusto",
+    "pos": "agg.",
+    "meaning": "公正的，正确的"
+  },
+  {
+    "id": 1085,
+    "word": "gloria",
+    "pos": "s.f.",
+    "meaning": "光荣，荣耀"
+  },
+  {
+    "id": 1087,
+    "word": "godere",
+    "pos": "v.intr./v.tr.",
+    "meaning": "享受"
+  },
+  {
+    "id": 1089,
+    "word": "gradino",
+    "pos": "s.m.",
+    "meaning": "台阶"
+  },
+  {
+    "id": 1091,
+    "word": "grammo",
+    "pos": "s.m.",
+    "meaning": "克"
+  },
+  {
+    "id": 1093,
+    "word": "grandioso",
+    "pos": "agg.",
+    "meaning": "壮观的"
+  },
+  {
+    "id": 1095,
+    "word": "grano",
+    "pos": "s.m.",
+    "meaning": "小麦"
+  },
+  {
+    "id": 1097,
+    "word": "grasso",
+    "pos": "agg.",
+    "meaning": "胖的"
+  },
+  {
+    "id": 1099,
+    "word": "gratis",
+    "pos": "avv.",
+    "meaning": "免费地"
+  },
+  {
+    "id": 1101,
+    "word": "greco",
+    "pos": "agg./s.m.",
+    "meaning": "希腊的；希腊人；希腊语"
+  },
+  {
+    "id": 1103,
+    "word": "grosso",
+    "pos": "agg.",
+    "meaning": "粗大的"
+  },
+  {
+    "id": 1105,
+    "word": "gruppo",
+    "pos": "s.m.",
+    "meaning": "小组，集团"
+  },
+  {
+    "id": 1107,
+    "word": "guadagnare",
+    "pos": "v.tr.",
+    "meaning": "挣钱"
+  },
+  {
+    "id": 1109,
+    "word": "guanto",
+    "pos": "s.m.",
+    "meaning": "手套"
+  },
+  {
+    "id": 1111,
+    "word": "guardia",
+    "pos": "s.f.",
+    "meaning": "看管者，看守人"
+  },
+  {
+    "id": 1113,
+    "word": "guarire",
+    "pos": "v.tr./v.intr.",
+    "meaning": "治愈；痊愈"
+  },
+  {
+    "id": 1115,
+    "word": "guerra",
+    "pos": "s.f.",
+    "meaning": "战争"
+  },
+  {
+    "id": 1117,
+    "word": "gusto",
+    "pos": "s.m.",
+    "meaning": "味道"
+  },
+  {
+    "id": 1119,
+    "word": "gustoso",
+    "pos": "agg.",
+    "meaning": "可口的"
+  },
+  {
+    "id": 1124,
+    "word": "idea",
+    "pos": "s.f.",
+    "meaning": "理想；主意"
+  },
+  {
+    "id": 1126,
+    "word": "ideale",
+    "pos": "agg./s.m.",
+    "meaning": "理想的；理想"
+  },
+  {
+    "id": 1128,
+    "word": "ignoranza",
+    "pos": "s.f.",
+    "meaning": "无知"
+  },
+  {
+    "id": 1130,
+    "word": "illegale",
+    "pos": "agg.",
+    "meaning": "违法的"
+  },
+  {
+    "id": 1132,
+    "word": "imbarazzato",
+    "pos": "agg.",
+    "meaning": "尴尬的"
+  },
+  {
+    "id": 1134,
+    "word": "imbarco",
+    "pos": "s.m.",
+    "meaning": "上船，登机"
+  },
+  {
+    "id": 1135,
+    "word": "imbroglione",
+    "pos": "s.m.",
+    "meaning": "骗子"
+  },
+  {
+    "id": 1137,
+    "word": "immaginare",
+    "pos": "v.tr.",
+    "meaning": "想象"
+  },
+  {
+    "id": 1139,
+    "word": "immediato",
+    "pos": "agg.",
+    "meaning": "迅速的"
+  },
+  {
+    "id": 1141,
+    "word": "immenso",
+    "pos": "agg.",
+    "meaning": "无边的，广阔的"
+  },
+  {
+    "id": 1143,
+    "word": "immigrato",
+    "pos": "s.m.",
+    "meaning": "移民"
+  },
+  {
+    "id": 1145,
+    "word": "immobile",
+    "pos": "agg.",
+    "meaning": "不动的"
+  },
+  {
+    "id": 1147,
+    "word": "immprovviso",
+    "pos": "agg.",
+    "meaning": "突然的"
+  },
+  {
+    "id": 1149,
+    "word": "impacace",
+    "pos": "agg.",
+    "meaning": "无能力的"
+  },
+  {
+    "id": 1151,
+    "word": "impedire",
+    "pos": "v.tr.",
+    "meaning": "阻止"
+  },
+  {
+    "id": 1153,
+    "word": "imperfetto",
+    "pos": "agg.",
+    "meaning": "不完美的"
+  },
+  {
+    "id": 1155,
+    "word": "impermeabile",
+    "pos": "agg./s.m.",
+    "meaning": "不透水的；雨衣"
+  },
+  {
+    "id": 1157,
+    "word": "impero",
+    "pos": "s.m.",
+    "meaning": "帝国"
+  },
+  {
+    "id": 1159,
+    "word": "importanza",
+    "pos": "s.f.",
+    "meaning": "重要性"
+  },
+  {
+    "id": 1161,
+    "word": "importare",
+    "pos": "v.tr.",
+    "meaning": "进口"
+  },
+  {
+    "id": 1163,
+    "word": "impossibile",
+    "pos": "agg.",
+    "meaning": "不可能的"
+  },
+  {
+    "id": 1165,
+    "word": "impresa",
+    "pos": "s.f.",
+    "meaning": "事业，企业"
+  },
+  {
+    "id": 1167,
+    "word": "impressione",
+    "pos": "s.f.",
+    "meaning": "印象"
+  },
+  {
+    "id": 1169,
+    "word": "improvviso",
+    "pos": "agg.",
+    "meaning": "突然的"
+  },
+  {
+    "id": 1171,
+    "word": "incaricare",
+    "pos": "v.tr.",
+    "meaning": "委派，委托"
+  },
+  {
+    "id": 1173,
+    "word": "incinta",
+    "pos": "agg.",
+    "meaning": "怀孕的"
+  },
+  {
+    "id": 1175,
+    "word": "incontro",
+    "pos": "s.m.",
+    "meaning": "会见，碰见"
+  },
+  {
+    "id": 1177,
+    "word": "incredibile",
+    "pos": "agg.",
+    "meaning": "令人难以置信的"
+  },
+  {
+    "id": 1179,
+    "word": "incubo",
+    "pos": "s.m.",
+    "meaning": "噩梦"
+  },
+  {
+    "id": 1181,
+    "word": "indagine",
+    "pos": "s.f.",
+    "meaning": "调查"
+  },
+  {
+    "id": 1183,
+    "word": "indicazione",
+    "pos": "s.f.",
+    "meaning": "指明，说明"
+  },
+  {
+    "id": 1185,
+    "word": "indifferente",
+    "pos": "agg.",
+    "meaning": "麻木不仁的"
+  },
+  {
+    "id": 1187,
+    "word": "indipendente",
+    "pos": "agg.",
+    "meaning": "独立的"
+  },
+  {
+    "id": 1189,
+    "word": "indipendenza",
+    "pos": "s.f.",
+    "meaning": "独立"
+  },
+  {
+    "id": 1191,
+    "word": "indiretto",
+    "pos": "agg.",
+    "meaning": "间接的"
+  },
+  {
+    "id": 1193,
+    "word": "indossare",
+    "pos": "v.tr.",
+    "meaning": "穿戴"
+  },
+  {
+    "id": 1195,
+    "word": "industria",
+    "pos": "s.f.",
+    "meaning": "工业"
+  },
+  {
+    "id": 1197,
+    "word": "industriale",
+    "pos": "agg.",
+    "meaning": "工业的"
+  },
+  {
+    "id": 1199,
+    "word": "infanzia",
+    "pos": "s.f.",
+    "meaning": "童年"
+  },
+  {
+    "id": 1201,
+    "word": "inferiore",
+    "pos": "agg.",
+    "meaning": "较低的"
+  },
+  {
+    "id": 1203,
+    "word": "influenza",
+    "pos": "s.f.",
+    "meaning": "影响；流感"
+  },
+  {
+    "id": 1205,
+    "word": "informale",
+    "pos": "agg.",
+    "meaning": "非正式的"
+  },
+  {
+    "id": 1207,
+    "word": "ingegnere",
+    "pos": "s.m.",
+    "meaning": "工程师"
+  },
+  {
+    "id": 1209,
+    "word": "ingrassare",
+    "pos": "v.intr.",
+    "meaning": "增肥"
+  },
+  {
+    "id": 1211,
+    "word": "iniziare",
+    "pos": "v.tr./v.intr.",
+    "meaning": "开始"
+  },
+  {
+    "id": 1213,
+    "word": "inizio",
+    "pos": "s.m.",
+    "meaning": "起点"
+  },
+  {
+    "id": 1215,
+    "word": "innamorarsi",
+    "pos": "v.rifl.",
+    "meaning": "恋爱"
+  },
+  {
+    "id": 1217,
+    "word": "innamorato cotto di",
+    "pos": "",
+    "meaning": "热恋的"
+  },
+  {
+    "id": 1219,
+    "word": "innocente",
+    "pos": "agg.",
+    "meaning": "无辜的"
+  },
+  {
+    "id": 1221,
+    "word": "inoltre",
+    "pos": "avv.",
+    "meaning": "另外"
+  },
+  {
+    "id": 1223,
+    "word": "inquinamento",
+    "pos": "s.m.",
+    "meaning": "污染"
+  },
+  {
+    "id": 1225,
+    "word": "insalata",
+    "pos": "s.f.",
+    "meaning": "蔬菜沙拉"
+  },
+  {
+    "id": 1227,
+    "word": "inserire",
+    "pos": "v.tr.",
+    "meaning": "插入，放入"
+  },
+  {
+    "id": 1229,
+    "word": "insistere",
+    "pos": "v.intr.",
+    "meaning": "坚持"
+  },
+  {
+    "id": 1231,
+    "word": "insoddisfatto",
+    "pos": "agg.",
+    "meaning": "不满意的"
+  },
+  {
+    "id": 1233,
+    "word": "insomma",
+    "pos": "avv.",
+    "meaning": "总而言之"
+  },
+  {
+    "id": 1235,
+    "word": "instabile",
+    "pos": "agg.",
+    "meaning": "不稳定的"
+  },
+  {
+    "id": 1237,
+    "word": "insufficienza",
+    "pos": "s.f.",
+    "meaning": "不足，不够"
+  },
+  {
+    "id": 1239,
+    "word": "intelligenza",
+    "pos": "s.f.",
+    "meaning": "智力，聪明"
+  },
+  {
+    "id": 1241,
+    "word": "intensivo",
+    "pos": "agg.",
+    "meaning": "强化的"
+  },
+  {
+    "id": 1243,
+    "word": "intenso",
+    "pos": "agg.",
+    "meaning": "紧张的"
+  },
+  {
+    "id": 1245,
+    "word": "intenzione",
+    "pos": "s.f.",
+    "meaning": "意图"
+  },
+  {
+    "id": 1247,
+    "word": "interesse",
+    "pos": "s.m.",
+    "meaning": "兴趣；利益；利息"
+  },
+  {
+    "id": 1249,
+    "word": "intero",
+    "pos": "agg.",
+    "meaning": "整个的"
+  },
+  {
+    "id": 1251,
+    "word": "interprete",
+    "pos": "s.m./s.f.",
+    "meaning": "口译译员"
+  },
+  {
+    "id": 1253,
+    "word": "interrompere",
+    "pos": "v.tr.",
+    "meaning": "使停止，使中断"
+  },
+  {
+    "id": 1255,
+    "word": "intervenire",
+    "pos": "v.intr.",
+    "meaning": "干预"
+  },
+  {
+    "id": 1257,
+    "word": "intervista",
+    "pos": "s.f.",
+    "meaning": "采访"
+  },
+  {
+    "id": 1259,
+    "word": "inutile",
+    "pos": "agg.",
+    "meaning": "无用的"
+  },
+  {
+    "id": 1261,
+    "word": "inventare",
+    "pos": "v.tr.",
+    "meaning": "发明"
+  },
+  {
+    "id": 1263,
+    "word": "invernale",
+    "pos": "agg.",
+    "meaning": "冬天的"
+  },
+  {
+    "id": 1265,
+    "word": "investire",
+    "pos": "v.tr.",
+    "meaning": "投资"
+  },
+  {
+    "id": 1267,
+    "word": "irreale",
+    "pos": "agg.",
+    "meaning": "不现实的，不实际的"
+  },
+  {
+    "id": 1269,
+    "word": "iscriversi",
+    "pos": "v.rifl.",
+    "meaning": "注册"
+  },
+  {
+    "id": 1271,
+    "word": "isola",
+    "pos": "s.f.",
+    "meaning": "岛"
+  },
+  {
+    "id": 1273,
+    "word": "istante",
+    "pos": "s.m.",
+    "meaning": "片刻，即刻"
+  },
+  {
+    "id": 1275,
+    "word": "istruzione",
+    "pos": "s.f.",
+    "meaning": "教育"
+  },
+  {
+    "id": 1280,
+    "word": "la Grande Muraglia",
+    "pos": "",
+    "meaning": "长城"
+  },
+  {
+    "id": 1282,
+    "word": "La Traviata",
+    "pos": "s.f.",
+    "meaning": "茶花女"
+  },
+  {
+    "id": 1284,
+    "word": "labbro",
+    "pos": "s.m.",
+    "meaning": "嘴唇"
+  },
+  {
+    "id": 1286,
+    "word": "lacrima",
+    "pos": "s.f.",
+    "meaning": "泪"
+  },
+  {
+    "id": 1288,
+    "word": "lago",
+    "pos": "s.m.",
+    "meaning": "湖"
+  },
+  {
+    "id": 1290,
+    "word": "lamentarsi",
+    "pos": "v.rifl.",
+    "meaning": "抱怨"
+  },
+  {
+    "id": 1292,
+    "word": "lamento",
+    "pos": "s.m.",
+    "meaning": "抱怨"
+  },
+  {
+    "id": 1294,
+    "word": "laterale",
+    "pos": "agg.",
+    "meaning": "旁边的，侧面的"
+  },
+  {
+    "id": 1296,
+    "word": "lato",
+    "pos": "s.m.",
+    "meaning": "侧，边"
+  },
+  {
+    "id": 1298,
+    "word": "laureato",
+    "pos": "s.m.",
+    "meaning": "大学毕业生"
+  },
+  {
+    "id": 1300,
+    "word": "lavabo",
+    "pos": "s.m.",
+    "meaning": "洗手池"
+  },
+  {
+    "id": 1302,
+    "word": "lavagna",
+    "pos": "s.f.",
+    "meaning": "黑板"
+  },
+  {
+    "id": 1304,
+    "word": "lavatrice",
+    "pos": "s.f.",
+    "meaning": "洗衣机"
+  },
+  {
+    "id": 1306,
+    "word": "legale",
+    "pos": "agg.",
+    "meaning": "合法的"
+  },
+  {
+    "id": 1308,
+    "word": "legare",
+    "pos": "v.tr.",
+    "meaning": "捆绑"
+  },
+  {
+    "id": 1310,
+    "word": "legge",
+    "pos": "s.f.",
+    "meaning": "法律"
+  },
+  {
+    "id": 1312,
+    "word": "leggero",
+    "pos": "agg.",
+    "meaning": "轻的"
+  },
+  {
+    "id": 1314,
+    "word": "legno",
+    "pos": "s.m.",
+    "meaning": "木头"
+  },
+  {
+    "id": 1316,
+    "word": "lente",
+    "pos": "s.f.",
+    "meaning": "镜片"
+  },
+  {
+    "id": 1318,
+    "word": "lente a contatto",
+    "pos": "",
+    "meaning": "隐形眼镜"
+  },
+  {
+    "id": 1320,
+    "word": "lento",
+    "pos": "agg.",
+    "meaning": "缓慢的"
+  },
+  {
+    "id": 1322,
+    "word": "leone",
+    "pos": "s.m.",
+    "meaning": "狮子"
+  },
+  {
+    "id": 1324,
+    "word": "letterario",
+    "pos": "agg.",
+    "meaning": "文学的"
+  },
+  {
+    "id": 1326,
+    "word": "letteratura",
+    "pos": "s.f.",
+    "meaning": "文学"
+  },
+  {
+    "id": 1328,
+    "word": "letteratura",
+    "pos": "s.f.",
+    "meaning": "文学"
+  },
+  {
+    "id": 1330,
+    "word": "letto",
+    "pos": "s.m.",
+    "meaning": "床"
+  },
+  {
+    "id": 1332,
+    "word": "lettore",
+    "pos": "s.m.",
+    "meaning": "读者"
+  },
+  {
+    "id": 1334,
+    "word": "lì",
+    "pos": "avv.",
+    "meaning": "在那里"
+  },
+  {
+    "id": 1336,
+    "word": "liberazione",
+    "pos": "s.f.",
+    "meaning": "解放"
+  },
+  {
+    "id": 1338,
+    "word": "libertà",
+    "pos": "s.f.",
+    "meaning": "自由"
+  },
+  {
+    "id": 1340,
+    "word": "licenziare",
+    "pos": "v.tr.",
+    "meaning": "解雇"
+  },
+  {
+    "id": 1342,
+    "word": "liceo",
+    "pos": "s.m.",
+    "meaning": "高中"
+  },
+  {
+    "id": 1344,
+    "word": "limitare",
+    "pos": "v.tr.",
+    "meaning": "限制"
+  },
+  {
+    "id": 1346,
+    "word": "limitazione",
+    "pos": "s.f.",
+    "meaning": "限制"
+  },
+  {
+    "id": 1348,
+    "word": "limite",
+    "pos": "s.m.",
+    "meaning": "范围，界线"
+  },
+  {
+    "id": 1350,
+    "word": "limite",
+    "pos": "s.m.",
+    "meaning": "限度"
+  },
+  {
+    "id": 1352,
+    "word": "limonata",
+    "pos": "s.f.",
+    "meaning": "柠檬水"
+  },
+  {
+    "id": 1354,
+    "word": "limpido",
+    "pos": "agg.",
+    "meaning": "清澈的"
+  },
+  {
+    "id": 1356,
+    "word": "linea",
+    "pos": "s.f.",
+    "meaning": "线条；外形"
+  },
+  {
+    "id": 1358,
+    "word": "liquore",
+    "pos": "s.m.",
+    "meaning": "烈性酒"
+  },
+  {
+    "id": 1360,
+    "word": "liscio",
+    "pos": "agg.",
+    "meaning": "光滑的"
+  },
+  {
+    "id": 1362,
+    "word": "lista",
+    "pos": "s.f.",
+    "meaning": "名单，列单"
+  },
+  {
+    "id": 1364,
+    "word": "litigare",
+    "pos": "v.intr.",
+    "meaning": "吵架"
+  },
+  {
+    "id": 1366,
+    "word": "litro",
+    "pos": "s.m.",
+    "meaning": "升"
+  },
+  {
+    "id": 1368,
+    "word": "livello",
+    "pos": "s.m.",
+    "meaning": "水平"
+  },
+  {
+    "id": 1370,
+    "word": "locale",
+    "pos": "agg.",
+    "meaning": "地方的"
+  },
+  {
+    "id": 1372,
+    "word": "lodare",
+    "pos": "v.tr.",
+    "meaning": "表扬，赞扬"
+  },
+  {
+    "id": 1374,
+    "word": "Londra",
+    "pos": "s.f.",
+    "meaning": "伦敦"
+  },
+  {
+    "id": 1376,
+    "word": "lotta",
+    "pos": "s.f.",
+    "meaning": "斗争"
+  },
+  {
+    "id": 1378,
+    "word": "lotteria",
+    "pos": "s.f.",
+    "meaning": "彩票"
+  },
+  {
+    "id": 1380,
+    "word": "luce",
+    "pos": "s.f.",
+    "meaning": "光线"
+  },
+  {
+    "id": 1382,
+    "word": "lui",
+    "pos": "pron.",
+    "meaning": "他"
+  },
+  {
+    "id": 1384,
+    "word": "luminoso",
+    "pos": "agg.",
+    "meaning": "光亮的"
+  },
+  {
+    "id": 1386,
+    "word": "luna",
+    "pos": "s.f.",
+    "meaning": "月亮"
+  },
+  {
+    "id": 1388,
+    "word": "lunghezza",
+    "pos": "s.f.",
+    "meaning": "长度"
+  },
+  {
+    "id": 1390,
+    "word": "lussuoso",
+    "pos": "agg.",
+    "meaning": "豪华奢侈的"
+  },
+  {
+    "id": 1395,
+    "word": "maccheroni",
+    "pos": "s.m.pl.",
+    "meaning": "通心粉"
+  },
+  {
+    "id": 1397,
+    "word": "macchia",
+    "pos": "s.f.",
+    "meaning": "污点"
+  },
+  {
+    "id": 1399,
+    "word": "magari",
+    "pos": "avv.",
+    "meaning": "可能"
+  },
+  {
+    "id": 1401,
+    "word": "magazzino",
+    "pos": "s.m.",
+    "meaning": "仓库；大商场"
+  },
+  {
+    "id": 1403,
+    "word": "magico",
+    "pos": "agg.",
+    "meaning": "魔术的"
+  },
+  {
+    "id": 1405,
+    "word": "maglia",
+    "pos": "s.f.",
+    "meaning": "毛衣"
+  },
+  {
+    "id": 1407,
+    "word": "magnetico",
+    "pos": "agg.",
+    "meaning": "有磁性的"
+  },
+  {
+    "id": 1409,
+    "word": "magnifico",
+    "pos": "agg.",
+    "meaning": "极好的，极美的"
+  },
+  {
+    "id": 1411,
+    "word": "magro",
+    "pos": "agg.",
+    "meaning": "瘦的"
+  },
+  {
+    "id": 1413,
+    "word": "mamateria",
+    "pos": "s.f.",
+    "meaning": "材料；物质"
+  },
+  {
+    "id": 1415,
+    "word": "Mamma mia!",
+    "pos": "",
+    "meaning": "我的天啊！"
+  },
+  {
+    "id": 1417,
+    "word": "mancanza",
+    "pos": "s.f.",
+    "meaning": "缺少"
+  },
+  {
+    "id": 1419,
+    "word": "manica",
+    "pos": "s.f.",
+    "meaning": "袖子"
+  },
+  {
+    "id": 1421,
+    "word": "manzo",
+    "pos": "s.m.",
+    "meaning": "牛肉"
+  },
+  {
+    "id": 1423,
+    "word": "mappa",
+    "pos": "s.f.",
+    "meaning": "地图"
+  },
+  {
+    "id": 1425,
+    "word": "marca",
+    "pos": "s.f.",
+    "meaning": "品牌"
+  },
+  {
+    "id": 1427,
+    "word": "marittimo",
+    "pos": "agg.",
+    "meaning": "海洋的，海运的"
+  },
+  {
+    "id": 1429,
+    "word": "marmellata",
+    "pos": "s.f.",
+    "meaning": "果酱"
+  },
+  {
+    "id": 1431,
+    "word": "marmo",
+    "pos": "s.m.",
+    "meaning": "大理石"
+  },
+  {
+    "id": 1433,
+    "word": "marrone",
+    "pos": "agg./s.m.",
+    "meaning": "棕褐色的；棕褐色"
+  },
+  {
+    "id": 1435,
+    "word": "maschera",
+    "pos": "s.f.",
+    "meaning": "面具"
+  },
+  {
+    "id": 1437,
+    "word": "massa",
+    "pos": "s.f.",
+    "meaning": "大量"
+  },
+  {
+    "id": 1439,
+    "word": "mastiere",
+    "pos": "s.m.",
+    "meaning": "职业，手艺"
+  },
+  {
+    "id": 1441,
+    "word": "materia",
+    "pos": "s.f.",
+    "meaning": "物质"
+  },
+  {
+    "id": 1443,
+    "word": "materiale",
+    "pos": "agg.",
+    "meaning": "物质的"
+  },
+  {
+    "id": 1445,
+    "word": "matita",
+    "pos": "s.f.",
+    "meaning": "铅笔"
+  },
+  {
+    "id": 1447,
+    "word": "matrimoniale",
+    "pos": "agg.",
+    "meaning": "婚姻的"
+  },
+  {
+    "id": 1449,
+    "word": "matrimonio",
+    "pos": "s.m.",
+    "meaning": "婚姻"
+  },
+  {
+    "id": 1451,
+    "word": "mattina",
+    "pos": "s.f.",
+    "meaning": "上午"
+  },
+  {
+    "id": 1453,
+    "word": "maturo",
+    "pos": "agg.",
+    "meaning": "成熟的"
+  },
+  {
+    "id": 1455,
+    "word": "mazzo",
+    "pos": "s.m.",
+    "meaning": "束，把"
+  },
+  {
+    "id": 1457,
+    "word": "medievale",
+    "pos": "agg.",
+    "meaning": "中世纪的"
+  },
+  {
+    "id": 1459,
+    "word": "mediterraneo",
+    "pos": "agg./s.m.",
+    "meaning": "地中海的；地中海"
+  },
+  {
+    "id": 1461,
+    "word": "mela",
+    "pos": "s.f.",
+    "meaning": "苹果"
+  },
+  {
+    "id": 1463,
+    "word": "membro",
+    "pos": "s.m.",
+    "meaning": "成员"
+  },
+  {
+    "id": 1465,
+    "word": "memoria",
+    "pos": "s.f.",
+    "meaning": "记忆力；记忆"
+  },
+  {
+    "id": 1467,
+    "word": "mensile",
+    "pos": "agg./s.m.",
+    "meaning": "每月的；月刊"
+  },
+  {
+    "id": 1469,
+    "word": "mentale",
+    "pos": "agg.",
+    "meaning": "智力的，头脑的"
+  },
+  {
+    "id": 1471,
+    "word": "menù",
+    "pos": "s.m.",
+    "meaning": "菜单"
+  },
+  {
+    "id": 1473,
+    "word": "meraviglioso",
+    "pos": "agg.",
+    "meaning": "绝妙的"
+  },
+  {
+    "id": 1475,
+    "word": "merce",
+    "pos": "s.f.",
+    "meaning": "商品"
+  },
+  {
+    "id": 1477,
+    "word": "merito",
+    "pos": "s.m.",
+    "meaning": "优点"
+  },
+  {
+    "id": 1479,
+    "word": "messa",
+    "pos": "s.f.",
+    "meaning": "弥撒"
+  },
+  {
+    "id": 1481,
+    "word": "metà",
+    "pos": "s.f.",
+    "meaning": "一半"
+  },
+  {
+    "id": 1483,
+    "word": "metodo",
+    "pos": "s.m.",
+    "meaning": "方法"
+  },
+  {
+    "id": 1485,
+    "word": "metro",
+    "pos": "s.m.",
+    "meaning": "米"
+  },
+  {
+    "id": 1487,
+    "word": "metropoli",
+    "pos": "s.f.",
+    "meaning": "大城市"
+  },
+  {
+    "id": 1489,
+    "word": "migliaio",
+    "pos": "s.m.",
+    "meaning": "千"
+  },
+  {
+    "id": 1491,
+    "word": "miglorare",
+    "pos": "v.tr./v.intr.",
+    "meaning": "改善"
+  },
+  {
+    "id": 1493,
+    "word": "milione",
+    "pos": "s.m.",
+    "meaning": "百万"
+  },
+  {
+    "id": 1495,
+    "word": "minerale",
+    "pos": "agg./s.m.",
+    "meaning": "矿物的；矿物质"
+  },
+  {
+    "id": 1497,
+    "word": "minestra",
+    "pos": "s.f.",
+    "meaning": "汤"
+  },
+  {
+    "id": 1499,
+    "word": "minimo",
+    "pos": "agg.",
+    "meaning": "最小的"
+  },
+  {
+    "id": 1501,
+    "word": "ministro",
+    "pos": "s.m.",
+    "meaning": "部长"
+  },
+  {
+    "id": 1503,
+    "word": "miope",
+    "pos": "agg./s.m./s.f.",
+    "meaning": "近视的；患近视者"
+  },
+  {
+    "id": 1505,
+    "word": "miracolo",
+    "pos": "s.m.",
+    "meaning": "奇迹"
+  },
+  {
+    "id": 1507,
+    "word": "miseria",
+    "pos": "s.f.",
+    "meaning": "贫困"
+  },
+  {
+    "id": 1509,
+    "word": "misterioso",
+    "pos": "agg.",
+    "meaning": "神秘的"
+  },
+  {
+    "id": 1511,
+    "word": "mistero",
+    "pos": "s.m.",
+    "meaning": "神秘（的事）"
+  },
+  {
+    "id": 1513,
+    "word": "misura",
+    "pos": "s.f.",
+    "meaning": "尺寸，措施"
+  },
+  {
+    "id": 1515,
+    "word": "mite",
+    "pos": "agg.",
+    "meaning": "温和的"
+  },
+  {
+    "id": 1517,
+    "word": "mitrore",
+    "pos": "v.tr.",
+    "meaning": "喂养"
+  },
+  {
+    "id": 1519,
+    "word": "mobile",
+    "pos": "agg./s.m.",
+    "meaning": "可移动的；家具"
+  },
+  {
+    "id": 1521,
+    "word": "moda",
+    "pos": "s.f.",
+    "meaning": "时装"
+  },
+  {
+    "id": 1523,
+    "word": "modello",
+    "pos": "s.m.",
+    "meaning": "款式，模范"
+  },
+  {
+    "id": 1525,
+    "word": "moderno",
+    "pos": "agg.",
+    "meaning": "现代的"
+  },
+  {
+    "id": 1527,
+    "word": "modesto",
+    "pos": "agg.",
+    "meaning": "谦虚的"
+  },
+  {
+    "id": 1529,
+    "word": "modificare",
+    "pos": "v.tr.",
+    "meaning": "更改，修正"
+  },
+  {
+    "id": 1531,
+    "word": "modo",
+    "pos": "s.m.",
+    "meaning": "方法，方式"
+  },
+  {
+    "id": 1533,
+    "word": "mondiale",
+    "pos": "agg.",
+    "meaning": "世界的"
+  },
+  {
+    "id": 1535,
+    "word": "moneta",
+    "pos": "s.f.",
+    "meaning": "硬币"
+  },
+  {
+    "id": 1537,
+    "word": "montagna",
+    "pos": "s.f.",
+    "meaning": "山"
+  },
+  {
+    "id": 1539,
+    "word": "montuoso",
+    "pos": "agg.",
+    "meaning": "多山的"
+  },
+  {
+    "id": 1541,
+    "word": "monumento",
+    "pos": "s.m.",
+    "meaning": "纪念碑"
+  },
+  {
+    "id": 1543,
+    "word": "morale",
+    "pos": "agg.",
+    "meaning": "道德的，精神上的"
+  },
+  {
+    "id": 1545,
+    "word": "mordere",
+    "pos": "v.tr.",
+    "meaning": "咬"
+  },
+  {
+    "id": 1547,
+    "word": "morire",
+    "pos": "v.intr.",
+    "meaning": "死"
+  },
+  {
+    "id": 1549,
+    "word": "morte",
+    "pos": "s.f.",
+    "meaning": "死亡"
+  },
+  {
+    "id": 1551,
+    "word": "mosca",
+    "pos": "s.f.",
+    "meaning": "苍蝇"
+  },
+  {
+    "id": 1553,
+    "word": "multa",
+    "pos": "s.f.",
+    "meaning": "罚款"
+  },
+  {
+    "id": 1555,
+    "word": "muoversi",
+    "pos": "v.rifl.",
+    "meaning": "活动，移动"
+  },
+  {
+    "id": 1557,
+    "word": "muraglia",
+    "pos": "s.f.",
+    "meaning": "城墙"
+  },
+  {
+    "id": 1559,
+    "word": "muro",
+    "pos": "s.m.",
+    "meaning": "墙"
+  },
+  {
+    "id": 1561,
+    "word": "museo",
+    "pos": "s.m.",
+    "meaning": "博物馆"
+  },
+  {
+    "id": 1563,
+    "word": "musicale",
+    "pos": "agg.",
+    "meaning": "音乐的"
+  },
+  {
+    "id": 1565,
+    "word": "muto",
+    "pos": "agg.",
+    "meaning": "哑的，不出声的"
+  },
+  {
+    "id": 1570,
+    "word": "nascondere",
+    "pos": "v.tr.",
+    "meaning": "藏"
+  },
+  {
+    "id": 1572,
+    "word": "naso",
+    "pos": "s.m.",
+    "meaning": "鼻子"
+  },
+  {
+    "id": 1574,
+    "word": "natura",
+    "pos": "s.f.",
+    "meaning": "大自然；本性"
+  },
+  {
+    "id": 1576,
+    "word": "naturale",
+    "pos": "agg.",
+    "meaning": "自然的"
+  },
+  {
+    "id": 1578,
+    "word": "navale",
+    "pos": "agg.",
+    "meaning": "船舶的"
+  },
+  {
+    "id": 1580,
+    "word": "nazionale",
+    "pos": "agg.",
+    "meaning": "国家的，民族的"
+  },
+  {
+    "id": 1582,
+    "word": "nazione",
+    "pos": "s.f.",
+    "meaning": "民族；国家"
+  },
+  {
+    "id": 1584,
+    "word": "né",
+    "pos": "cong.",
+    "meaning": "也不"
+  },
+  {
+    "id": 1586,
+    "word": "neanche",
+    "pos": "cong.",
+    "meaning": "也不，也没"
+  },
+  {
+    "id": 1588,
+    "word": "nebbia",
+    "pos": "s.f.",
+    "meaning": "雾"
+  },
+  {
+    "id": 1590,
+    "word": "necessario",
+    "pos": "agg.",
+    "meaning": "必须的"
+  },
+  {
+    "id": 1592,
+    "word": "negare",
+    "pos": "v.tr.",
+    "meaning": "否认"
+  },
+  {
+    "id": 1594,
+    "word": "negativo",
+    "pos": "agg.",
+    "meaning": "否定的"
+  },
+  {
+    "id": 1596,
+    "word": "negoziante",
+    "pos": "s.m./s.f.",
+    "meaning": "商店老板"
+  },
+  {
+    "id": 1598,
+    "word": "nemico",
+    "pos": "s.m.",
+    "meaning": "敌人"
+  },
+  {
+    "id": 1600,
+    "word": "neonato",
+    "pos": "s.m.",
+    "meaning": "新生儿"
+  },
+  {
+    "id": 1602,
+    "word": "nero",
+    "pos": "s.m./agg.",
+    "meaning": "黑色；黑色的"
+  },
+  {
+    "id": 1604,
+    "word": "nervo",
+    "pos": "s.m.",
+    "meaning": "神经"
+  },
+  {
+    "id": 1606,
+    "word": "nervoso",
+    "pos": "agg.",
+    "meaning": "紧张不安的"
+  },
+  {
+    "id": 1608,
+    "word": "nessuno",
+    "pos": "pron.indef.",
+    "meaning": "没有任何人，谁也不"
+  },
+  {
+    "id": 1610,
+    "word": "neve",
+    "pos": "s.f.",
+    "meaning": "雪"
+  },
+  {
+    "id": 1612,
+    "word": "noi",
+    "pos": "pron.",
+    "meaning": "我们"
+  },
+  {
+    "id": 1614,
+    "word": "noioso",
+    "pos": "agg.",
+    "meaning": "令人心烦的，枯燥的"
+  },
+  {
+    "id": 1616,
+    "word": "nominare",
+    "pos": "v.tr.",
+    "meaning": "任命，提名"
+  },
+  {
+    "id": 1618,
+    "word": "non",
+    "pos": "avv.",
+    "meaning": "不，不是"
+  },
+  {
+    "id": 1620,
+    "word": "nonna",
+    "pos": "s.f.",
+    "meaning": "祖母；外祖母"
+  },
+  {
+    "id": 1622,
+    "word": "nonostante",
+    "pos": "cong.",
+    "meaning": "尽管，虽然"
+  },
+  {
+    "id": 1624,
+    "word": "nord",
+    "pos": "s.m.",
+    "meaning": "北"
+  },
+  {
+    "id": 1626,
+    "word": "normale",
+    "pos": "agg.",
+    "meaning": "正常的，普通的"
+  },
+  {
+    "id": 1628,
+    "word": "notare",
+    "pos": "v.tr.",
+    "meaning": "注意，观察到"
+  },
+  {
+    "id": 1630,
+    "word": "notevole",
+    "pos": "agg.",
+    "meaning": "显著的"
+  },
+  {
+    "id": 1632,
+    "word": "notizia",
+    "pos": "s.f.",
+    "meaning": "消息，新闻"
+  },
+  {
+    "id": 1634,
+    "word": "notte",
+    "pos": "s.f.",
+    "meaning": "也"
+  },
+  {
+    "id": 1636,
+    "word": "notturno",
+    "pos": "agg.",
+    "meaning": "夜晚的"
+  },
+  {
+    "id": 1638,
+    "word": "novità",
+    "pos": "s.f.",
+    "meaning": "新鲜的事，新消息"
+  },
+  {
+    "id": 1640,
+    "word": "nozze",
+    "pos": "s.f.",
+    "meaning": "婚礼，结婚"
+  },
+  {
+    "id": 1642,
+    "word": "nulla",
+    "pos": "pron.indef.",
+    "meaning": "什么也没有"
+  },
+  {
+    "id": 1644,
+    "word": "numero",
+    "pos": "s.m.",
+    "meaning": "数字，数目"
+  },
+  {
+    "id": 1646,
+    "word": "numeroso",
+    "pos": "agg.",
+    "meaning": "许多的"
+  },
+  {
+    "id": 1648,
+    "word": "nuora",
+    "pos": "s.f.",
+    "meaning": "儿媳"
+  },
+  {
+    "id": 1650,
+    "word": "nuotare",
+    "pos": "v.intr.",
+    "meaning": "游泳"
+  },
+  {
+    "id": 1652,
+    "word": "nutriente",
+    "pos": "agg.",
+    "meaning": "有营养的"
+  },
+  {
+    "id": 1654,
+    "word": "nuziale",
+    "pos": "agg.",
+    "meaning": "婚礼的"
+  },
+  {
+    "id": 1659,
+    "word": "o",
+    "pos": "cong.",
+    "meaning": "或者"
+  },
+  {
+    "id": 1661,
+    "word": "obbligare",
+    "pos": "v.tr.",
+    "meaning": "强迫，承担义务"
+  },
+  {
+    "id": 1663,
+    "word": "obbligatorio",
+    "pos": "agg.",
+    "meaning": "有营养的"
+  },
+  {
+    "id": 1665,
+    "word": "obiettivo",
+    "pos": "s.m.",
+    "meaning": "目标"
+  },
+  {
+    "id": 1667,
+    "word": "occhiata",
+    "pos": "s.f.",
+    "meaning": "一眼"
+  },
+  {
+    "id": 1669,
+    "word": "occidentale",
+    "pos": "agg./s.m./s.f.",
+    "meaning": "西方的；西方人"
+  },
+  {
+    "id": 1671,
+    "word": "occupare",
+    "pos": "v.tr.",
+    "meaning": "占领"
+  },
+  {
+    "id": 1673,
+    "word": "occuparsi",
+    "pos": "v.rifl.",
+    "meaning": "从事"
+  },
+  {
+    "id": 1675,
+    "word": "occupazione",
+    "pos": "s.f.",
+    "meaning": "职业"
+  },
+  {
+    "id": 1677,
+    "word": "odiare",
+    "pos": "v.tr.",
+    "meaning": "恨"
+  },
+  {
+    "id": 1679,
+    "word": "offendere",
+    "pos": "v.tr.",
+    "meaning": "冒犯"
+  },
+  {
+    "id": 1681,
+    "word": "oggetto",
+    "pos": "s.m.",
+    "meaning": "东西，物品"
+  },
+  {
+    "id": 1683,
+    "word": "ognuno",
+    "pos": "pron.indef.",
+    "meaning": "每一个"
+  },
+  {
+    "id": 1685,
+    "word": "oliva",
+    "pos": "s.f.",
+    "meaning": "橄榄"
+  },
+  {
+    "id": 1687,
+    "word": "oltre",
+    "pos": "a",
+    "meaning": "除了...之外，还..."
+  },
+  {
+    "id": 1689,
+    "word": "omaggio",
+    "pos": "s.m.",
+    "meaning": "赠品"
+  },
+  {
+    "id": 1691,
+    "word": "ombra",
+    "pos": "s.f.",
+    "meaning": "阴影，影子"
+  },
+  {
+    "id": 1693,
+    "word": "onda",
+    "pos": "s.f.",
+    "meaning": "波浪"
+  },
+  {
+    "id": 1695,
+    "word": "onesto",
+    "pos": "agg.",
+    "meaning": "老实的"
+  },
+  {
+    "id": 1697,
+    "word": "onore",
+    "pos": "s.f.",
+    "meaning": "荣誉"
+  },
+  {
+    "id": 1699,
+    "word": "opera",
+    "pos": "s.f.",
+    "meaning": "歌剧；著作"
+  },
+  {
+    "id": 1701,
+    "word": "operaio",
+    "pos": "s.m.",
+    "meaning": "工人"
+  },
+  {
+    "id": 1703,
+    "word": "operazione",
+    "pos": "s.f.",
+    "meaning": "手术"
+  },
+  {
+    "id": 1705,
+    "word": "opinione",
+    "pos": "s.f.",
+    "meaning": "意见"
+  },
+  {
+    "id": 1707,
+    "word": "opportunità",
+    "pos": "s.f.",
+    "meaning": "机遇"
+  },
+  {
+    "id": 1709,
+    "word": "opposto",
+    "pos": "agg.",
+    "meaning": "对面的，对立的"
+  },
+  {
+    "id": 1711,
+    "word": "oppure",
+    "pos": "cong.",
+    "meaning": "或者"
+  },
+  {
+    "id": 1713,
+    "word": "orale",
+    "pos": "agg.",
+    "meaning": "口头的"
+  },
+  {
+    "id": 1715,
+    "word": "ordinare",
+    "pos": "v.tr.",
+    "meaning": "命令；点菜"
+  },
+  {
+    "id": 1717,
+    "word": "ordine",
+    "pos": "s.m.",
+    "meaning": "顺序；命令"
+  },
+  {
+    "id": 1719,
+    "word": "orecchio",
+    "pos": "s.m.",
+    "meaning": "耳朵"
+  },
+  {
+    "id": 1721,
+    "word": "organizzare",
+    "pos": "v.tr.",
+    "meaning": "组织"
+  },
+  {
+    "id": 1723,
+    "word": "orgoglioso",
+    "pos": "agg.",
+    "meaning": "自豪，骄傲"
+  },
+  {
+    "id": 1725,
+    "word": "orientale",
+    "pos": "agg./s.m./s.f.",
+    "meaning": "东方的；东方人"
+  },
+  {
+    "id": 1727,
+    "word": "origine",
+    "pos": "s.f.",
+    "meaning": "发源，根源"
+  },
+  {
+    "id": 1729,
+    "word": "orizzonte",
+    "pos": "s.m.",
+    "meaning": "地平线"
+  },
+  {
+    "id": 1731,
+    "word": "ormai",
+    "pos": "avv.",
+    "meaning": "已经；如今"
+  },
+  {
+    "id": 1733,
+    "word": "oro",
+    "pos": "s.m.",
+    "meaning": "金子"
+  },
+  {
+    "id": 1735,
+    "word": "osare",
+    "pos": "v.tr.",
+    "meaning": "敢于"
+  },
+  {
+    "id": 1737,
+    "word": "ospitale",
+    "pos": "agg.",
+    "meaning": "热情好客的"
+  },
+  {
+    "id": 1739,
+    "word": "ospitare",
+    "pos": "v.tr.",
+    "meaning": "接待，招待"
+  },
+  {
+    "id": 1741,
+    "word": "ospite",
+    "pos": "s.m./s.f.",
+    "meaning": "客人"
+  },
+  {
+    "id": 1743,
+    "word": "osservare",
+    "pos": "v.tr.",
+    "meaning": "注意，观察"
+  },
+  {
+    "id": 1745,
+    "word": "osso",
+    "pos": "s.m.",
+    "meaning": "骨头"
+  },
+  {
+    "id": 1747,
+    "word": "ottimo",
+    "pos": "agg.sup.",
+    "meaning": "最好的"
+  },
+  {
+    "id": 1749,
+    "word": "ovest",
+    "pos": "s.m.",
+    "meaning": "西"
+  },
+  {
+    "id": 1751,
+    "word": "ovvio",
+    "pos": "agg.",
+    "meaning": "当然的，清楚的"
+  },
+  {
+    "id": 1753,
+    "word": "ozioso",
+    "pos": "agg.",
+    "meaning": "闲游的，不干活的"
+  },
+  {
+    "id": 1758,
+    "word": "pace",
+    "pos": "s.f.",
+    "meaning": "和平"
+  },
+  {
+    "id": 1760,
+    "word": "padrone",
+    "pos": "s.m.",
+    "meaning": "主人；老板"
+  },
+  {
+    "id": 1762,
+    "word": "paesaggio",
+    "pos": "s.m.",
+    "meaning": "风景，景色"
+  },
+  {
+    "id": 1764,
+    "word": "pagina",
+    "pos": "s.f.",
+    "meaning": "页"
+  },
+  {
+    "id": 1766,
+    "word": "pagnato",
+    "pos": "",
+    "meaning": "湿的"
+  },
+  {
+    "id": 1768,
+    "word": "pagnato fradicio",
+    "pos": "",
+    "meaning": "湿淋淋的"
+  },
+  {
+    "id": 1770,
+    "word": "paio",
+    "pos": "s.m.",
+    "meaning": "一对，一双"
+  },
+  {
+    "id": 1772,
+    "word": "paio",
+    "pos": "s.m.",
+    "meaning": "一双,一副；两个"
+  },
+  {
+    "id": 1774,
+    "word": "palazzo",
+    "pos": "s.m.",
+    "meaning": "楼，宫"
+  },
+  {
+    "id": 1776,
+    "word": "palla",
+    "pos": "s.f.",
+    "meaning": "球"
+  },
+  {
+    "id": 1778,
+    "word": "pallacanestro",
+    "pos": "s.f.",
+    "meaning": "篮球"
+  },
+  {
+    "id": 1780,
+    "word": "pallido",
+    "pos": "agg.",
+    "meaning": "苍白的"
+  },
+  {
+    "id": 1782,
+    "word": "pancia",
+    "pos": "s.f.",
+    "meaning": "肚子"
+  },
+  {
+    "id": 1784,
+    "word": "pane",
+    "pos": "s.m.",
+    "meaning": "面包"
+  },
+  {
+    "id": 1786,
+    "word": "pangda",
+    "pos": "s.m.",
+    "meaning": "熊猫"
+  },
+  {
+    "id": 1788,
+    "word": "panino",
+    "pos": "s.m.",
+    "meaning": "小面包，三明治"
+  },
+  {
+    "id": 1790,
+    "word": "panorama",
+    "pos": "s.m.",
+    "meaning": "全景"
+  },
+  {
+    "id": 1792,
+    "word": "pantaloni",
+    "pos": "s.m.pl.",
+    "meaning": "裤子"
+  },
+  {
+    "id": 1794,
+    "word": "pantofole",
+    "pos": "s.f.pl.",
+    "meaning": "拖鞋"
+  },
+  {
+    "id": 1796,
+    "word": "papà",
+    "pos": "s.m.",
+    "meaning": "爸爸"
+  },
+  {
+    "id": 1798,
+    "word": "paradiso",
+    "pos": "s.m.",
+    "meaning": "天堂"
+  },
+  {
+    "id": 1800,
+    "word": "parco",
+    "pos": "s.m.",
+    "meaning": "公园"
+  },
+  {
+    "id": 1802,
+    "word": "parecchio",
+    "pos": "agg.",
+    "meaning": "一些，几个"
+  },
+  {
+    "id": 1804,
+    "word": "parente",
+    "pos": "s.m./s.f.",
+    "meaning": "亲戚"
+  },
+  {
+    "id": 1806,
+    "word": "parere",
+    "pos": "v.intr.",
+    "meaning": "好象"
+  },
+  {
+    "id": 1808,
+    "word": "parete",
+    "pos": "s.f.",
+    "meaning": "墙壁"
+  },
+  {
+    "id": 1810,
+    "word": "parte",
+    "pos": "s.f.",
+    "meaning": "部分"
+  },
+  {
+    "id": 1812,
+    "word": "partecipare",
+    "pos": "v.intr.",
+    "meaning": "参加"
+  },
+  {
+    "id": 1814,
+    "word": "partenza",
+    "pos": "s.f.",
+    "meaning": "出发"
+  },
+  {
+    "id": 1816,
+    "word": "partita",
+    "pos": "s.f.",
+    "meaning": "球赛"
+  },
+  {
+    "id": 1818,
+    "word": "partito",
+    "pos": "s.m.",
+    "meaning": "党"
+  },
+  {
+    "id": 1820,
+    "word": "passeggero",
+    "pos": "s.m.",
+    "meaning": "乘客"
+  },
+  {
+    "id": 1822,
+    "word": "passeggiare",
+    "pos": "v.intr.",
+    "meaning": "散步"
+  },
+  {
+    "id": 1824,
+    "word": "passo",
+    "pos": "s.m.",
+    "meaning": "步子"
+  },
+  {
+    "id": 1826,
+    "word": "pasta",
+    "pos": "s.f.",
+    "meaning": "面食"
+  },
+  {
+    "id": 1828,
+    "word": "pasto",
+    "pos": "s.m.",
+    "meaning": "一顿饭"
+  },
+  {
+    "id": 1830,
+    "word": "patata",
+    "pos": "s.f.",
+    "meaning": "马铃薯"
+  },
+  {
+    "id": 1832,
+    "word": "patata",
+    "pos": "s.f.",
+    "meaning": "土豆"
+  },
+  {
+    "id": 1834,
+    "word": "patente",
+    "pos": "s.f.",
+    "meaning": "驾驶执照"
+  },
+  {
+    "id": 1836,
+    "word": "patria",
+    "pos": "s.f.",
+    "meaning": "祖国"
+  },
+  {
+    "id": 1838,
+    "word": "patrimonio",
+    "pos": "s.m.",
+    "meaning": "遗产"
+  },
+  {
+    "id": 1840,
+    "word": "paura",
+    "pos": "s.f.",
+    "meaning": "害怕"
+  },
+  {
+    "id": 1842,
+    "word": "pausa",
+    "pos": "s.f.",
+    "meaning": "暂停"
+  },
+  {
+    "id": 1844,
+    "word": "pavimento",
+    "pos": "s.m.",
+    "meaning": "（室内）地面"
+  },
+  {
+    "id": 1846,
+    "word": "paziente",
+    "pos": "agg.",
+    "meaning": "耐心的"
+  },
+  {
+    "id": 1848,
+    "word": "pazienza",
+    "pos": "s.f.",
+    "meaning": "耐心"
+  },
+  {
+    "id": 1850,
+    "word": "pazzo",
+    "pos": "agg.",
+    "meaning": "疯狂的"
+  },
+  {
+    "id": 1852,
+    "word": "pazzo da legare",
+    "pos": "",
+    "meaning": "十足的疯子"
+  },
+  {
+    "id": 1854,
+    "word": "peccato",
+    "pos": "agg.",
+    "meaning": "可惜的"
+  },
+  {
+    "id": 1856,
+    "word": "pedone",
+    "pos": "s.m.",
+    "meaning": "行人"
+  },
+  {
+    "id": 1858,
+    "word": "pelle",
+    "pos": "s.f.",
+    "meaning": "皮肤"
+  },
+  {
+    "id": 1860,
+    "word": "penisola",
+    "pos": "s.f.",
+    "meaning": "半岛"
+  },
+  {
+    "id": 1862,
+    "word": "pensare",
+    "pos": "v.intr./v.tr.",
+    "meaning": "想；认为"
+  },
+  {
+    "id": 1864,
+    "word": "pensione",
+    "pos": "s.f.",
+    "meaning": "退休；退休金"
+  },
+  {
+    "id": 1866,
+    "word": "pentirsi",
+    "pos": "v.rifl.",
+    "meaning": "后悔"
+  },
+  {
+    "id": 1868,
+    "word": "pentola",
+    "pos": "s.f.",
+    "meaning": "锅"
+  },
+  {
+    "id": 1870,
+    "word": "pera",
+    "pos": "s.f.",
+    "meaning": "梨"
+  },
+  {
+    "id": 1872,
+    "word": "perché",
+    "pos": "cong./avv.",
+    "meaning": "因为；为什么"
+  },
+  {
+    "id": 1874,
+    "word": "percorrere",
+    "pos": "v.tr.",
+    "meaning": "行程，经过"
+  },
+  {
+    "id": 1876,
+    "word": "perfino",
+    "pos": "avv.",
+    "meaning": "甚至于"
+  },
+  {
+    "id": 1878,
+    "word": "pericolo",
+    "pos": "s.m.",
+    "meaning": "危险"
+  },
+  {
+    "id": 1880,
+    "word": "pericoloso",
+    "pos": "agg.",
+    "meaning": "危险的"
+  },
+  {
+    "id": 1882,
+    "word": "periferia",
+    "pos": "s.f.",
+    "meaning": "郊区"
+  },
+  {
+    "id": 1884,
+    "word": "periodo",
+    "pos": "s.m.",
+    "meaning": "时期"
+  },
+  {
+    "id": 1886,
+    "word": "perla",
+    "pos": "s.f.",
+    "meaning": "珍珠"
+  },
+  {
+    "id": 1888,
+    "word": "permettere",
+    "pos": "v.tr.",
+    "meaning": "允许"
+  },
+  {
+    "id": 1890,
+    "word": "però",
+    "pos": "cong.",
+    "meaning": "不过"
+  },
+  {
+    "id": 1892,
+    "word": "persino",
+    "pos": "avv.",
+    "meaning": "甚至于"
+  },
+  {
+    "id": 1894,
+    "word": "personaggio",
+    "pos": "s.m.",
+    "meaning": "人物"
+  },
+  {
+    "id": 1896,
+    "word": "persuadere",
+    "pos": "v.tr.",
+    "meaning": "说服"
+  },
+  {
+    "id": 1898,
+    "word": "pesante",
+    "pos": "agg.",
+    "meaning": "重的；厚的"
+  },
+  {
+    "id": 1900,
+    "word": "pescare",
+    "pos": "v.tr.",
+    "meaning": "钓鱼"
+  },
+  {
+    "id": 1902,
+    "word": "pesce",
+    "pos": "s.m.",
+    "meaning": "鱼"
+  },
+  {
+    "id": 1904,
+    "word": "peso",
+    "pos": "s.m.",
+    "meaning": "重量，负担"
+  },
+  {
+    "id": 1906,
+    "word": "pezzo",
+    "pos": "s.m.",
+    "meaning": "块，片，段"
+  },
+  {
+    "id": 1908,
+    "word": "piangere",
+    "pos": "v.intr.",
+    "meaning": "哭"
+  },
+  {
+    "id": 1910,
+    "word": "piano",
+    "pos": "s.m./agg.",
+    "meaning": "计划；楼层；慢慢地"
+  },
+  {
+    "id": 1912,
+    "word": "piano",
+    "pos": "s.m./agg.",
+    "meaning": "（楼）层；平的"
+  },
+  {
+    "id": 1914,
+    "word": "pianoforte",
+    "pos": "s.m.",
+    "meaning": "钢琴"
+  },
+  {
+    "id": 1916,
+    "word": "pianoterra",
+    "pos": "s.m.",
+    "meaning": "底层，一层"
+  },
+  {
+    "id": 1918,
+    "word": "pianta",
+    "pos": "s.f.",
+    "meaning": "平面图；植物"
+  },
+  {
+    "id": 1920,
+    "word": "pianura",
+    "pos": "s.f.",
+    "meaning": "平原"
+  },
+  {
+    "id": 1922,
+    "word": "piatto",
+    "pos": "s.m./agg.",
+    "meaning": "一盘菜；平的"
+  },
+  {
+    "id": 1924,
+    "word": "piccante",
+    "pos": "agg.",
+    "meaning": "辣的"
+  },
+  {
+    "id": 1926,
+    "word": "piede",
+    "pos": "s.m.",
+    "meaning": "脚"
+  },
+  {
+    "id": 1928,
+    "word": "pieno",
+    "pos": "agg.",
+    "meaning": "满的"
+  },
+  {
+    "id": 1930,
+    "word": "pietra",
+    "pos": "s.f.",
+    "meaning": "石头"
+  },
+  {
+    "id": 1932,
+    "word": "pigliare",
+    "pos": "v.tr.",
+    "meaning": "拿，抓"
+  },
+  {
+    "id": 1934,
+    "word": "pigro",
+    "pos": "agg.",
+    "meaning": "懒惰的"
+  },
+  {
+    "id": 1936,
+    "word": "pillola",
+    "pos": "s.f.",
+    "meaning": "药丸"
+  },
+  {
+    "id": 1938,
+    "word": "piovoso",
+    "pos": "agg.",
+    "meaning": "多雨的"
+  },
+  {
+    "id": 1940,
+    "word": "pittore",
+    "pos": "s.m.",
+    "meaning": "画家"
+  },
+  {
+    "id": 1942,
+    "word": "pizza",
+    "pos": "s.f.",
+    "meaning": "比萨饼"
+  },
+  {
+    "id": 1944,
+    "word": "plastica",
+    "pos": "s.f.",
+    "meaning": "塑料"
+  },
+  {
+    "id": 1946,
+    "word": "poi",
+    "pos": "avv.",
+    "meaning": "然后"
+  },
+  {
+    "id": 1948,
+    "word": "politica",
+    "pos": "s.f.",
+    "meaning": "政策，政治（学）"
+  },
+  {
+    "id": 1950,
+    "word": "politico",
+    "pos": "agg.",
+    "meaning": "政治的"
+  },
+  {
+    "id": 1952,
+    "word": "poliziotto",
+    "pos": "s.m.",
+    "meaning": "警察"
+  },
+  {
+    "id": 1954,
+    "word": "pollo",
+    "pos": "s.m.",
+    "meaning": "鸡肉"
+  },
+  {
+    "id": 1956,
+    "word": "poltrona",
+    "pos": "s.f.",
+    "meaning": "单人沙发，安乐椅"
+  },
+  {
+    "id": 1958,
+    "word": "pomodoro",
+    "pos": "s.m.",
+    "meaning": "西红柿"
+  },
+  {
+    "id": 1960,
+    "word": "popolare",
+    "pos": "agg.",
+    "meaning": "民众的；普及的"
+  },
+  {
+    "id": 1962,
+    "word": "popolazione",
+    "pos": "s.f.",
+    "meaning": "人口"
+  },
+  {
+    "id": 1964,
+    "word": "popolo",
+    "pos": "s.m.",
+    "meaning": "人民"
+  },
+  {
+    "id": 1966,
+    "word": "popoloso",
+    "pos": "agg.",
+    "meaning": "人口多的"
+  },
+  {
+    "id": 1968,
+    "word": "porre",
+    "pos": "v.tr.",
+    "meaning": "放置，提出"
+  },
+  {
+    "id": 1970,
+    "word": "porta",
+    "pos": "s.f.",
+    "meaning": "门"
+  },
+  {
+    "id": 1972,
+    "word": "portacenere",
+    "pos": "s.m.",
+    "meaning": "烟灰缸"
+  },
+  {
+    "id": 1974,
+    "word": "portafoglio",
+    "pos": "s.m.",
+    "meaning": "钱包"
+  },
+  {
+    "id": 1976,
+    "word": "portiere",
+    "pos": "s.m.",
+    "meaning": "看门员"
+  },
+  {
+    "id": 1978,
+    "word": "porto",
+    "pos": "s.m.",
+    "meaning": "港口"
+  },
+  {
+    "id": 1980,
+    "word": "portoghese",
+    "pos": "agg./s.m./s.f.",
+    "meaning": "葡萄牙的；葡萄牙人；葡萄牙语"
+  },
+  {
+    "id": 1982,
+    "word": "positivo",
+    "pos": "agg.",
+    "meaning": "肯定的"
+  },
+  {
+    "id": 1984,
+    "word": "posizione",
+    "pos": "s.f.",
+    "meaning": "地位"
+  },
+  {
+    "id": 1986,
+    "word": "possibile",
+    "pos": "agg.",
+    "meaning": "可能的"
+  },
+  {
+    "id": 1988,
+    "word": "possibilità",
+    "pos": "s.f.",
+    "meaning": "可能性"
+  },
+  {
+    "id": 1990,
+    "word": "posto",
+    "pos": "s.m.",
+    "meaning": "地方，位置"
+  },
+  {
+    "id": 1992,
+    "word": "povero",
+    "pos": "agg.",
+    "meaning": "穷的，可怜的"
+  },
+  {
+    "id": 1994,
+    "word": "pranzare",
+    "pos": "v.intr.",
+    "meaning": "用午餐"
+  },
+  {
+    "id": 1996,
+    "word": "pranzo",
+    "pos": "s.m.",
+    "meaning": "午餐"
+  },
+  {
+    "id": 1998,
+    "word": "praticamente",
+    "pos": "avv.",
+    "meaning": "实际上"
+  },
+  {
+    "id": 2000,
+    "word": "praticare",
+    "pos": "v.tr.",
+    "meaning": "实践"
+  },
+  {
+    "id": 2002,
+    "word": "prato",
+    "pos": "s.m.",
+    "meaning": "草地，牧场"
+  },
+  {
+    "id": 2004,
+    "word": "preciso",
+    "pos": "agg.",
+    "meaning": "准确的"
+  },
+  {
+    "id": 2006,
+    "word": "preferire",
+    "pos": "v.tr.",
+    "meaning": "宁可；更喜欢"
+  },
+  {
+    "id": 2008,
+    "word": "pregare",
+    "pos": "v.tr.",
+    "meaning": "请求"
+  },
+  {
+    "id": 2010,
+    "word": "premio",
+    "pos": "s.m.",
+    "meaning": "奖；奖励"
+  },
+  {
+    "id": 2012,
+    "word": "prenotare",
+    "pos": "v.tr.",
+    "meaning": "预订"
+  },
+  {
+    "id": 2014,
+    "word": "preparare",
+    "pos": "v.tr.",
+    "meaning": "准备"
+  },
+  {
+    "id": 2016,
+    "word": "prescrivere",
+    "pos": "v.tr.",
+    "meaning": "开处方"
+  },
+  {
+    "id": 2018,
+    "word": "presente",
+    "pos": "agg.",
+    "meaning": "现在的，现场的"
+  },
+  {
+    "id": 2020,
+    "word": "presidente",
+    "pos": "s.m.",
+    "meaning": "主任；主席；总统"
+  },
+  {
+    "id": 2022,
+    "word": "pressione",
+    "pos": "s.f.",
+    "meaning": "压力"
+  },
+  {
+    "id": 2024,
+    "word": "presso",
+    "pos": "avv./prep.",
+    "meaning": "在...附近"
+  },
+  {
+    "id": 2026,
+    "word": "prestare",
+    "pos": "v.tr.",
+    "meaning": "借出"
+  },
+  {
+    "id": 2028,
+    "word": "prevedere",
+    "pos": "v.tr.",
+    "meaning": "预见"
+  },
+  {
+    "id": 2030,
+    "word": "principale",
+    "pos": "agg.",
+    "meaning": "主要的"
+  },
+  {
+    "id": 2032,
+    "word": "principale",
+    "pos": "agg.",
+    "meaning": "主要的"
+  },
+  {
+    "id": 2034,
+    "word": "principio",
+    "pos": "s.m.",
+    "meaning": "原则"
+  },
+  {
+    "id": 2036,
+    "word": "privato",
+    "pos": "agg.",
+    "meaning": "私人的"
+  },
+  {
+    "id": 2038,
+    "word": "privo",
+    "pos": "agg.",
+    "meaning": "缺少的"
+  },
+  {
+    "id": 2040,
+    "word": "procedura",
+    "pos": "s.f.",
+    "meaning": "程序，手续"
+  },
+  {
+    "id": 2042,
+    "word": "prodotto",
+    "pos": "s.m.",
+    "meaning": "产品，成果"
+  },
+  {
+    "id": 2044,
+    "word": "produrre",
+    "pos": "v.tr.",
+    "meaning": "生产"
+  },
+  {
+    "id": 2046,
+    "word": "produzione",
+    "pos": "s.f.",
+    "meaning": "生产"
+  },
+  {
+    "id": 2048,
+    "word": "professionale",
+    "pos": "agg.",
+    "meaning": "职业的"
+  },
+  {
+    "id": 2050,
+    "word": "profitto",
+    "pos": "s.m.",
+    "meaning": "利润"
+  },
+  {
+    "id": 2052,
+    "word": "profondo",
+    "pos": "agg.",
+    "meaning": "深的"
+  },
+  {
+    "id": 2054,
+    "word": "profumo",
+    "pos": "s.m.",
+    "meaning": "香味；香料"
+  },
+  {
+    "id": 2056,
+    "word": "progetto",
+    "pos": "s.m.",
+    "meaning": "方案，项目，计划"
+  },
+  {
+    "id": 2058,
+    "word": "programma",
+    "pos": "s.m.",
+    "meaning": "计划，方案"
+  },
+  {
+    "id": 2060,
+    "word": "progresso",
+    "pos": "s.m.",
+    "meaning": "进步"
+  },
+  {
+    "id": 2062,
+    "word": "proibire",
+    "pos": "v.tr.",
+    "meaning": "禁止"
+  },
+  {
+    "id": 2064,
+    "word": "promessa",
+    "pos": "s.f.",
+    "meaning": "承诺"
+  },
+  {
+    "id": 2066,
+    "word": "promessa da marinaio",
+    "pos": "",
+    "meaning": "不兑现的承诺"
+  },
+  {
+    "id": 2068,
+    "word": "promettere",
+    "pos": "v.tr.",
+    "meaning": "承诺"
+  },
+  {
+    "id": 2070,
+    "word": "promozione",
+    "pos": "s.f.",
+    "meaning": "促销；促进"
+  },
+  {
+    "id": 2072,
+    "word": "promuovere",
+    "pos": "v.tr.",
+    "meaning": "促进；推动"
+  },
+  {
+    "id": 2074,
+    "word": "proporre",
+    "pos": "v.tr.",
+    "meaning": "提议，建议"
+  },
+  {
+    "id": 2076,
+    "word": "proposta",
+    "pos": "s.f.",
+    "meaning": "建议"
+  },
+  {
+    "id": 2078,
+    "word": "proprietà",
+    "pos": "s.f.",
+    "meaning": "所有权，产权"
+  },
+  {
+    "id": 2080,
+    "word": "proteggere",
+    "pos": "v.tr.",
+    "meaning": "保护"
+  },
+  {
+    "id": 2082,
+    "word": "prova",
+    "pos": "s.f.",
+    "meaning": "尝试"
+  },
+  {
+    "id": 2084,
+    "word": "proveniente",
+    "pos": "agg.",
+    "meaning": "来自"
+  },
+  {
+    "id": 2086,
+    "word": "provincia",
+    "pos": "s.f.",
+    "meaning": "省"
+  },
+  {
+    "id": 2088,
+    "word": "pubblicare",
+    "pos": "v.tr.",
+    "meaning": "公布；发表；出版"
+  },
+  {
+    "id": 2090,
+    "word": "pubblicità",
+    "pos": "s.f.",
+    "meaning": "广告"
+  },
+  {
+    "id": 2092,
+    "word": "pubbulico",
+    "pos": "agg.",
+    "meaning": "公共的"
+  },
+  {
+    "id": 2094,
+    "word": "pulire",
+    "pos": "v.tr.",
+    "meaning": "使...干净"
+  },
+  {
+    "id": 2096,
+    "word": "pulito",
+    "pos": "agg.",
+    "meaning": "干净的"
+  },
+  {
+    "id": 2098,
+    "word": "pulizia",
+    "pos": "s.f.",
+    "meaning": "清扫"
+  },
+  {
+    "id": 2100,
+    "word": "pullman",
+    "pos": "s.m.",
+    "meaning": "大型客车"
+  },
+  {
+    "id": 2102,
+    "word": "punire",
+    "pos": "v.tr.",
+    "meaning": "惩罚"
+  },
+  {
+    "id": 2104,
+    "word": "punta",
+    "pos": "s.f.",
+    "meaning": "尖，最高点"
+  },
+  {
+    "id": 2106,
+    "word": "puntuale",
+    "pos": "agg.",
+    "meaning": "准时的"
+  },
+  {
+    "id": 2108,
+    "word": "purché",
+    "pos": "cong.",
+    "meaning": "只要"
+  },
+  {
+    "id": 2110,
+    "word": "puro",
+    "pos": "agg.",
+    "meaning": "纯洁的"
+  },
+  {
+    "id": 2115,
+    "word": "qua",
+    "pos": "avv.",
+    "meaning": "在这里"
+  },
+  {
+    "id": 2117,
+    "word": "quaderno",
+    "pos": "s.m.",
+    "meaning": "笔记本，练习本"
+  },
+  {
+    "id": 2119,
+    "word": "quadrato",
+    "pos": "agg./s.m.",
+    "meaning": "平方的；方格"
+  },
+  {
+    "id": 2121,
+    "word": "quadro",
+    "pos": "s.m.",
+    "meaning": "画"
+  },
+  {
+    "id": 2123,
+    "word": "qualche",
+    "pos": "agg.indef.",
+    "meaning": "一些"
+  },
+  {
+    "id": 2125,
+    "word": "qualche volta",
+    "pos": "",
+    "meaning": "有时"
+  },
+  {
+    "id": 2127,
+    "word": "qualcosa",
+    "pos": "pron.indef.",
+    "meaning": "某事，某物"
+  },
+  {
+    "id": 2129,
+    "word": "qualcuno",
+    "pos": "pron.indef.",
+    "meaning": "某人"
+  },
+  {
+    "id": 2131,
+    "word": "quale",
+    "pos": "agg.interr.",
+    "meaning": "哪(个)"
+  },
+  {
+    "id": 2133,
+    "word": "qualificato",
+    "pos": "agg.",
+    "meaning": "合格的，能胜任的"
+  },
+  {
+    "id": 2135,
+    "word": "qualità",
+    "pos": "s.f.",
+    "meaning": "质量"
+  },
+  {
+    "id": 2137,
+    "word": "quantità",
+    "pos": "s.f.",
+    "meaning": "数量"
+  },
+  {
+    "id": 2139,
+    "word": "quartiere",
+    "pos": "s.m.",
+    "meaning": "居民区"
+  },
+  {
+    "id": 2141,
+    "word": "quindi",
+    "pos": "cong.",
+    "meaning": "因此，所以"
+  },
+  {
+    "id": 2143,
+    "word": "quota",
+    "pos": "s.f.",
+    "meaning": "份额"
+  },
+  {
+    "id": 2145,
+    "word": "quotidiano",
+    "pos": "agg./s.m.",
+    "meaning": "每日的；日报"
+  },
+  {
+    "id": 2150,
+    "word": "rabbia",
+    "pos": "s.f.",
+    "meaning": "恼火，生气"
+  },
+  {
+    "id": 2152,
+    "word": "racchetta",
+    "pos": "s.f.",
+    "meaning": "球拍"
+  },
+  {
+    "id": 2154,
+    "word": "raccontare",
+    "pos": "v.tr.",
+    "meaning": "叙述"
+  },
+  {
+    "id": 2156,
+    "word": "radiazione",
+    "pos": "s.f.",
+    "meaning": "辐射"
+  },
+  {
+    "id": 2158,
+    "word": "radice",
+    "pos": "s.m.",
+    "meaning": "根，根源"
+  },
+  {
+    "id": 2160,
+    "word": "radunare",
+    "pos": "v.tr.",
+    "meaning": "集合，集中"
+  },
+  {
+    "id": 2162,
+    "word": "raffreddore",
+    "pos": "s.m.",
+    "meaning": "感冒"
+  },
+  {
+    "id": 2164,
+    "word": "raggio",
+    "pos": "s.m.",
+    "meaning": "光线"
+  },
+  {
+    "id": 2166,
+    "word": "raggiungere",
+    "pos": "v.tr.",
+    "meaning": "达到"
+  },
+  {
+    "id": 2168,
+    "word": "ragione",
+    "pos": "s.f.",
+    "meaning": "道理，理由"
+  },
+  {
+    "id": 2170,
+    "word": "rallentare",
+    "pos": "v.tr.",
+    "meaning": "减速，放慢"
+  },
+  {
+    "id": 2172,
+    "word": "ramo",
+    "pos": "s.m.",
+    "meaning": "部门；树枝"
+  },
+  {
+    "id": 2174,
+    "word": "rapidamente",
+    "pos": "avv.",
+    "meaning": "快速地"
+  },
+  {
+    "id": 2175,
+    "word": "rapido",
+    "pos": "agg.",
+    "meaning": "速度快的"
+  },
+  {
+    "id": 2177,
+    "word": "rapporto",
+    "pos": "s.m.",
+    "meaning": "报告；关系"
+  },
+  {
+    "id": 2179,
+    "word": "rappresentante",
+    "pos": "agg./s.m./s.f.",
+    "meaning": "代表的；代表"
+  },
+  {
+    "id": 2181,
+    "word": "rappresentare",
+    "pos": "v.tr.",
+    "meaning": "代表"
+  },
+  {
+    "id": 2183,
+    "word": "raro",
+    "pos": "agg.",
+    "meaning": "稀有的，罕见的"
+  },
+  {
+    "id": 2185,
+    "word": "rata",
+    "pos": "s.f.",
+    "meaning": "分期付款"
+  },
+  {
+    "id": 2187,
+    "word": "razza",
+    "pos": "s.f.",
+    "meaning": "种族"
+  },
+  {
+    "id": 2189,
+    "word": "re",
+    "pos": "s.m.",
+    "meaning": "国王"
+  },
+  {
+    "id": 2191,
+    "word": "reale",
+    "pos": "agg.",
+    "meaning": "真正的，现实的"
+  },
+  {
+    "id": 2193,
+    "word": "realizzare",
+    "pos": "v.tr.",
+    "meaning": "实现"
+  },
+  {
+    "id": 2195,
+    "word": "realtà",
+    "pos": "s.f.",
+    "meaning": "现实，实际"
+  },
+  {
+    "id": 2197,
+    "word": "recarsi",
+    "pos": "v.rifl.",
+    "meaning": "去，往"
+  },
+  {
+    "id": 2199,
+    "word": "recente",
+    "pos": "agg.",
+    "meaning": "当前的，目前的"
+  },
+  {
+    "id": 2201,
+    "word": "reciproco",
+    "pos": "agg.",
+    "meaning": "相互的"
+  },
+  {
+    "id": 2203,
+    "word": "recuperare",
+    "pos": "v.tr.",
+    "meaning": "挽救，弥补"
+  },
+  {
+    "id": 2205,
+    "word": "reddito",
+    "pos": "s.m.",
+    "meaning": "收入，所得"
+  },
+  {
+    "id": 2207,
+    "word": "regalare",
+    "pos": "v.tr.",
+    "meaning": "赠送"
+  },
+  {
+    "id": 2209,
+    "word": "regime",
+    "pos": "s.m.",
+    "meaning": "制度"
+  },
+  {
+    "id": 2211,
+    "word": "regionale",
+    "pos": "agg.",
+    "meaning": "区域的"
+  },
+  {
+    "id": 2213,
+    "word": "regione",
+    "pos": "s.f.",
+    "meaning": "地区，大区"
+  },
+  {
+    "id": 2215,
+    "word": "regista",
+    "pos": "s.m./s.f.",
+    "meaning": "导演"
+  },
+  {
+    "id": 2217,
+    "word": "registratore",
+    "pos": "s.m.",
+    "meaning": "录音机"
+  },
+  {
+    "id": 2219,
+    "word": "registro",
+    "pos": "s.m.",
+    "meaning": "登记"
+  },
+  {
+    "id": 2221,
+    "word": "regolare",
+    "pos": "agg.",
+    "meaning": "正常的，规律的"
+  },
+  {
+    "id": 2223,
+    "word": "relazione",
+    "pos": "s.f.",
+    "meaning": "关系"
+  },
+  {
+    "id": 2225,
+    "word": "religione",
+    "pos": "s.f.",
+    "meaning": "宗教"
+  },
+  {
+    "id": 2227,
+    "word": "religioso",
+    "pos": "agg.",
+    "meaning": "宗教的"
+  },
+  {
+    "id": 2229,
+    "word": "remoto",
+    "pos": "agg.",
+    "meaning": "久远的"
+  },
+  {
+    "id": 2231,
+    "word": "rendere",
+    "pos": "v.tr.",
+    "meaning": "使变成"
+  },
+  {
+    "id": 2233,
+    "word": "rendersi conto di",
+    "pos": "",
+    "meaning": "注意到"
+  },
+  {
+    "id": 2235,
+    "word": "residente",
+    "pos": "agg./s.m./s.f.",
+    "meaning": "居民的；居民"
+  },
+  {
+    "id": 2237,
+    "word": "resistenza",
+    "pos": "s.f.",
+    "meaning": "抵抗"
+  },
+  {
+    "id": 2239,
+    "word": "respirare",
+    "pos": "v.tr.",
+    "meaning": "呼吸"
+  },
+  {
+    "id": 2241,
+    "word": "responsabile",
+    "pos": "agg.",
+    "meaning": "负责的"
+  },
+  {
+    "id": 2243,
+    "word": "responsabilità",
+    "pos": "s.f.",
+    "meaning": "责任，责任心"
+  },
+  {
+    "id": 2245,
+    "word": "restare",
+    "pos": "v.intr.",
+    "meaning": "停留，休息"
+  },
+  {
+    "id": 2247,
+    "word": "restituire",
+    "pos": "v.tr.",
+    "meaning": "还"
+  },
+  {
+    "id": 2249,
+    "word": "rete",
+    "pos": "s.f.",
+    "meaning": "网"
+  },
+  {
+    "id": 2251,
+    "word": "rettore",
+    "pos": "s.m.",
+    "meaning": "（大学的）校长，院长"
+  },
+  {
+    "id": 2253,
+    "word": "ricambiare",
+    "pos": "v.tr.",
+    "meaning": "回报"
+  },
+  {
+    "id": 2255,
+    "word": "ricchezza",
+    "pos": "s.f.",
+    "meaning": "财富"
+  },
+  {
+    "id": 2257,
+    "word": "riccio",
+    "pos": "agg.",
+    "meaning": "卷曲的"
+  },
+  {
+    "id": 2259,
+    "word": "ricco",
+    "pos": "agg.",
+    "meaning": "富有的"
+  },
+  {
+    "id": 2261,
+    "word": "ricerca",
+    "pos": "s.f.",
+    "meaning": "研究"
+  },
+  {
+    "id": 2263,
+    "word": "ricetta",
+    "pos": "s.f.",
+    "meaning": "处方，配方"
+  },
+  {
+    "id": 2265,
+    "word": "ricevere",
+    "pos": "v.tr.",
+    "meaning": "收到；接见"
+  },
+  {
+    "id": 2267,
+    "word": "ricevuta",
+    "pos": "s.f.",
+    "meaning": "收据"
+  },
+  {
+    "id": 2269,
+    "word": "richiesta",
+    "pos": "s.f.",
+    "meaning": "要求"
+  },
+  {
+    "id": 2271,
+    "word": "riconoscere",
+    "pos": "v.tr.",
+    "meaning": "认出"
+  },
+  {
+    "id": 2273,
+    "word": "ricordare",
+    "pos": "v.tr.",
+    "meaning": "记得"
+  },
+  {
+    "id": 2275,
+    "word": "ridere",
+    "pos": "v.intr.",
+    "meaning": "笑"
+  },
+  {
+    "id": 2277,
+    "word": "ridicolo",
+    "pos": "agg.",
+    "meaning": "可笑的"
+  },
+  {
+    "id": 2279,
+    "word": "rifiutare",
+    "pos": "v.tr.",
+    "meaning": "拒绝"
+  },
+  {
+    "id": 2281,
+    "word": "riforma",
+    "pos": "s.f.",
+    "meaning": "改革"
+  },
+  {
+    "id": 2283,
+    "word": "riga",
+    "pos": "s.f.",
+    "meaning": "条纹，行"
+  },
+  {
+    "id": 2285,
+    "word": "riguardare",
+    "pos": "v.tr.",
+    "meaning": "涉及"
+  },
+  {
+    "id": 2287,
+    "word": "rimedio",
+    "pos": "s.m.",
+    "meaning": "补救方法"
+  },
+  {
+    "id": 2289,
+    "word": "rimproverare",
+    "pos": "v.tr.",
+    "meaning": "责备"
+  },
+  {
+    "id": 2291,
+    "word": "Rinascimento",
+    "pos": "s.m.",
+    "meaning": "文艺复兴"
+  },
+  {
+    "id": 2293,
+    "word": "ripassare",
+    "pos": "v.intr.",
+    "meaning": "复习"
+  },
+  {
+    "id": 2295,
+    "word": "ripetizione",
+    "pos": "s.f.",
+    "meaning": "重复"
+  },
+  {
+    "id": 2297,
+    "word": "riportare",
+    "pos": "v.tr.",
+    "meaning": "带回，归还"
+  },
+  {
+    "id": 2299,
+    "word": "riposarsi",
+    "pos": "v.rifl.",
+    "meaning": "休息"
+  },
+  {
+    "id": 2301,
+    "word": "riposo",
+    "pos": "s.m.",
+    "meaning": "休息"
+  },
+  {
+    "id": 2303,
+    "word": "rischiare",
+    "pos": "v.tr.",
+    "meaning": "冒...的危险"
+  },
+  {
+    "id": 2305,
+    "word": "rischio",
+    "pos": "s.m.",
+    "meaning": "危险，风险"
+  },
+  {
+    "id": 2307,
+    "word": "riservare",
+    "pos": "v.tr.",
+    "meaning": "保留"
+  },
+  {
+    "id": 2310,
+    "word": "riso",
+    "pos": "s.m.",
+    "meaning": "大米；微笑"
+  },
+  {
+    "id": 2312,
+    "word": "risolvere",
+    "pos": "v.tr.",
+    "meaning": "解决"
+  },
+  {
+    "id": 2314,
+    "word": "risorsa",
+    "pos": "s.f.",
+    "meaning": "资源"
+  },
+  {
+    "id": 2316,
+    "word": "risparmiare",
+    "pos": "v.tr.",
+    "meaning": "节省"
+  },
+  {
+    "id": 2318,
+    "word": "rispettare",
+    "pos": "v.tr.",
+    "meaning": "尊重，尊敬"
+  },
+  {
+    "id": 2320,
+    "word": "rispetto",
+    "pos": "s.m.",
+    "meaning": "尊敬"
+  },
+  {
+    "id": 2322,
+    "word": "rispondere",
+    "pos": "v.intr.",
+    "meaning": "答复"
+  },
+  {
+    "id": 2324,
+    "word": "risposta",
+    "pos": "s.f.",
+    "meaning": "答复"
+  },
+  {
+    "id": 2326,
+    "word": "risultato",
+    "pos": "s.m.",
+    "meaning": "结果"
+  },
+  {
+    "id": 2328,
+    "word": "ritardare",
+    "pos": "v.tr.",
+    "meaning": "推迟"
+  },
+  {
+    "id": 2330,
+    "word": "ritmo",
+    "pos": "s.m.",
+    "meaning": "节奏"
+  },
+  {
+    "id": 2332,
+    "word": "ritorno",
+    "pos": "s.m.",
+    "meaning": "返回"
+  },
+  {
+    "id": 2334,
+    "word": "ritratto",
+    "pos": "s.m.",
+    "meaning": "肖像"
+  },
+  {
+    "id": 2336,
+    "word": "ritto",
+    "pos": "agg.",
+    "meaning": "笔直的"
+  },
+  {
+    "id": 2338,
+    "word": "riva",
+    "pos": "s.f.",
+    "meaning": "河岸"
+  },
+  {
+    "id": 2340,
+    "word": "rivista",
+    "pos": "s.f.",
+    "meaning": "杂志"
+  },
+  {
+    "id": 2342,
+    "word": "rivolgersi",
+    "pos": "v.rifl.",
+    "meaning": "转向"
+  },
+  {
+    "id": 2344,
+    "word": "rivoluzione",
+    "pos": "s.f.",
+    "meaning": "革命"
+  },
+  {
+    "id": 2346,
+    "word": "robusto",
+    "pos": "agg.",
+    "meaning": "健壮的"
+  },
+  {
+    "id": 2348,
+    "word": "roccia",
+    "pos": "s.f.",
+    "meaning": "岩石"
+  },
+  {
+    "id": 2350,
+    "word": "romano",
+    "pos": "agg./s.m.",
+    "meaning": "罗马的；罗马人"
+  },
+  {
+    "id": 2352,
+    "word": "romantico",
+    "pos": "agg.",
+    "meaning": "浪漫主义的"
+  },
+  {
+    "id": 2354,
+    "word": "romanzo",
+    "pos": "s.m.",
+    "meaning": "小说"
+  },
+  {
+    "id": 2356,
+    "word": "rompere",
+    "pos": "v.tr.",
+    "meaning": "打碎，弄坏"
+  },
+  {
+    "id": 2358,
+    "word": "rondine",
+    "pos": "s.f.",
+    "meaning": "燕子"
+  },
+  {
+    "id": 2360,
+    "word": "rosa",
+    "pos": "agg./s.m./s.f.",
+    "meaning": "玫瑰色的；玫瑰色；玫瑰"
+  },
+  {
+    "id": 2362,
+    "word": "rosso",
+    "pos": "agg../s.m.",
+    "meaning": "红色的"
+  },
+  {
+    "id": 2364,
+    "word": "rotondo",
+    "pos": "agg.",
+    "meaning": "圆形的"
+  },
+  {
+    "id": 2366,
+    "word": "rovinare",
+    "pos": "v.tr.",
+    "meaning": "破坏，毁坏"
+  },
+  {
+    "id": 2368,
+    "word": "rubare",
+    "pos": "v.tr.",
+    "meaning": "偷，盗用"
+  },
+  {
+    "id": 2370,
+    "word": "rubinetto",
+    "pos": "s.m.",
+    "meaning": "水龙头"
+  },
+  {
+    "id": 2372,
+    "word": "rumore",
+    "pos": "s.m.",
+    "meaning": "响声；噪音"
+  },
+  {
+    "id": 2374,
+    "word": "ruolo",
+    "pos": "s.m.",
+    "meaning": "角色"
+  },
+  {
+    "id": 2376,
+    "word": "ruota",
+    "pos": "s.f.",
+    "meaning": "车轮"
+  },
+  {
+    "id": 2378,
+    "word": "rurale",
+    "pos": "agg.",
+    "meaning": "农村的，乡下的"
+  },
+  {
+    "id": 2380,
+    "word": "russo",
+    "pos": "agg./s.m.",
+    "meaning": "俄国的；俄国人；俄语"
+  },
+  {
+    "id": 2384,
+    "word": "sabbia",
+    "pos": "s.f.",
+    "meaning": "沙子"
+  },
+  {
+    "id": 2386,
+    "word": "sacca",
+    "pos": "s.f.",
+    "meaning": "袋，包"
+  },
+  {
+    "id": 2388,
+    "word": "sacco",
+    "pos": "s.m.",
+    "meaning": "袋子"
+  },
+  {
+    "id": 2390,
+    "word": "sacrificarsi",
+    "pos": "v.rifl.",
+    "meaning": "牺牲"
+  },
+  {
+    "id": 2392,
+    "word": "sacro",
+    "pos": "agg.",
+    "meaning": "神圣的"
+  },
+  {
+    "id": 2394,
+    "word": "sala",
+    "pos": "s.f.",
+    "meaning": "厅"
+  },
+  {
+    "id": 2396,
+    "word": "salario",
+    "pos": "s.m.",
+    "meaning": "工资"
+  },
+  {
+    "id": 2398,
+    "word": "salato",
+    "pos": "agg.",
+    "meaning": "咸的"
+  },
+  {
+    "id": 2400,
+    "word": "sale",
+    "pos": "s.m.",
+    "meaning": "盐"
+  },
+  {
+    "id": 2402,
+    "word": "salire",
+    "pos": "v.intr.",
+    "meaning": "上"
+  },
+  {
+    "id": 2404,
+    "word": "salto",
+    "pos": "s.m.",
+    "meaning": "条约"
+  },
+  {
+    "id": 2406,
+    "word": "saluto",
+    "pos": "s.m.",
+    "meaning": "问候"
+  },
+  {
+    "id": 2408,
+    "word": "salvare",
+    "pos": "v.tr.",
+    "meaning": "解救"
+  },
+  {
+    "id": 2410,
+    "word": "sandalo",
+    "pos": "s.m.",
+    "meaning": "凉鞋"
+  },
+  {
+    "id": 2412,
+    "word": "sangue",
+    "pos": "s.m.",
+    "meaning": "血液"
+  },
+  {
+    "id": 2414,
+    "word": "sano",
+    "pos": "agg.",
+    "meaning": "健康的"
+  },
+  {
+    "id": 2416,
+    "word": "sapone",
+    "pos": "s.m.",
+    "meaning": "肥皂"
+  },
+  {
+    "id": 2418,
+    "word": "sapore",
+    "pos": "s.m.",
+    "meaning": "味道"
+  },
+  {
+    "id": 2420,
+    "word": "sbagliare",
+    "pos": "v.tr./v.intr.",
+    "meaning": "搞错"
+  },
+  {
+    "id": 2422,
+    "word": "scaffale",
+    "pos": "s.m.",
+    "meaning": "书架"
+  },
+  {
+    "id": 2424,
+    "word": "scappare",
+    "pos": "v.intr.",
+    "meaning": "逃跑"
+  },
+  {
+    "id": 2426,
+    "word": "scarpa",
+    "pos": "s.f.",
+    "meaning": "鞋"
+  },
+  {
+    "id": 2428,
+    "word": "scatola",
+    "pos": "s.f.",
+    "meaning": "盒子"
+  },
+  {
+    "id": 2430,
+    "word": "scegliere",
+    "pos": "v.tr.",
+    "meaning": "选择"
+  },
+  {
+    "id": 2432,
+    "word": "scelta",
+    "pos": "s.f.",
+    "meaning": "选择"
+  },
+  {
+    "id": 2434,
+    "word": "scendere",
+    "pos": "v.intr.",
+    "meaning": "下落"
+  },
+  {
+    "id": 2436,
+    "word": "schermo",
+    "pos": "s.m.",
+    "meaning": "屏幕"
+  },
+  {
+    "id": 2438,
+    "word": "scherzare",
+    "pos": "v.intr.",
+    "meaning": "开玩笑"
+  },
+  {
+    "id": 2440,
+    "word": "scherzo",
+    "pos": "s.m.",
+    "meaning": "开玩笑"
+  },
+  {
+    "id": 2442,
+    "word": "schiacciare",
+    "pos": "v.tr.",
+    "meaning": "压，压碎"
+  },
+  {
+    "id": 2444,
+    "word": "schifo",
+    "pos": "s.m.",
+    "meaning": "厌恶"
+  },
+  {
+    "id": 2446,
+    "word": "sci",
+    "pos": "s.m.",
+    "meaning": "滑雪"
+  },
+  {
+    "id": 2448,
+    "word": "sciare",
+    "pos": "v.intr.",
+    "meaning": "滑雪"
+  },
+  {
+    "id": 2450,
+    "word": "sciarpa",
+    "pos": "s.f.",
+    "meaning": "围巾"
+  },
+  {
+    "id": 2452,
+    "word": "scientifico",
+    "pos": "agg.",
+    "meaning": "科学的"
+  },
+  {
+    "id": 2454,
+    "word": "scienza",
+    "pos": "s.f.",
+    "meaning": "科学"
+  },
+  {
+    "id": 2456,
+    "word": "sciogliersi",
+    "pos": "v.rifl.",
+    "meaning": "融化"
+  },
+  {
+    "id": 2458,
+    "word": "sciopero",
+    "pos": "s.m.",
+    "meaning": "罢工"
+  },
+  {
+    "id": 2460,
+    "word": "scomodo",
+    "pos": "agg.",
+    "meaning": "不舒适的"
+  },
+  {
+    "id": 2462,
+    "word": "scomparsa",
+    "pos": "s.f.",
+    "meaning": "消失，逝世"
+  },
+  {
+    "id": 2464,
+    "word": "sconosciuto",
+    "pos": "agg./s.m.",
+    "meaning": "不认识的；陌生人"
+  },
+  {
+    "id": 2466,
+    "word": "scontento",
+    "pos": "agg.",
+    "meaning": "不高兴的"
+  },
+  {
+    "id": 2468,
+    "word": "sconto",
+    "pos": "s.m.",
+    "meaning": "折扣"
+  },
+  {
+    "id": 2470,
+    "word": "scopo",
+    "pos": "s.m.",
+    "meaning": "目的"
+  },
+  {
+    "id": 2472,
+    "word": "scoprire",
+    "pos": "v.tr.",
+    "meaning": "发现"
+  },
+  {
+    "id": 2474,
+    "word": "scorso",
+    "pos": "agg.",
+    "meaning": "已过去的"
+  },
+  {
+    "id": 2476,
+    "word": "scrivania",
+    "pos": "s.f.",
+    "meaning": "写字台"
+  },
+  {
+    "id": 2478,
+    "word": "scultura",
+    "pos": "s.f.",
+    "meaning": "雕刻（术）"
+  },
+  {
+    "id": 2480,
+    "word": "scuro",
+    "pos": "agg.",
+    "meaning": "暗颜色的，暗的"
+  },
+  {
+    "id": 2482,
+    "word": "scusa",
+    "pos": "s.f.",
+    "meaning": "原谅；借口"
+  },
+  {
+    "id": 2484,
+    "word": "sdraiarsi",
+    "pos": "v.rifl.",
+    "meaning": "平躺下"
+  },
+  {
+    "id": 2486,
+    "word": "sedersi",
+    "pos": "v.rifl.",
+    "meaning": "坐下"
+  },
+  {
+    "id": 2488,
+    "word": "sedia",
+    "pos": "s.f.",
+    "meaning": "椅子"
+  },
+  {
+    "id": 2490,
+    "word": "sedia a sdraio",
+    "pos": "",
+    "meaning": "躺椅"
+  },
+  {
+    "id": 2492,
+    "word": "seduto",
+    "pos": "agg.",
+    "meaning": "坐着的"
+  },
+  {
+    "id": 2494,
+    "word": "segnare",
+    "pos": "v.tr.",
+    "meaning": "打上记号，记下"
+  },
+  {
+    "id": 2496,
+    "word": "segreteria",
+    "pos": "s.f.",
+    "meaning": "秘书处"
+  },
+  {
+    "id": 2498,
+    "word": "segreto",
+    "pos": "s.m.",
+    "meaning": "秘密"
+  },
+  {
+    "id": 2500,
+    "word": "seguente",
+    "pos": "agg.",
+    "meaning": "下列的，后面的"
+  },
+  {
+    "id": 2502,
+    "word": "seguire",
+    "pos": "v.tr.",
+    "meaning": "遵照"
+  },
+  {
+    "id": 2504,
+    "word": "seguire",
+    "pos": "v.tr.",
+    "meaning": "跟随"
+  },
+  {
+    "id": 2506,
+    "word": "selezione",
+    "pos": "s.f.",
+    "meaning": "筛选"
+  },
+  {
+    "id": 2508,
+    "word": "selvatico",
+    "pos": "agg.",
+    "meaning": "野生的"
+  },
+  {
+    "id": 2510,
+    "word": "semaforo",
+    "pos": "s.m.",
+    "meaning": "红绿灯"
+  },
+  {
+    "id": 2512,
+    "word": "semestre",
+    "pos": "s.m.",
+    "meaning": "学期"
+  },
+  {
+    "id": 2514,
+    "word": "semplice",
+    "pos": "agg.",
+    "meaning": "简单的"
+  },
+  {
+    "id": 2516,
+    "word": "sensibile",
+    "pos": "agg.",
+    "meaning": "敏感的"
+  },
+  {
+    "id": 2518,
+    "word": "senso",
+    "pos": "s.m.",
+    "meaning": "感觉；意义"
+  },
+  {
+    "id": 2520,
+    "word": "sentimento",
+    "pos": "s.m.",
+    "meaning": "感情"
+  },
+  {
+    "id": 2522,
+    "word": "senza",
+    "pos": "prep.",
+    "meaning": "没有，无"
+  },
+  {
+    "id": 2524,
+    "word": "separato",
+    "pos": "agg.",
+    "meaning": "分开的，分居的"
+  },
+  {
+    "id": 2526,
+    "word": "sera",
+    "pos": "s.f.",
+    "meaning": "晚上"
+  },
+  {
+    "id": 2528,
+    "word": "serie",
+    "pos": "s.f.",
+    "meaning": "系列"
+  },
+  {
+    "id": 2530,
+    "word": "serio",
+    "pos": "agg.",
+    "meaning": "严肃的"
+  },
+  {
+    "id": 2532,
+    "word": "serpente",
+    "pos": "s.m.",
+    "meaning": "蛇"
+  },
+  {
+    "id": 2534,
+    "word": "servire",
+    "pos": "v.intr./v.tr.",
+    "meaning": "用来；为...服务"
+  },
+  {
+    "id": 2536,
+    "word": "servizio",
+    "pos": "s.m.",
+    "meaning": "服务"
+  },
+  {
+    "id": 2538,
+    "word": "seta",
+    "pos": "s.f.",
+    "meaning": "丝（织品）"
+  },
+  {
+    "id": 2540,
+    "word": "sete",
+    "pos": "s.f.",
+    "meaning": "渴"
+  },
+  {
+    "id": 2542,
+    "word": "settimana",
+    "pos": "s.f.",
+    "meaning": "星期"
+  },
+  {
+    "id": 2544,
+    "word": "settimanale",
+    "pos": "agg./s.m.",
+    "meaning": "一星期的；周刊"
+  },
+  {
+    "id": 2546,
+    "word": "settore",
+    "pos": "s.m.",
+    "meaning": "领域，部门"
+  },
+  {
+    "id": 2548,
+    "word": "severo",
+    "pos": "agg.",
+    "meaning": "严厉的"
+  },
+  {
+    "id": 2550,
+    "word": "sfogare",
+    "pos": "v.tr.",
+    "meaning": "发泄；倾诉"
+  },
+  {
+    "id": 2552,
+    "word": "sfortunato",
+    "pos": "agg.",
+    "meaning": "运气不佳的"
+  },
+  {
+    "id": 2554,
+    "word": "sforzo",
+    "pos": "s.m.",
+    "meaning": "努力"
+  },
+  {
+    "id": 2556,
+    "word": "sguardo",
+    "pos": "s.m.",
+    "meaning": "一眼"
+  },
+  {
+    "id": 2558,
+    "word": "siccome",
+    "pos": "cong.",
+    "meaning": "由于，鉴于"
+  },
+  {
+    "id": 2560,
+    "word": "sicurezza",
+    "pos": "s.f.",
+    "meaning": "保险，安全"
+  },
+  {
+    "id": 2562,
+    "word": "sicuro",
+    "pos": "agg.",
+    "meaning": "肯定的，相信的"
+  },
+  {
+    "id": 2564,
+    "word": "significare",
+    "pos": "v.tr.",
+    "meaning": "意味着"
+  },
+  {
+    "id": 2566,
+    "word": "silenzioso",
+    "pos": "agg.",
+    "meaning": "不出声的"
+  },
+  {
+    "id": 2568,
+    "word": "simbolo",
+    "pos": "s.m.",
+    "meaning": "象征"
+  },
+  {
+    "id": 2570,
+    "word": "simile",
+    "pos": "agg.",
+    "meaning": "相似的"
+  },
+  {
+    "id": 2572,
+    "word": "simpatia",
+    "pos": "s.f.",
+    "meaning": "同情，好感"
+  },
+  {
+    "id": 2574,
+    "word": "simpatico",
+    "pos": "agg.",
+    "meaning": "和蔼可亲的"
+  },
+  {
+    "id": 2576,
+    "word": "sincero",
+    "pos": "agg.",
+    "meaning": "坦率的"
+  },
+  {
+    "id": 2578,
+    "word": "sindacato",
+    "pos": "s.m.",
+    "meaning": "工会"
+  },
+  {
+    "id": 2580,
+    "word": "sindaco",
+    "pos": "s.m.",
+    "meaning": "市长"
+  },
+  {
+    "id": 2582,
+    "word": "sinistra",
+    "pos": "s.f.",
+    "meaning": "左（边，方）"
+  },
+  {
+    "id": 2584,
+    "word": "sintomo",
+    "pos": "s.m.",
+    "meaning": "征兆，症状"
+  },
+  {
+    "id": 2586,
+    "word": "sistemare",
+    "pos": "v.tr.",
+    "meaning": "安排"
+  },
+  {
+    "id": 2588,
+    "word": "situazione",
+    "pos": "s.f.",
+    "meaning": "形势"
+  },
+  {
+    "id": 2590,
+    "word": "slancio",
+    "pos": "s.m.",
+    "meaning": "冲动"
+  },
+  {
+    "id": 2592,
+    "word": "smettere",
+    "pos": "v.tr.",
+    "meaning": "停止"
+  },
+  {
+    "id": 2594,
+    "word": "sociale",
+    "pos": "agg.",
+    "meaning": "社会的"
+  },
+  {
+    "id": 2596,
+    "word": "società",
+    "pos": "s.f.",
+    "meaning": "社会"
+  },
+  {
+    "id": 2598,
+    "word": "soda",
+    "pos": "s.f.",
+    "meaning": "苏打"
+  },
+  {
+    "id": 2600,
+    "word": "soddisfazione",
+    "pos": "s.f.",
+    "meaning": "满意"
+  },
+  {
+    "id": 2602,
+    "word": "sofferenza",
+    "pos": "s.f.",
+    "meaning": "苦难"
+  },
+  {
+    "id": 2604,
+    "word": "soffrire",
+    "pos": "v.tr.",
+    "meaning": "遭受；患...病"
+  },
+  {
+    "id": 2606,
+    "word": "sognare",
+    "pos": "v.tr./v.intr.",
+    "meaning": "梦见；做梦"
+  },
+  {
+    "id": 2608,
+    "word": "sogno",
+    "pos": "s.m.",
+    "meaning": "梦"
+  },
+  {
+    "id": 2610,
+    "word": "solamente",
+    "pos": "avv.",
+    "meaning": "只，仅"
+  },
+  {
+    "id": 2612,
+    "word": "solare",
+    "pos": "agg.",
+    "meaning": "太阳的"
+  },
+  {
+    "id": 2614,
+    "word": "soldi",
+    "pos": "s.m.pl.",
+    "meaning": "钱"
+  },
+  {
+    "id": 2616,
+    "word": "sole",
+    "pos": "s.m.",
+    "meaning": "太阳"
+  },
+  {
+    "id": 2618,
+    "word": "solido",
+    "pos": "agg./s.m.",
+    "meaning": "坚固的；固体"
+  },
+  {
+    "id": 2620,
+    "word": "solitudine",
+    "pos": "s.f.",
+    "meaning": "孤独"
+  },
+  {
+    "id": 2622,
+    "word": "solo",
+    "pos": "agg./avv.",
+    "meaning": "单独的，只"
+  },
+  {
+    "id": 2624,
+    "word": "soluzione",
+    "pos": "s.f.",
+    "meaning": "解决的办法"
+  },
+  {
+    "id": 2626,
+    "word": "sonno",
+    "pos": "s.m.",
+    "meaning": "困"
+  },
+  {
+    "id": 2628,
+    "word": "sopportare",
+    "pos": "v.tr.",
+    "meaning": "支持，受得了"
+  },
+  {
+    "id": 2630,
+    "word": "sopracciglio",
+    "pos": "s.m.",
+    "meaning": "眉毛"
+  },
+  {
+    "id": 2632,
+    "word": "soprano",
+    "pos": "s.m./s.f.",
+    "meaning": "女高音"
+  },
+  {
+    "id": 2634,
+    "word": "soprattutto",
+    "pos": "avv.",
+    "meaning": "尤其是，首先"
+  },
+  {
+    "id": 2636,
+    "word": "sopravvivere",
+    "pos": "v.intr.",
+    "meaning": "幸存"
+  },
+  {
+    "id": 2638,
+    "word": "sorgere",
+    "pos": "v.intr.",
+    "meaning": "耸立，起来"
+  },
+  {
+    "id": 2640,
+    "word": "sorridere",
+    "pos": "v.intr.",
+    "meaning": "微笑"
+  },
+  {
+    "id": 2642,
+    "word": "sorriso",
+    "pos": "s.m.",
+    "meaning": "微笑"
+  },
+  {
+    "id": 2644,
+    "word": "sospiro",
+    "pos": "s.m.",
+    "meaning": "叹息"
+  },
+  {
+    "id": 2646,
+    "word": "sostenere",
+    "pos": "v.tr.",
+    "meaning": "支持，支撑"
+  },
+  {
+    "id": 2648,
+    "word": "sostituire",
+    "pos": "v.tr.",
+    "meaning": "替换"
+  },
+  {
+    "id": 2650,
+    "word": "sottile",
+    "pos": "agg.",
+    "meaning": "细的"
+  },
+  {
+    "id": 2652,
+    "word": "sotto",
+    "pos": "prep./avv.",
+    "meaning": "在...下面"
+  },
+  {
+    "id": 2654,
+    "word": "souvenir",
+    "pos": "s.m.",
+    "meaning": "（法语）纪念品"
+  },
+  {
+    "id": 2656,
+    "word": "spaghetti",
+    "pos": "s.m.pl.",
+    "meaning": "面条"
+  },
+  {
+    "id": 2658,
+    "word": "spalla",
+    "pos": "s.f.",
+    "meaning": "肩"
+  },
+  {
+    "id": 2660,
+    "word": "sparire",
+    "pos": "v.intr.",
+    "meaning": "消失"
+  },
+  {
+    "id": 2662,
+    "word": "spazio",
+    "pos": "s.m.",
+    "meaning": "空间"
+  },
+  {
+    "id": 2664,
+    "word": "spazioso",
+    "pos": "agg.",
+    "meaning": "宽敞的"
+  },
+  {
+    "id": 2666,
+    "word": "specchio",
+    "pos": "s.m.",
+    "meaning": "镜子"
+  },
+  {
+    "id": 2668,
+    "word": "speciale",
+    "pos": "agg.",
+    "meaning": "特别的"
+  },
+  {
+    "id": 2670,
+    "word": "specialmente",
+    "pos": "avv.",
+    "meaning": "特别地"
+  },
+  {
+    "id": 2672,
+    "word": "specie",
+    "pos": "s.f.",
+    "meaning": "种，品种"
+  },
+  {
+    "id": 2674,
+    "word": "specifico",
+    "pos": "agg.",
+    "meaning": "特定的"
+  },
+  {
+    "id": 2676,
+    "word": "spendere",
+    "pos": "v.tr.",
+    "meaning": "花费"
+  },
+  {
+    "id": 2678,
+    "word": "spento",
+    "pos": "agg.",
+    "meaning": "熄灭的"
+  },
+  {
+    "id": 2680,
+    "word": "speranza",
+    "pos": "s.f.",
+    "meaning": "希望"
+  },
+  {
+    "id": 2682,
+    "word": "sperimentazione",
+    "pos": "s.f.",
+    "meaning": "实验"
+  },
+  {
+    "id": 2684,
+    "word": "spesa",
+    "pos": "s.f.",
+    "meaning": "花费"
+  },
+  {
+    "id": 2686,
+    "word": "spiaggia",
+    "pos": "s.f.",
+    "meaning": "海滩"
+  },
+  {
+    "id": 2688,
+    "word": "spiegare",
+    "pos": "v.tr.",
+    "meaning": "讲解，解释"
+  },
+  {
+    "id": 2690,
+    "word": "spinta",
+    "pos": "s.f.",
+    "meaning": "推动"
+  },
+  {
+    "id": 2691,
+    "word": "spiritoso",
+    "pos": "agg.",
+    "meaning": "幽默的"
+  },
+  {
+    "id": 2693,
+    "word": "spirituale",
+    "pos": "agg.",
+    "meaning": "精神的"
+  },
+  {
+    "id": 2695,
+    "word": "splendido",
+    "pos": "agg.",
+    "meaning": "壮丽的，辉煌的"
+  },
+  {
+    "id": 2697,
+    "word": "sporcare",
+    "pos": "v.tr.",
+    "meaning": "弄脏"
+  },
+  {
+    "id": 2699,
+    "word": "sporco",
+    "pos": "agg.",
+    "meaning": "脏的"
+  },
+  {
+    "id": 2701,
+    "word": "sportivo",
+    "pos": "agg.",
+    "meaning": "运动的"
+  },
+  {
+    "id": 2703,
+    "word": "sposa",
+    "pos": "s.f.",
+    "meaning": "新娘"
+  },
+  {
+    "id": 2705,
+    "word": "sposare",
+    "pos": "v.tr.",
+    "meaning": "娶，嫁"
+  },
+  {
+    "id": 2707,
+    "word": "sposo",
+    "pos": "s.m.",
+    "meaning": "新郎"
+  },
+  {
+    "id": 2709,
+    "word": "sprecare",
+    "pos": "v.tr.",
+    "meaning": "浪费"
+  },
+  {
+    "id": 2711,
+    "word": "spumante",
+    "pos": "s..m.",
+    "meaning": "汽酒（香槟酒）"
+  },
+  {
+    "id": 2713,
+    "word": "squadra",
+    "pos": "s.f.",
+    "meaning": "队伍"
+  },
+  {
+    "id": 2715,
+    "word": "stabilire",
+    "pos": "v.tr.",
+    "meaning": "建立，制订"
+  },
+  {
+    "id": 2717,
+    "word": "stamattina",
+    "pos": "s.f.",
+    "meaning": "今天早晨"
+  },
+  {
+    "id": 2719,
+    "word": "stanco",
+    "pos": "agg.",
+    "meaning": "疲劳的"
+  },
+  {
+    "id": 2721,
+    "word": "stanotte",
+    "pos": "avv.",
+    "meaning": "今夜；昨夜"
+  },
+  {
+    "id": 2723,
+    "word": "stanza",
+    "pos": "s.f.",
+    "meaning": "房间"
+  },
+  {
+    "id": 2725,
+    "word": "stella",
+    "pos": "s.f.",
+    "meaning": "星星"
+  },
+  {
+    "id": 2727,
+    "word": "stendersi",
+    "pos": "v.rifl.",
+    "meaning": "躺下；延伸"
+  },
+  {
+    "id": 2729,
+    "word": "stesso",
+    "pos": "agg.",
+    "meaning": "自己的，同一个的"
+  },
+  {
+    "id": 2731,
+    "word": "stile",
+    "pos": "s.m.",
+    "meaning": "风格"
+  },
+  {
+    "id": 2733,
+    "word": "stimolo",
+    "pos": "s.m.",
+    "meaning": "刺激，推动"
+  },
+  {
+    "id": 2735,
+    "word": "stipendio",
+    "pos": "s.m.",
+    "meaning": "工资"
+  },
+  {
+    "id": 2737,
+    "word": "stivale",
+    "pos": "s.m.",
+    "meaning": "靴子"
+  },
+  {
+    "id": 2739,
+    "word": "stomaco",
+    "pos": "s.m.",
+    "meaning": "胃"
+  },
+  {
+    "id": 2741,
+    "word": "storia",
+    "pos": "s.f.",
+    "meaning": "历史，故事"
+  },
+  {
+    "id": 2743,
+    "word": "storico",
+    "pos": "agg.",
+    "meaning": "历史的"
+  },
+  {
+    "id": 2745,
+    "word": "storto",
+    "pos": "agg.",
+    "meaning": "歪的"
+  },
+  {
+    "id": 2747,
+    "word": "straniero",
+    "pos": "agg./s.m.",
+    "meaning": "外国的；外国人"
+  },
+  {
+    "id": 2749,
+    "word": "strano",
+    "pos": "agg.",
+    "meaning": "奇怪的"
+  },
+  {
+    "id": 2751,
+    "word": "straordinario",
+    "pos": "agg.",
+    "meaning": "特别的，非凡的"
+  },
+  {
+    "id": 2753,
+    "word": "strappare",
+    "pos": "v.tr.",
+    "meaning": "撕掉"
+  },
+  {
+    "id": 2755,
+    "word": "strettamente",
+    "pos": "avv.",
+    "meaning": "紧密地"
+  },
+  {
+    "id": 2757,
+    "word": "stringere",
+    "pos": "v.tr.",
+    "meaning": "紧握"
+  },
+  {
+    "id": 2759,
+    "word": "strtto",
+    "pos": "agg.",
+    "meaning": "狭窄的"
+  },
+  {
+    "id": 2761,
+    "word": "strumento",
+    "pos": "s.m.",
+    "meaning": "乐器；工具，仪表"
+  },
+  {
+    "id": 2763,
+    "word": "struttura",
+    "pos": "s.f.",
+    "meaning": "结构"
+  },
+  {
+    "id": 2765,
+    "word": "studente",
+    "pos": "s.m.",
+    "meaning": "学生"
+  },
+  {
+    "id": 2767,
+    "word": "studentessa",
+    "pos": "s.f.",
+    "meaning": "女学生"
+  },
+  {
+    "id": 2769,
+    "word": "studiare",
+    "pos": "v.tr.",
+    "meaning": "学习"
+  },
+  {
+    "id": 2771,
+    "word": "studioso",
+    "pos": "agg.",
+    "meaning": "好学的"
+  },
+  {
+    "id": 2773,
+    "word": "stupido",
+    "pos": "agg.",
+    "meaning": "愚蠢的"
+  },
+  {
+    "id": 2775,
+    "word": "subito",
+    "pos": "avv.",
+    "meaning": "马上，立刻"
+  },
+  {
+    "id": 2777,
+    "word": "succedere",
+    "pos": "v.intr.",
+    "meaning": "发生"
+  },
+  {
+    "id": 2779,
+    "word": "successivo",
+    "pos": "agg.",
+    "meaning": "连续的"
+  },
+  {
+    "id": 2781,
+    "word": "succo",
+    "pos": "s.m.",
+    "meaning": "果汁"
+  },
+  {
+    "id": 2783,
+    "word": "sud",
+    "pos": "s.m.",
+    "meaning": "南方"
+  },
+  {
+    "id": 2785,
+    "word": "sufficiente",
+    "pos": "agg.",
+    "meaning": "足够的"
+  },
+  {
+    "id": 2787,
+    "word": "suonare",
+    "pos": "v.tr/v.intr.",
+    "meaning": "弹琴；发出声音"
+  },
+  {
+    "id": 2789,
+    "word": "suono",
+    "pos": "s.m.",
+    "meaning": "声音"
+  },
+  {
+    "id": 2791,
+    "word": "superare",
+    "pos": "v.tr.",
+    "meaning": "超过"
+  },
+  {
+    "id": 2793,
+    "word": "superficiale",
+    "pos": "agg.",
+    "meaning": "表面的，肤浅的"
+  },
+  {
+    "id": 2795,
+    "word": "superiore",
+    "pos": "agg/s.m.",
+    "meaning": "较高级的；上级"
+  },
+  {
+    "id": 2797,
+    "word": "supremo",
+    "pos": "agg.",
+    "meaning": "最高的"
+  },
+  {
+    "id": 2799,
+    "word": "svantaggio",
+    "pos": "s.m.",
+    "meaning": "害处，不利"
+  },
+  {
+    "id": 2801,
+    "word": "sveglia",
+    "pos": "s.f.",
+    "meaning": "闹钟"
+  },
+  {
+    "id": 2803,
+    "word": "svegliarsi",
+    "pos": "v.rifl.",
+    "meaning": "醒"
+  },
+  {
+    "id": 2805,
+    "word": "sveglio",
+    "pos": "agg.",
+    "meaning": "头脑敏捷的"
+  },
+  {
+    "id": 2807,
+    "word": "svenire",
+    "pos": "v.intr.",
+    "meaning": "晕倒"
+  },
+  {
+    "id": 2809,
+    "word": "sviluppare",
+    "pos": "v.tr.",
+    "meaning": "发展，使成长"
+  },
+  {
+    "id": 2811,
+    "word": "svilupparsi",
+    "pos": "v.rifl.",
+    "meaning": "发展"
+  },
+  {
+    "id": 2813,
+    "word": "sviluppato",
+    "pos": "agg.",
+    "meaning": "发达的"
+  },
+  {
+    "id": 2815,
+    "word": "svizzero",
+    "pos": "agg./s.m.",
+    "meaning": "瑞士的；瑞士人"
+  },
+  {
+    "id": 2820,
+    "word": "tacchino",
+    "pos": "s.m.",
+    "meaning": "火鸡"
+  },
+  {
+    "id": 2822,
+    "word": "tacco",
+    "pos": "s.m.",
+    "meaning": "鞋跟"
+  },
+  {
+    "id": 2824,
+    "word": "taglia",
+    "pos": "s.f.",
+    "meaning": "（衣服）尺码"
+  },
+  {
+    "id": 2826,
+    "word": "tagliare",
+    "pos": "v.tr.",
+    "meaning": "切"
+  },
+  {
+    "id": 2828,
+    "word": "tale",
+    "pos": "agg.",
+    "meaning": "这样的，如此的"
+  },
+  {
+    "id": 2830,
+    "word": "talmente",
+    "pos": "avv.",
+    "meaning": "如此地"
+  },
+  {
+    "id": 2832,
+    "word": "talvolta",
+    "pos": "avv.",
+    "meaning": "有时"
+  },
+  {
+    "id": 2834,
+    "word": "tappeto",
+    "pos": "s.m.",
+    "meaning": "地毯"
+  },
+  {
+    "id": 2836,
+    "word": "tardi",
+    "pos": "avv.",
+    "meaning": "晚"
+  },
+  {
+    "id": 2838,
+    "word": "tasca",
+    "pos": "s.f.",
+    "meaning": "口袋"
+  },
+  {
+    "id": 2840,
+    "word": "tassa",
+    "pos": "s.f.",
+    "meaning": "税"
+  },
+  {
+    "id": 2842,
+    "word": "tasso",
+    "pos": "s.m.",
+    "meaning": "比率"
+  },
+  {
+    "id": 2844,
+    "word": "tavolo",
+    "pos": "s.m.",
+    "meaning": "方桌，长桌"
+  },
+  {
+    "id": 2846,
+    "word": "tè",
+    "pos": "s.m.",
+    "meaning": "茶"
+  },
+  {
+    "id": 2848,
+    "word": "teatro",
+    "pos": "s.m.",
+    "meaning": "戏剧；剧场"
+  },
+  {
+    "id": 2850,
+    "word": "tecnologia",
+    "pos": "s.f.",
+    "meaning": "技术"
+  },
+  {
+    "id": 2852,
+    "word": "telegiornale",
+    "pos": "s.m.",
+    "meaning": "电视新闻"
+  },
+  {
+    "id": 2854,
+    "word": "televisione",
+    "pos": "s.f.",
+    "meaning": "电视"
+  },
+  {
+    "id": 2856,
+    "word": "televisore",
+    "pos": "s.m.",
+    "meaning": "电视机"
+  },
+  {
+    "id": 2858,
+    "word": "televisore a colori",
+    "pos": "",
+    "meaning": "彩色电视机"
+  },
+  {
+    "id": 2860,
+    "word": "televisore in bianco e nero",
+    "pos": "",
+    "meaning": "黑白电视机"
+  },
+  {
+    "id": 2862,
+    "word": "temere",
+    "pos": "v.tr.",
+    "meaning": "害怕"
+  },
+  {
+    "id": 2864,
+    "word": "tempio",
+    "pos": "s.m.",
+    "meaning": "庙宇"
+  },
+  {
+    "id": 2866,
+    "word": "tendenza",
+    "pos": "s.f.",
+    "meaning": "倾向，趋势"
+  },
+  {
+    "id": 2868,
+    "word": "tenero",
+    "pos": "agg.",
+    "meaning": "嫩的，柔软的"
+  },
+  {
+    "id": 2870,
+    "word": "tentare",
+    "pos": "v.tr.",
+    "meaning": "企图"
+  },
+  {
+    "id": 2872,
+    "word": "terapia",
+    "pos": "s.f.",
+    "meaning": "治疗（法）"
+  },
+  {
+    "id": 2874,
+    "word": "terme",
+    "pos": "s.f.pl.",
+    "meaning": "温泉"
+  },
+  {
+    "id": 2876,
+    "word": "termianre",
+    "pos": "v.tr./v.intr.",
+    "meaning": "结束"
+  },
+  {
+    "id": 2878,
+    "word": "termine",
+    "pos": "s.m.",
+    "meaning": "期限；顶端"
+  },
+  {
+    "id": 2880,
+    "word": "terra",
+    "pos": "s.f.",
+    "meaning": "地"
+  },
+  {
+    "id": 2882,
+    "word": "terrazza",
+    "pos": "s.f.",
+    "meaning": "露台"
+  },
+  {
+    "id": 2884,
+    "word": "terremoto",
+    "pos": "s.m.",
+    "meaning": "地震"
+  },
+  {
+    "id": 2886,
+    "word": "terribile",
+    "pos": "agg.",
+    "meaning": "可怕的"
+  },
+  {
+    "id": 2888,
+    "word": "territorio",
+    "pos": "s.m.",
+    "meaning": "领土"
+  },
+  {
+    "id": 2890,
+    "word": "tesi",
+    "pos": "s.f.",
+    "meaning": "论文"
+  },
+  {
+    "id": 2892,
+    "word": "tesoro",
+    "pos": "s.m.",
+    "meaning": "珍宝，宝贝"
+  },
+  {
+    "id": 2894,
+    "word": "tessera",
+    "pos": "s.f.",
+    "meaning": "证件"
+  },
+  {
+    "id": 2896,
+    "word": "tessile",
+    "pos": "agg.",
+    "meaning": "纺织的"
+  },
+  {
+    "id": 2898,
+    "word": "testa",
+    "pos": "s.f.",
+    "meaning": "头"
+  },
+  {
+    "id": 2900,
+    "word": "testimone",
+    "pos": "s.m./s.f.",
+    "meaning": "证人；证据"
+  },
+  {
+    "id": 2902,
+    "word": "testo",
+    "pos": "s.m.",
+    "meaning": "课文"
+  },
+  {
+    "id": 2904,
+    "word": "timido",
+    "pos": "agg.",
+    "meaning": "腼腆的"
+  },
+  {
+    "id": 2906,
+    "word": "tingere",
+    "pos": "v.tr.",
+    "meaning": "染色"
+  },
+  {
+    "id": 2908,
+    "word": "tipico",
+    "pos": "agg.",
+    "meaning": "典型的"
+  },
+  {
+    "id": 2910,
+    "word": "tipo",
+    "pos": "s.m.",
+    "meaning": "种类"
+  },
+  {
+    "id": 2912,
+    "word": "titolo",
+    "pos": "s.m.",
+    "meaning": "标题，题目"
+  },
+  {
+    "id": 2914,
+    "word": "toccare",
+    "pos": "v.tr./v.intr.",
+    "meaning": "触及"
+  },
+  {
+    "id": 2916,
+    "word": "togliere",
+    "pos": "v.tr.",
+    "meaning": "去掉"
+  },
+  {
+    "id": 2918,
+    "word": "tomba",
+    "pos": "s.f.",
+    "meaning": "坟墓"
+  },
+  {
+    "id": 2920,
+    "word": "tono",
+    "pos": "s.m.",
+    "meaning": "声调"
+  },
+  {
+    "id": 2922,
+    "word": "torre",
+    "pos": "s.f.",
+    "meaning": "塔，钟楼"
+  },
+  {
+    "id": 2924,
+    "word": "torta",
+    "pos": "s.f.",
+    "meaning": "蛋糕"
+  },
+  {
+    "id": 2926,
+    "word": "tra",
+    "pos": "prep.",
+    "meaning": "在...之间（中）"
+  },
+  {
+    "id": 2928,
+    "word": "traccia",
+    "pos": "s.f.",
+    "meaning": "痕迹，足迹"
+  },
+  {
+    "id": 2930,
+    "word": "tradimento",
+    "pos": "s.m.",
+    "meaning": "背叛，出卖"
+  },
+  {
+    "id": 2932,
+    "word": "tradire",
+    "pos": "v.tr.",
+    "meaning": "背叛"
+  },
+  {
+    "id": 2934,
+    "word": "tradizionale",
+    "pos": "agg.",
+    "meaning": "传统的"
+  },
+  {
+    "id": 2936,
+    "word": "tradizione",
+    "pos": "s.f.",
+    "meaning": "传统"
+  },
+  {
+    "id": 2938,
+    "word": "tradurre",
+    "pos": "v.tr.",
+    "meaning": "翻译"
+  },
+  {
+    "id": 2940,
+    "word": "traduzione",
+    "pos": "s.f.",
+    "meaning": "翻译"
+  },
+  {
+    "id": 2942,
+    "word": "traffico",
+    "pos": "s.m.",
+    "meaning": "交通"
+  },
+  {
+    "id": 2944,
+    "word": "tragedia",
+    "pos": "s.f.",
+    "meaning": "悲剧，惨案"
+  },
+  {
+    "id": 2946,
+    "word": "tramontare",
+    "pos": "v.intr.",
+    "meaning": "落下，沉下"
+  },
+  {
+    "id": 2948,
+    "word": "tramonto",
+    "pos": "s.m.",
+    "meaning": "日落"
+  },
+  {
+    "id": 2950,
+    "word": "tranne",
+    "pos": "prep.",
+    "meaning": "除...之外"
+  },
+  {
+    "id": 2952,
+    "word": "transito",
+    "pos": "s.m.",
+    "meaning": "过境"
+  },
+  {
+    "id": 2954,
+    "word": "trasferirsi",
+    "pos": "v.rifl.",
+    "meaning": "搬家"
+  },
+  {
+    "id": 2956,
+    "word": "trasformare",
+    "pos": "v.tr.",
+    "meaning": "改造"
+  },
+  {
+    "id": 2958,
+    "word": "trasmissione",
+    "pos": "s.f.",
+    "meaning": "转播"
+  },
+  {
+    "id": 2960,
+    "word": "trasportare",
+    "pos": "v.tr.",
+    "meaning": "运输"
+  },
+  {
+    "id": 2962,
+    "word": "trasporto",
+    "pos": "s.m.",
+    "meaning": "运输"
+  },
+  {
+    "id": 2964,
+    "word": "trattare",
+    "pos": "v.tr.",
+    "meaning": "对待"
+  },
+  {
+    "id": 2966,
+    "word": "trattarsi",
+    "pos": "v.rifl.",
+    "meaning": "关于"
+  },
+  {
+    "id": 2968,
+    "word": "trattativa",
+    "pos": "s.f.",
+    "meaning": "洽谈，谈判"
+  },
+  {
+    "id": 2970,
+    "word": "tratto",
+    "pos": "s.m.",
+    "meaning": "段"
+  },
+  {
+    "id": 2972,
+    "word": "trattoria",
+    "pos": "s.f.",
+    "meaning": "饭馆，小吃店"
+  },
+  {
+    "id": 2974,
+    "word": "tremare",
+    "pos": "v.intr.",
+    "meaning": "发抖"
+  },
+  {
+    "id": 2976,
+    "word": "triste",
+    "pos": "agg.",
+    "meaning": "愁苦的"
+  },
+  {
+    "id": 2978,
+    "word": "tristezza",
+    "pos": "s.f.",
+    "meaning": "愁苦"
+  },
+  {
+    "id": 2980,
+    "word": "troppo",
+    "pos": "avv./agg.",
+    "meaning": "太；太多"
+  },
+  {
+    "id": 2982,
+    "word": "truffare",
+    "pos": "v.tr.",
+    "meaning": "诈骗"
+  },
+  {
+    "id": 2984,
+    "word": "truppa",
+    "pos": "s.f.",
+    "meaning": "部队"
+  },
+  {
+    "id": 2986,
+    "word": "turista",
+    "pos": "s.m./s.f.",
+    "meaning": "游客"
+  },
+  {
+    "id": 2988,
+    "word": "turno",
+    "pos": "s.m.",
+    "meaning": "轮班"
+  },
+  {
+    "id": 2993,
+    "word": "ubbidire",
+    "pos": "v.tr.",
+    "meaning": "听从，服从"
+  },
+  {
+    "id": 2995,
+    "word": "ubriaco",
+    "pos": "agg.",
+    "meaning": "喝醉的"
+  },
+  {
+    "id": 2997,
+    "word": "ubriaco fradicio",
+    "pos": "",
+    "meaning": "烂醉如泥的"
+  },
+  {
+    "id": 2999,
+    "word": "uccello",
+    "pos": "s.m.",
+    "meaning": "鸟"
+  },
+  {
+    "id": 3001,
+    "word": "uccidere",
+    "pos": "v.tr.",
+    "meaning": "杀害"
+  },
+  {
+    "id": 3003,
+    "word": "ufficiale",
+    "pos": "agg.",
+    "meaning": "正式的，官方的"
+  },
+  {
+    "id": 3005,
+    "word": "ufficio informazioni",
+    "pos": "",
+    "meaning": "问讯处"
+  },
+  {
+    "id": 3007,
+    "word": "uguale",
+    "pos": "agg.",
+    "meaning": "一样的"
+  },
+  {
+    "id": 3009,
+    "word": "ultimo",
+    "pos": "agg.",
+    "meaning": "最后的；最近的"
+  },
+  {
+    "id": 3011,
+    "word": "ultimo",
+    "pos": "agg.",
+    "meaning": "最后的，最近的"
+  },
+  {
+    "id": 3013,
+    "word": "umano",
+    "pos": "agg.",
+    "meaning": "人的；有人性的"
+  },
+  {
+    "id": 3015,
+    "word": "umidità",
+    "pos": "s.f.",
+    "meaning": "湿润，潮湿"
+  },
+  {
+    "id": 3017,
+    "word": "umore",
+    "pos": "s.m.",
+    "meaning": "情绪"
+  },
+  {
+    "id": 3019,
+    "word": "unirsi",
+    "pos": "v.rifl.",
+    "meaning": "团结"
+  },
+  {
+    "id": 3021,
+    "word": "unità",
+    "pos": "s.f.",
+    "meaning": "团结"
+  },
+  {
+    "id": 3023,
+    "word": "universale",
+    "pos": "agg.",
+    "meaning": "宇宙的，普通的"
+  },
+  {
+    "id": 3025,
+    "word": "universo",
+    "pos": "s.m.",
+    "meaning": "宇宙"
+  },
+  {
+    "id": 3027,
+    "word": "uomo",
+    "pos": "s.m.",
+    "meaning": "人；人类；男人"
+  },
+  {
+    "id": 3029,
+    "word": "uovo",
+    "pos": "s.m.",
+    "meaning": "鸡蛋"
+  },
+  {
+    "id": 3031,
+    "word": "urbano",
+    "pos": "agg.",
+    "meaning": "城市的，市内的"
+  },
+  {
+    "id": 3033,
+    "word": "urgente",
+    "pos": "agg.",
+    "meaning": "紧急的"
+  },
+  {
+    "id": 3035,
+    "word": "urgenza",
+    "pos": "s.f.",
+    "meaning": "紧急，紧迫"
+  },
+  {
+    "id": 3037,
+    "word": "urlare",
+    "pos": "v.intr.",
+    "meaning": "喊叫"
+  },
+  {
+    "id": 3039,
+    "word": "usanza",
+    "pos": "s.f.",
+    "meaning": "风俗"
+  },
+  {
+    "id": 3041,
+    "word": "usare",
+    "pos": "v.tr.",
+    "meaning": "使用"
+  },
+  {
+    "id": 3043,
+    "word": "uscita",
+    "pos": "s.f.",
+    "meaning": "出口"
+  },
+  {
+    "id": 3045,
+    "word": "uso",
+    "pos": "s.m.",
+    "meaning": "使用"
+  },
+  {
+    "id": 3047,
+    "word": "utile",
+    "pos": "agg.",
+    "meaning": "有用的"
+  },
+  {
+    "id": 3049,
+    "word": "utilizzare",
+    "pos": "v.tr.",
+    "meaning": "利用"
+  },
+  {
+    "id": 3051,
+    "word": "uva",
+    "pos": "s.f.",
+    "meaning": "葡萄"
+  },
+  {
+    "id": 3056,
+    "word": "vago",
+    "pos": "agg.",
+    "meaning": "含糊的，模糊的"
+  },
+  {
+    "id": 3058,
+    "word": "valere",
+    "pos": "v.intr.",
+    "meaning": "有价值"
+  },
+  {
+    "id": 3060,
+    "word": "valle",
+    "pos": "s.f.",
+    "meaning": "山谷"
+  },
+  {
+    "id": 3062,
+    "word": "valore",
+    "pos": "s.m.",
+    "meaning": "价值"
+  },
+  {
+    "id": 3064,
+    "word": "vantaggio",
+    "pos": "s.m.",
+    "meaning": "好处，利益，优势"
+  },
+  {
+    "id": 3066,
+    "word": "vapore",
+    "pos": "s.m.",
+    "meaning": "蒸汽"
+  },
+  {
+    "id": 3068,
+    "word": "variare",
+    "pos": "v.tr.",
+    "meaning": "使多样化"
+  },
+  {
+    "id": 3070,
+    "word": "varietà",
+    "pos": "s.f.",
+    "meaning": "各种各样"
+  },
+  {
+    "id": 3072,
+    "word": "vario",
+    "pos": "agg.",
+    "meaning": "各种的，不同的"
+  },
+  {
+    "id": 3074,
+    "word": "vasca",
+    "pos": "s.f.",
+    "meaning": "池，缸"
+  },
+  {
+    "id": 3076,
+    "word": "vasto",
+    "pos": "agg.",
+    "meaning": "宽阔的"
+  },
+  {
+    "id": 3078,
+    "word": "vegetazione",
+    "pos": "sf.",
+    "meaning": "（总称）植物"
+  },
+  {
+    "id": 3080,
+    "word": "vela",
+    "pos": "s.f.",
+    "meaning": "帆"
+  },
+  {
+    "id": 3082,
+    "word": "velenoso",
+    "pos": "agg.",
+    "meaning": "有毒的"
+  },
+  {
+    "id": 3084,
+    "word": "veloce",
+    "pos": "agg.",
+    "meaning": "快速的"
+  },
+  {
+    "id": 3086,
+    "word": "velocità",
+    "pos": "s.f.",
+    "meaning": "速度"
+  },
+  {
+    "id": 3088,
+    "word": "vendere",
+    "pos": "v.tr.",
+    "meaning": "卖"
+  },
+  {
+    "id": 3090,
+    "word": "vendita",
+    "pos": "s.f.",
+    "meaning": "销售"
+  },
+  {
+    "id": 3092,
+    "word": "Venezia",
+    "pos": "s.f.",
+    "meaning": "威尼斯"
+  },
+  {
+    "id": 3094,
+    "word": "ventina",
+    "pos": "s.f.",
+    "meaning": "二十左右"
+  },
+  {
+    "id": 3096,
+    "word": "ventoso",
+    "pos": "agg.",
+    "meaning": "风大的"
+  },
+  {
+    "id": 3098,
+    "word": "veramente",
+    "pos": "avv.",
+    "meaning": "真正地"
+  },
+  {
+    "id": 3100,
+    "word": "verde",
+    "pos": "agg./s.m.",
+    "meaning": "绿色的；绿色"
+  },
+  {
+    "id": 3102,
+    "word": "verdeggiante",
+    "pos": "agg.",
+    "meaning": "生气勃勃的"
+  },
+  {
+    "id": 3104,
+    "word": "verdura",
+    "pos": "s.f.",
+    "meaning": "蔬菜"
+  },
+  {
+    "id": 3106,
+    "word": "vergognarsi",
+    "pos": "v.rifl.",
+    "meaning": "感到羞愧"
+  },
+  {
+    "id": 3108,
+    "word": "verifica",
+    "pos": "s.f.",
+    "meaning": "检查，核实"
+  },
+  {
+    "id": 3110,
+    "word": "verificare",
+    "pos": "v.tr.",
+    "meaning": "核实，考查"
+  },
+  {
+    "id": 3112,
+    "word": "verità",
+    "pos": "s.f.",
+    "meaning": "真理，真实"
+  },
+  {
+    "id": 3114,
+    "word": "versione",
+    "pos": "s.f.",
+    "meaning": "版本"
+  },
+  {
+    "id": 3116,
+    "word": "vestirsi",
+    "pos": "v.rifl.",
+    "meaning": "穿衣服"
+  },
+  {
+    "id": 3118,
+    "word": "vestito",
+    "pos": "s.m.",
+    "meaning": "衣服"
+  },
+  {
+    "id": 3120,
+    "word": "vetrina",
+    "pos": "s.f.",
+    "meaning": "橱窗"
+  },
+  {
+    "id": 3122,
+    "word": "vetro",
+    "pos": "s.m.",
+    "meaning": "玻璃"
+  },
+  {
+    "id": 3124,
+    "word": "viaggiare",
+    "pos": "v.intr.",
+    "meaning": "旅行"
+  },
+  {
+    "id": 3126,
+    "word": "vice",
+    "pos": "s.m./s.f.",
+    "meaning": "副职"
+  },
+  {
+    "id": 3128,
+    "word": "vietato",
+    "pos": "agg.",
+    "meaning": "禁止的"
+  },
+  {
+    "id": 3130,
+    "word": "vigilia",
+    "pos": "s.f.",
+    "meaning": "前夕"
+  },
+  {
+    "id": 3132,
+    "word": "vigna",
+    "pos": "s.f.",
+    "meaning": "葡萄园"
+  },
+  {
+    "id": 3134,
+    "word": "vigore",
+    "pos": "s.m.",
+    "meaning": "生气，活力"
+  },
+  {
+    "id": 3136,
+    "word": "vigoroso",
+    "pos": "agg.",
+    "meaning": "精力充沛的"
+  },
+  {
+    "id": 3138,
+    "word": "villa",
+    "pos": "s.f.",
+    "meaning": "别墅"
+  },
+  {
+    "id": 3140,
+    "word": "villaggio",
+    "pos": "a.m.",
+    "meaning": "村庄"
+  },
+  {
+    "id": 3142,
+    "word": "vincere",
+    "pos": "v.intr.",
+    "meaning": "取胜"
+  },
+  {
+    "id": 3144,
+    "word": "vino",
+    "pos": "s.m.",
+    "meaning": "葡萄酒"
+  },
+  {
+    "id": 3146,
+    "word": "violare",
+    "pos": "v.tr.",
+    "meaning": "违反"
+  },
+  {
+    "id": 3148,
+    "word": "violento",
+    "pos": "agg.",
+    "meaning": "暴力的"
+  },
+  {
+    "id": 3150,
+    "word": "violenza",
+    "pos": "s.f.",
+    "meaning": "暴力"
+  },
+  {
+    "id": 3152,
+    "word": "violino",
+    "pos": "s.m.",
+    "meaning": "小提琴"
+  },
+  {
+    "id": 3154,
+    "word": "visione",
+    "pos": "s.f.",
+    "meaning": "观点，看法"
+  },
+  {
+    "id": 3156,
+    "word": "visitare",
+    "pos": "v,tr,",
+    "meaning": "参观，访问"
+  },
+  {
+    "id": 3158,
+    "word": "viso",
+    "pos": "s.m.",
+    "meaning": "脸"
+  },
+  {
+    "id": 3160,
+    "word": "vissuto",
+    "pos": "agg.",
+    "meaning": "有经历的，老练的；已生活的"
+  },
+  {
+    "id": 3162,
+    "word": "vista sul mare",
+    "pos": "",
+    "meaning": "海景"
+  },
+  {
+    "id": 3164,
+    "word": "vita",
+    "pos": "s.f.",
+    "meaning": "生命；生活"
+  },
+  {
+    "id": 3166,
+    "word": "vittima",
+    "pos": "s.f.",
+    "meaning": "受害者"
+  },
+  {
+    "id": 3168,
+    "word": "vitto",
+    "pos": "s.m.",
+    "meaning": "饮食"
+  },
+  {
+    "id": 3170,
+    "word": "vittoria",
+    "pos": "s.f.",
+    "meaning": "胜利"
+  },
+  {
+    "id": 3172,
+    "word": "vivace",
+    "pos": "agg.",
+    "meaning": "活泼的"
+  },
+  {
+    "id": 3174,
+    "word": "vivo",
+    "pos": "agg.",
+    "meaning": "活着的；生动的"
+  },
+  {
+    "id": 3176,
+    "word": "vizio",
+    "pos": "s.m.",
+    "meaning": "恶习"
+  },
+  {
+    "id": 3178,
+    "word": "voce",
+    "pos": "s.f.",
+    "meaning": "声音"
+  },
+  {
+    "id": 3180,
+    "word": "voglia",
+    "pos": "s.f.",
+    "meaning": "愿望"
+  },
+  {
+    "id": 3182,
+    "word": "volentieri",
+    "pos": "avv.",
+    "meaning": "情愿地"
+  },
+  {
+    "id": 3184,
+    "word": "volo",
+    "pos": "s.m.",
+    "meaning": "飞行；航班"
+  },
+  {
+    "id": 3186,
+    "word": "volontario",
+    "pos": "agg.",
+    "meaning": "自愿的"
+  },
+  {
+    "id": 3188,
+    "word": "volto",
+    "pos": "s.m.",
+    "meaning": "面孔"
+  },
+  {
+    "id": 3190,
+    "word": "volume",
+    "pos": "s.m.",
+    "meaning": "音量；卷，册"
+  },
+  {
+    "id": 3192,
+    "word": "vostro",
+    "pos": "agg.poss.",
+    "meaning": "你们的"
+  },
+  {
+    "id": 3194,
+    "word": "votare",
+    "pos": "v.tr.",
+    "meaning": "投票表决"
+  },
+  {
+    "id": 3196,
+    "word": "vulcano",
+    "pos": "s.m.",
+    "meaning": "火山"
+  },
+  {
+    "id": 3198,
+    "word": "vuotare",
+    "pos": "v.tr.",
+    "meaning": "倒空，排空"
+  },
+  {
+    "id": 3200,
+    "word": "vuoto",
+    "pos": "agg.",
+    "meaning": "空的"
+  },
+  {
+    "id": 3205,
+    "word": "zaino",
+    "pos": "s.m.",
+    "meaning": "背包"
+  },
+  {
+    "id": 3207,
+    "word": "zampa",
+    "pos": "s.f.",
+    "meaning": "爪子，蹄"
+  },
+  {
+    "id": 3209,
+    "word": "zia",
+    "pos": "s.f.",
+    "meaning": "姑姑"
+  },
+  {
+    "id": 3211,
+    "word": "zitto",
+    "pos": "agg.",
+    "meaning": "沉默的"
+  },
+  {
+    "id": 3213,
+    "word": "zona",
+    "pos": "s.f.",
+    "meaning": "地区"
+  },
+  {
+    "id": 3215,
+    "word": "zucchero",
+    "pos": "s.m.",
+    "meaning": "糖"
+  },
+  {
+    "id": 3217,
+    "word": "zuppa",
+    "pos": "s.f.",
+    "meaning": "汤"
+  }
+]
