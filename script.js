@@ -54,6 +54,7 @@ function showCard() {
   const card = vocab[currentIndex];
   document.getElementById('word').textContent = card.italian;
   document.getElementById('meaning').textContent = card.chinese;
+  document.getElementById('partOfSpeech').textContent = `词性：${card.partOfSpeech || '未知'}`;
 
   speakWord(card.italian);
 }
@@ -68,7 +69,8 @@ function showReviewWord() {
   const card = reviewWords[reviewIndex];
   document.getElementById('flashcard-empty').innerHTML = `
     <h2>${card.italian}</h2>
-    <p>${card.chinese}</p>`;
+    <p>${card.chinese}</p>
+    <p>词性：${card.partOfSpeech || '未知'}</p>`;
 
   speakWord(card.italian); // 自动朗读
 
