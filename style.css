@@ -1,3 +1,4 @@
+/* 页面样式 */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -14,7 +15,6 @@ body {
   overflow: hidden; /* 避免滚动条 */
 }
 
-
 header {
   background: transparent; /* 背景透明 */
   color: white; /* 标题文字为白色 */
@@ -28,15 +28,8 @@ header {
   top: 20px; /* 将标题向下移动 10px，根据需求调整数值 */
 }
 
-
-
-/* 按钮悬停时的背景颜色 */
-#controls button:hover {
-  background-color: #e57373; /* 浅红色悬停效果 */
-}
-
-
-#flashcard {
+/* 单词卡片样式 */
+#flashcard, #flashcard-empty {
   margin: 20px auto; /* 居中对齐 */
   padding: 20px; /* 内边距 */
   background: white; /* 背景颜色为白色 */
@@ -45,7 +38,6 @@ header {
   max-width: 300px; /* 缩小最大宽度 */
   width: 90%; /* 确保在小屏幕设备上适配 */
 }
-
 
 #controls button {
   margin: 10px;
@@ -56,15 +48,7 @@ header {
   font-size: 16px;
 }
 
-#stats {
-  margin-top: 5px; /* 减少顶部间距，让进度条向上移动 */
-  font-size: 18px; /* 保持字体大小一致 */
-  color: white; /* 白色文字颜色 */
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); /* 增加文字阴影效果 */
-  position: relative; /* 如果需要更精准的调整，可以用绝对定位 */
-  top: -10px; /* 进一步向上微调 */
-}
-
+/* 显示单词的字体样式 */
 #word {
   font-size: 24px;
   font-weight: bold;
@@ -83,3 +67,54 @@ header {
   color: #777; /* 词性颜色 */
 }
 
+/* 隐藏未激活页面 */
+.hidden {
+  display: none;
+}
+
+/* 页脚按钮样式（自定义图片按钮） */
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center; /* 或者使用 space-around */
+  gap:15px;
+  background-color: transparent; /* 将背景颜色设置为透明 */
+  padding: 10px;
+  box-sizing: border-box; /* 确保 padding 不会影响总宽度 */
+}
+
+footer img {
+  width: 70px; /* 增加宽度 */
+  height: 70px; /* 增加高度 */
+  margin: 5px; /* 保持边距 */
+  cursor: pointer;
+  border: none;
+  outline: none;
+  object-fit: contain; /* 确保图片完整显示 */
+}
+
+footer img:hover {
+  transform: scale(1.1); /* 鼠标悬停时放大 */
+  transition: transform 0.2s ease-in-out; /* 平滑放大效果 */
+}
+
+.button-container {
+  position: relative;
+  display: inline-block;
+}
+
+.button-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white; /* 文字颜色 */
+  font-size: 16px; /* 文字大小 */
+  font-weight: bold; /* 文字加粗 */
+  pointer-events: none; /* 确保点击事件传递给图片 */
+  text-align: center; /* 文字居中 */
+  width: 100%; /* 确保文字容器宽度与按钮一致 */
+}
