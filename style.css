@@ -119,3 +119,69 @@ footer img:hover {
   text-align: center; /* 文字居中 */
   width: 100%; /* 确保文字容器宽度与按钮一致 */
 }
+
+.image-container {
+  position: relative; /* 使子元素可以绝对定位 */
+  display: inline-block; /* 使容器适应图片大小 */
+}
+
+#goal-image {
+  width: 80px; /* 调整图片大小为80px */
+  height: auto; /* 保持宽高比 */
+  position: relative; /* 使其可以使用 top 属性 */
+  top: -10px; /* 向上移动10px，您可以根据需要调整这个值 */
+}
+
+#daily-goal {
+  position: absolute; /* 绝对定位 */
+  top: 40%; /* 调整为适合的百分比，您可以根据需要调整这个值 */
+  left: 50%; /* 水平居中 */
+  transform: translate(-50%, -50%); /* 使元素中心对齐 */
+  font-size: 26px; /* 根据需要调整字体大小 */
+  color: #ffb3d9; /* 将颜色更改为淡粉色 */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7); /* 添加阴影以提高可读性 */
+}
+
+#encouragement {
+  position: absolute; /* 绝对定位 */
+  top: 68%; /* 调整位置，向下移动 */
+  left: 50%; /* 水平居中 */
+  transform: translate(-50%, -50%); /* 使元素中心对齐 */
+  font-size: 24px; /* 字体大小 */
+  color: white; /* 字体颜色 */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7); /* 添加阴影以提高可读性 */
+  opacity: 1; /* 初始不透明度 */
+  transition: opacity 1s ease; /* 淡出效果 */
+  
+  /* 添加背景图片 */
+  background-image: url('ticket.png'); /* 替换为您的自定义图片路径 */
+  background-size: contain; /* 确保背景图片完整显示 */
+  background-position: center; /* 背景居中显示 */
+  background-repeat: no-repeat; /* 防止背景重复 */
+  padding: 20px; /* 内边距，确保文本不贴边 */
+  border-radius: 10px; /* 圆角边框 */
+}
+
+#stats {
+  position: relative; /* 使其可以使用 top 属性 */
+  top: -25px; /* 向上移动30px，您可以根据需要调整这个值 */
+  font-size: 18px; /* 根据需要调整字体大小 */
+  color: white; /* 字体颜色 */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* 添加阴影以提高可读性 */
+}
+
+#flashcard {
+  margin: 10px auto; /* 调整上边距，向上挪动 */
+  padding: 20px; /* 内边距 */
+  background: white; /* 背景颜色为白色 */
+  border-radius: 10px; /* 圆角边框 */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 添加轻微阴影 */
+  max-width: 300px; /* 缩小最大宽度 */
+  width: 90%; /* 确保在小屏幕设备上适配 */
+  position: relative; /* 使其可以使用 top 属性 */
+  top: -10px; /* 向上移动10px，您可以根据需要调整这个值 */
+}
+
+#controls {
+  margin-top: 10px; /* 调整上边距，向上挪动 */
+}
