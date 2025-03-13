@@ -13,6 +13,7 @@ body {
   background-repeat: no-repeat; /* 防止背景重复 */
   height: 100vh; /* 确保背景高度为屏幕高度 */
   overflow: hidden; /* 避免滚动条 */
+  background-color: #f2d9dd; /* 替换为您的背景颜色 */
 }
 
 header {
