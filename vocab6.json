@@ -1,0 +1,932 @@
+[
+    {
+        "italian": "locale",
+        "chinese": "地点, 公共场所",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "romantica",
+        "chinese": "浪漫的",
+        "partOfSpeech": "(f.) (m. romantico)",
+        "proficiency": 0
+    },
+    {
+        "italian": "motivate",
+        "chinese": "说明理由；解析（直陈式现 在时、命令式第二人称复数)",
+        "partOfSpeech": "（inf. motivare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "come mai?",
+        "chinese": "怎么会?",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "discreta",
+        "chinese": "谨慎的, 慎重的",
+        "partOfSpeech": "(f.) (m. discreto)",
+        "proficiency": 0
+    },
+    {
+        "italian": "risotto alla milanese",
+        "chinese": "米兰肉汁给饭",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "secondo (piatto)",
+        "chinese": "第二道菜",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "cotoletta alla milanese",
+        "chinese": "米兰裹面包屑油炸肉排",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "antipasto",
+        "chinese": "拼盘, 头盘",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "bruschette",
+        "chinese": "蒜味烤面包",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "per caso",
+        "chinese": "偶然, 凑巧",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "madre",
+        "chinese": "母亲,妈妈",
+        "partOfSpeech": "la (f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "pasti",
+        "chinese": "餐; 饭菜",
+        "partOfSpeech": "(m.) (sing. il pasto)",
+        "proficiency": 0
+    },
+    {
+        "italian": "nomi di parentela",
+        "chinese": "亲属称谓",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "volerci",
+        "chinese": "(客观地) 需要（时间、金钱等）",
+        "partOfSpeech": "（inf.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "metterci",
+        "chinese": "花费（时间）",
+        "partOfSpeech": "（inf.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "macché",
+        "chinese": "根本不, 一点儿不",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "moglie",
+        "chinese": "妻子",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "adoro",
+        "chinese": "欣赏, 喜爱（直陈式现在时第一人称单数)",
+        "partOfSpeech": "（inf. adorare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "ha dimenticato",
+        "chinese": "忘记（直陈式近过去时第三人称单数)",
+        "partOfSpeech": "（inf. dimenticare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "sciarpa",
+        "chinese": "围巾, 头巾",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "volo",
+        "chinese": "飞行; 航班",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "avete programmato",
+        "chinese": "计划（直陈式近过去时第二人称复数)",
+        "partOfSpeech": "（inf. programmare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "cucciolo",
+        "chinese": "小猫; 动崽",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "vivaci",
+        "chinese": "活跃的, 活泼的",
+        "partOfSpeech": "(m. e f.) (sing. vivace)",
+        "proficiency": 0
+    },
+    {
+        "italian": "sale",
+        "chinese": "盐",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "salati",
+        "chinese": "咸的",
+        "partOfSpeech": "(m.) (sing. salato)",
+        "proficiency": 0
+    },
+    {
+        "italian": "albero genealogico",
+        "chinese": "世系图, 血缘关系图,家族谱系图",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "arrabbiatissima",
+        "chinese": "极为生气的",
+        "partOfSpeech": "(f.) (m. arrabbiatissimo)",
+        "proficiency": 0
+    },
+    {
+        "italian": "discutere di",
+        "chinese": "谈论, 讨论",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "politica",
+        "chinese": "政治",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "padre",
+        "chinese": "父亲",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "povera te",
+        "chinese": "你真可怜",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "nipote",
+        "chinese": "侄子（女），外甥（女）；孙子 (女)",
+        "partOfSpeech": "(m. e f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "in braccio alla sua mamma",
+        "chinese": "在她妈妈的怀里",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "intendiamo",
+        "chinese": "意思是, 指的是（直陈式现在时第一人称复数)",
+        "partOfSpeech": "（inf. intendere）",
+        "proficiency": 0
+    },
+    {
+        "italian": "rapporti di parentela",
+        "chinese": "亲属关系",
+        "partOfSpeech": "(m.) (sing. il rapporto di parentela)",
+        "proficiency": 0
+    },
+    {
+        "italian": "coniugi",
+        "chinese": "夫妇, 配偶",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "pallina",
+        "chinese": "小球",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "tira la pallina a un compagno",
+        "chinese": "把小球传递给一名同学",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "misto",
+        "chinese": "混合的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "linguine",
+        "chinese": "一种意大利宽面条",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "spaghetti alla carbonara",
+        "chinese": "用鸡蛋、肉、黄油等调制的意大利面（又称 \"炭烧面\"）",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "penne all'arrabbiata",
+        "chinese": "一种意大利通心面（用辛辣番茄酱调制)",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "pollo all'aglio",
+        "chinese": "蒜味鸡",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "bistecca ai ferri",
+        "chinese": "烤牛排",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "cotoletta alla milanese",
+        "chinese": "米兰裹面包屑油炸肉排",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "vitello alle verdure",
+        "chinese": "菠菜小牛肉",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "involtini alla romana",
+        "chinese": "罗马式小牛肉卷",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "torta di mele",
+        "chinese": "苹果蛋糕",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "panna cotta",
+        "chinese": "意式奶油布丁",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "contorni",
+        "chinese": "配菜",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "verdure grigliate",
+        "chinese": "烤蔬菜",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "patate al forno",
+        "chinese": "烤土豆",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "funghi",
+        "chinese": "蘑菇",
+        "partOfSpeech": "(m.) (sing. il fungo)",
+        "proficiency": 0
+    },
+    {
+        "italian": "vini",
+        "chinese": "葡萄酒",
+        "partOfSpeech": "(m.) (sing. il vino)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ben cotta",
+        "chinese": "请做十分熟的!",
+        "partOfSpeech": "per favore!",
+        "proficiency": 0
+    },
+    {
+        "italian": "acqua minerale frizzante",
+        "chinese": "气泡矿泉水",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "saporito",
+        "chinese": "美味的, 可口的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "pasta al dente",
+        "chinese": "有嚼劲的意大利面食, “筋道”的面食",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "affatto",
+        "chinese": "一点儿也不, 毫不",
+        "partOfSpeech": "(avv.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "carne",
+        "chinese": "肉",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "dividetevi",
+        "chinese": "分成, 分为 (命令式第二人称复数)",
+        "partOfSpeech": "(inf. dividersi)",
+        "proficiency": 0
+    },
+    {
+        "italian": "spuntino",
+        "chinese": "小吃, 快餐, 点心",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "biscotti al cioccolato",
+        "chinese": "巧克力饼干",
+        "partOfSpeech": "(m.) (sing. il biscotto al cioccolato)",
+        "proficiency": 0
+    },
+    {
+        "italian": "siccome",
+        "chinese": "因为, 由于",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "ho sempre fretta",
+        "chinese": "我总是匆匆忙忙",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "fretta",
+        "chinese": "匆忙",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "al massimo",
+        "chinese": "最多, 最大限度",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "fette biscottate",
+        "chinese": "面包干, 干面包片",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "burro",
+        "chinese": "黄油",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "miele",
+        "chinese": "蜂蜜",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "salto sempre la cena",
+        "chinese": "我总是不吃晚饭",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "merenda",
+        "chinese": "午后茶点, 下午茶",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "sono a posto",
+        "chinese": "我就解决了, 我就可以了",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "in ogni caso",
+        "chinese": "无论如何, 不管怎样",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "cereali",
+        "chinese": "谷类食品, 粮食",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "diffusa",
+        "chinese": "(动词 diffondere 的过去分词): 普遍的, 常见的",
+        "partOfSpeech": "(f.) (m. diffuso)",
+        "proficiency": 0
+    },
+    {
+        "italian": "cuocere",
+        "chinese": "烹调, 煮, 烧",
+        "partOfSpeech": "(inf.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "cottura",
+        "chinese": "烹饪",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "passaporto",
+        "chinese": "护照",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "tavola apparecchiata",
+        "chinese": "摆放餐具的桌子",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "tovaglia",
+        "chinese": "桌布",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "tovagliolo",
+        "chinese": "餐巾",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "forchetta",
+        "chinese": "叉子, 餐叉",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "pepe",
+        "chinese": "胡椒",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "coltello",
+        "chinese": "刀子, 餐刀",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "sugo",
+        "chinese": "调味蕃, 汤汁",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "salame",
+        "chinese": "意大利色拉米香肠",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "tagliare",
+        "chinese": "切, 削",
+        "partOfSpeech": "(inf.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "friggere",
+        "chinese": "油炸, 煎",
+        "partOfSpeech": "(inf.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "mescolare",
+        "chinese": "混合, 搅拌",
+        "partOfSpeech": "(inf.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "grattugiare",
+        "chinese": "把……擦成丝或碎末",
+        "partOfSpeech": "(inf.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "pentola",
+        "chinese": "(煮东西用的) 锅",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "grattugia",
+        "chinese": "擦子",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "tagliere",
+        "chinese": "砧板, 菜板",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "padella",
+        "chinese": "煎锅, 长柄平底锅",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "mestolo",
+        "chinese": "长柄勺",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "colapasta",
+        "chinese": "过滤器, 滤锅",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "somiglianze",
+        "chinese": "相似, 相似之处",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "notizia",
+        "chinese": "消息, 新闻",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "economico",
+        "chinese": "经济的, 便宜的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "grazie in anticipo",
+        "chinese": "预先感谢, 提前表示谢意",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "legati",
+        "chinese": "紧密的,密切的; 相关的",
+        "partOfSpeech": "(m.)(sing. legato)",
+        "proficiency": 0
+    },
+    {
+        "italian": "personaggi storici",
+        "chinese": "历史人物",
+        "partOfSpeech": "(m.) (sing. il personaggio storico)",
+        "proficiency": 0
+    },
+    {
+        "italian": "arabi",
+        "chinese": "阿拉伯人",
+        "partOfSpeech": "(m.) (sing. l'arabo)",
+        "proficiency": 0
+    },
+    {
+        "italian": "austriaci",
+        "chinese": "奥地利人",
+        "partOfSpeech": "(m.) (sing. l'austriaco)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ricette",
+        "chinese": "配方, 菜谱, 处方",
+        "partOfSpeech": "(f.) (sing. la ricetta)",
+        "proficiency": 0
+    },
+    {
+        "italian": "in realtà",
+        "chinese": "事实上, 实际上",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "secoli",
+        "chinese": "世纪",
+        "partOfSpeech": "(m.) (sing. il secolo)",
+        "proficiency": 0
+    },
+    {
+        "italian": "Greci",
+        "chinese": "希腊人",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "una specie di...",
+        "chinese": "一种",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "preparate",
+        "chinese": "准备好的",
+        "partOfSpeech": "(f.) (sing. preparata)",
+        "proficiency": 0
+    },
+    {
+        "italian": "introdurre",
+        "chinese": "引入, 带入",
+        "partOfSpeech": "（inf.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "siciliana",
+        "chinese": "(意大利) 西西里的; 西西里（女）人",
+        "partOfSpeech": "(f.) (m. siciliano)",
+        "proficiency": 0
+    },
+    {
+        "italian": "commerci marittimi",
+        "chinese": "海上贸易",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "piano piano",
+        "chinese": "逐渐地, 渐渐地",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "antichissima",
+        "chinese": "极其古老的,极长久的",
+        "partOfSpeech": "(f.) (m. antichissimo)",
+        "proficiency": 0
+    },
+    {
+        "italian": "pietre",
+        "chinese": "石, 石头",
+        "partOfSpeech": "(f.) (sing. la pietra)",
+        "proficiency": 0
+    },
+    {
+        "italian": "focaccia",
+        "chinese": "一种烤饼",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "aggiunta",
+        "chinese": "增加部分",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ingredienti",
+        "chinese": "成分, 配料",
+        "partOfSpeech": "(m.) (sing. l'ingrediente)",
+        "proficiency": 0
+    },
+    {
+        "italian": "e non solo",
+        "chinese": "不是唯一的",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "re",
+        "chinese": "国王",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "regina",
+        "chinese": "王后, 女王",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "corte",
+        "chinese": "王宫, 宫廷",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "pizzaiolo",
+        "chinese": "辉制比萨饼的厨师",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "assaggiare",
+        "chinese": "尝, 品尝",
+        "partOfSpeech": "（inf.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "tricolore",
+        "chinese": "三色的",
+        "partOfSpeech": "(m. e f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "bandiera",
+        "chinese": "旗子, 旗帜",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "basilico",
+        "chinese": "罗勒（一种香料）",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "in onore di...",
+        "chinese": "为纪念..., 对...表示敬意",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "conquista",
+        "chinese": "征服（直陈式现在时第三人称单数)",
+        "partOfSpeech": "（inf. conquistare)",
+        "proficiency": 0
+    },
+    {
+        "italian": "racconto fantastico",
+        "chinese": "想象的故事",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "singoli prodotti",
+        "chinese": "各个原料; 个别产品",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "farfalle",
+        "chinese": "蝴蝶; (复数) 一种蝶形的意大利面食",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "tortellini",
+        "chinese": "(意大利式) 饺子",
+        "partOfSpeech": "(m)",
+        "proficiency": 0
+    },
+    {
+        "italian": "fusilli",
+        "chinese": "意大利螺旋形细面条",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "tagliatelle",
+        "chinese": "意大利干面条, 带状鸡蛋挂面",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "culinario",
+        "chinese": "烹调的, 烹饪的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "votate",
+        "chinese": "投票, 表决 (直陈式现在时、命令式第二人称复数)",
+        "partOfSpeech": "（inf. votare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "paninoteca",
+        "chinese": "汉堡店; 面包店",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "osteria",
+        "chinese": "酒馆, 小吃店",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "parecchie",
+        "chinese": "不少, 好几个, 若干",
+        "partOfSpeech": "(f.) (sing. parecchia)",
+        "proficiency": 0
+    },
+    {
+        "italian": "consumare",
+        "chinese": "吃; 消费, 消耗",
+        "partOfSpeech": "（inf.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "troppo",
+        "chinese": "太",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "costosa",
+        "chinese": "贵的, 昂贵的",
+        "partOfSpeech": "(f.) (m. costoso)",
+        "proficiency": 0
+    },
+    {
+        "italian": "frequentata",
+        "chinese": "人们常去的, 热闹的",
+        "partOfSpeech": "(f.) (m. frequentato)",
+        "proficiency": 0
+    },
+    {
+        "italian": "varietà",
+        "chinese": "各式各样; 变化, 多样性",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "regionali",
+        "chinese": "地区性的, 区域性的",
+        "partOfSpeech": "(m. e f.) (sing. regionale)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ambiente",
+        "chinese": "环境",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "gustare",
+        "chinese": "品尝, 品味",
+        "partOfSpeech": "(inf.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "raffinati",
+        "chinese": "精制的, 精美的, 精细的",
+        "partOfSpeech": "(m.) (sing. raffinato)",
+        "proficiency": 0
+    },
+    {
+        "italian": "per mancanza di tempo",
+        "chinese": "由于缺少时间; 时间关系",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "ricercato",
+        "chinese": "（动词 ricercare 的过去分词）受欢迎的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    }
+]

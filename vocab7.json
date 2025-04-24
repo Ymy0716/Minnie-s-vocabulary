@@ -1,0 +1,692 @@
+[
+    {
+        "italian": "genere",
+        "chinese": "类型, 种类",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "giallo/poliziesco",
+        "chinese": "侦探的, 警匪的 (电影、小说等)",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "orrore",
+        "chinese": "恐怖",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "visto che...",
+        "chinese": "鉴于, 由于",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "febbre",
+        "chinese": "发热, 发烧",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "innanzitutto",
+        "chinese": "首先",
+        "partOfSpeech": "(avv.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "confuso",
+        "chinese": "（动词 confondere 的过去分词）混乱的, 迷惑的, 不清楚的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "in che senso?",
+        "chinese": "为什么? 什么意思?",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "complicata",
+        "chinese": "复杂的",
+        "partOfSpeech": "(f.) (m. complicato)",
+        "proficiency": 0
+    },
+    {
+        "italian": "commenti",
+        "chinese": "评论, 意见",
+        "partOfSpeech": "(m.) (sing. il commento)",
+        "proficiency": 0
+    },
+    {
+        "italian": "strano",
+        "chinese": "奇怪的, 异常的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "metà",
+        "chinese": "半, 一半",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "innamorata",
+        "chinese": "喜欢……的, 爱上……的",
+        "partOfSpeech": "(f.) (m. innamorato)",
+        "proficiency": 0
+    },
+    {
+        "italian": "fantasma",
+        "chinese": "幽灵, 幻影",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "assassino",
+        "chinese": "谋杀者, 杀人犯",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ricordi",
+        "chinese": "记忆, 回忆",
+        "partOfSpeech": "(m.) (sing. il ricordo)",
+        "proficiency": 0
+    },
+    {
+        "italian": "accordo",
+        "chinese": "同意",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "disaccordo",
+        "chinese": "不同意",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "imperfetto indicativo",
+        "chinese": "直陈式未完成过去时",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "trapassato prossimo",
+        "chinese": "近愈过去式",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "silenzio",
+        "chinese": "沉默, 安静",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ogni tanto",
+        "chinese": "不时地",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "felice",
+        "chinese": "幸福的, 快乐的",
+        "partOfSpeech": "(m. e f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "mentre",
+        "chinese": "当…的时候, 和…同时",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "oddio",
+        "chinese": "我的天哪",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "mazzo di fiori",
+        "chinese": "花束",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "vabbè",
+        "chinese": "好吧, 你说得对",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "chissà",
+        "chinese": "谁知道; 也许",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "abitudini",
+        "chinese": "习惯",
+        "partOfSpeech": "(m.) (sing. l'abitudine)",
+        "proficiency": 0
+    },
+    {
+        "italian": "azione non conclusa in un momento preciso",
+        "chinese": "在某一特定时刻未完成的动作",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "azioni contemporanee al passato",
+        "chinese": "在过去同时发生（进行）的动作",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "azione conclusa",
+        "chinese": "完成的动作",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "azioni successive concluse",
+        "chinese": "连续完成的动作",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "azione passata interrotta da un'altra azione passata",
+        "chinese": "一个过去的动作被另一个过去的动作打断（中断）",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "in cerchio",
+        "chinese": "围成一圈",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "buia",
+        "chinese": "灰暗的, 黑暗的",
+        "partOfSpeech": "(f.) (m. buio)",
+        "proficiency": 0
+    },
+    {
+        "italian": "piovosa",
+        "chinese": "多雨的",
+        "partOfSpeech": "(f.) (m. piovoso)",
+        "proficiency": 0
+    },
+    {
+        "italian": "fa girare la bottiglia",
+        "chinese": "旋转瓶子",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "pennarello",
+        "chinese": "记号笔",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "indicato",
+        "chinese": "被指到的, 被指示的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "va avanti",
+        "chinese": "继续（进行）",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "ho notato",
+        "chinese": "注意到（直陈式近过去时第一人称单数)",
+        "partOfSpeech": "(inf. notare)",
+        "proficiency": 0
+    },
+    {
+        "italian": "pantaloni",
+        "chinese": "裤子",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "maglietta",
+        "chinese": "T恤衫; 短袖",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "nervoso",
+        "chinese": "激动的, 紧张的, 神经质的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "non c'era molta gente in giro",
+        "chinese": "当时周围没有很多人",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "deserta",
+        "chinese": "人烟稀少的, 荒凉的",
+        "partOfSpeech": "(f.) (m. deserto)",
+        "proficiency": 0
+    },
+    {
+        "italian": "impazienti",
+        "chinese": "不耐烦的, 没有耐心的",
+        "partOfSpeech": "(m. e f.) (sing. impaziente)",
+        "proficiency": 0
+    },
+    {
+        "italian": "Torre pendente",
+        "chinese": "（比萨）斜塔",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "tragedia",
+        "chinese": "悲剧; 灾难, 不幸",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "quindi",
+        "chinese": "因此, 所以",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "qualche giorno prima",
+        "chinese": "几天前",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "non era un granché",
+        "chinese": "它没那么好, 不值一提",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "allora niente film?",
+        "chinese": "那你没看电影吗?",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "neppure",
+        "chinese": "也不",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "eppure",
+        "chinese": "然而, 但是",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "critiche",
+        "chinese": "评论, 批评文章",
+        "partOfSpeech": "(f.) (sing. la critica)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ormai",
+        "chinese": "现今, 如今",
+        "partOfSpeech": "(avv.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "recensioni",
+        "chinese": "评论",
+        "partOfSpeech": "(f.) (sing. la recensione)",
+        "proficiency": 0
+    },
+    {
+        "italian": "Come si forma?",
+        "chinese": "(它) 如何构成?",
+        "partOfSpeech": "(inf. formarsi)",
+        "proficiency": 0
+    },
+    {
+        "italian": "riquadri",
+        "chinese": "方块, 方框",
+        "partOfSpeech": "(m.) (sing. il riquadro)",
+        "proficiency": 0
+    },
+    {
+        "italian": "bravissimo",
+        "chinese": "极好的, 很棒的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "miglior regia",
+        "chinese": "最佳导演",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "hai ragione",
+        "chinese": "有道理, 你说得没错",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "attrice",
+        "chinese": "女演员",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "sicuramente",
+        "chinese": "肯定, 的确",
+        "partOfSpeech": "(avv.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "liberamente",
+        "chinese": "自由地",
+        "partOfSpeech": "(avv.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "copertina",
+        "chinese": "封面",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "Perfetti Sconosciuti",
+        "chinese": "（电影）《完美陌生人》",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "titolo",
+        "chinese": "标题, 名称",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "trama",
+        "chinese": "情节",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "stampa",
+        "chinese": "报刊, 新闻界",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "pubblicità",
+        "chinese": "广告",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "emozionanti",
+        "chinese": "感人的, 激动的, 兴奋的",
+        "partOfSpeech": "(m. e f.) (sing. emozionante)",
+        "proficiency": 0
+    },
+    {
+        "italian": "presentati",
+        "chinese": "（动词 presentare的过去分词）被介绍的",
+        "partOfSpeech": "(m.) (sing. presentato)",
+        "proficiency": 0
+    },
+    {
+        "italian": "colonna sonora",
+        "chinese": "(电影) 声带, 录音",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "apprezzati",
+        "chinese": "（动词 apprezzare 的过去分词）得到欣赏的, 被喜爱的",
+        "partOfSpeech": "(m.) (sing. apprezzato)",
+        "proficiency": 0
+    },
+    {
+        "italian": "Neorealismo",
+        "chinese": "新现实主义",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "Seconda guerra mondiale",
+        "chinese": "第二次世界大战",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "periodo",
+        "chinese": "时期",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "cinematografico",
+        "chinese": "电影的: 电影摄影的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "Commedia all'italiana",
+        "chinese": "意大利风格喜剧（电影类型)",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "comiche",
+        "chinese": "喜剧的, 滑稽的",
+        "partOfSpeech": "(f.) (sing. comica)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ironia",
+        "chinese": "讽刺",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "nei confronti di...",
+        "chinese": "关于, 对",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "società",
+        "chinese": "社会",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "interpretati",
+        "chinese": "扮演的, 饰演的",
+        "partOfSpeech": "(m.) (sing. interpretato)",
+        "proficiency": 0
+    },
+    {
+        "italian": "accompagnati",
+        "chinese": "被陪伴的, 与...共同的",
+        "partOfSpeech": "(m.) (sing. accompagnato)",
+        "proficiency": 0
+    },
+    {
+        "italian": "compositore",
+        "chinese": "作曲家",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "noto",
+        "chinese": "著名的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "premiati",
+        "chinese": "获奖的",
+        "partOfSpeech": "(m.) (sing. premiato)",
+        "proficiency": 0
+    },
+    {
+        "italian": "poetiche",
+        "chinese": "诗歌的",
+        "partOfSpeech": "(f.) (sing. poetica)",
+        "proficiency": 0
+    },
+    {
+        "italian": "malinconiche",
+        "chinese": "忧郁的",
+        "partOfSpeech": "(f.) (sing. malinconica)",
+        "proficiency": 0
+    },
+    {
+        "italian": "tratto",
+        "chinese": "以…‥为基础, 以…‥为原型",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "romanzo",
+        "chinese": "小说",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ammirati",
+        "chinese": "受钦佩的, 被赞赏的",
+        "partOfSpeech": "(m.) (sing. ammirato)",
+        "proficiency": 0
+    },
+    {
+        "italian": "carriera",
+        "chinese": "生涯; 职业",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "capolavori",
+        "chinese": "杰作, 代表作",
+        "partOfSpeech": "(m.) (sing. il capolavoro)",
+        "proficiency": 0
+    },
+    {
+        "italian": "rappresenta",
+        "chinese": "代表（直陈式现在时第三人称单数)",
+        "partOfSpeech": "(inf. rappresentare)",
+        "proficiency": 0
+    },
+    {
+        "italian": "cinema d'autore",
+        "chinese": "著名电影",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "autore",
+        "chinese": "作者, 作家",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "interpreti",
+        "chinese": "演员, 扮演者；口译员",
+        "partOfSpeech": "(m. e f.) (sing. l'interprete)",
+        "proficiency": 0
+    },
+    {
+        "italian": "talento",
+        "chinese": "天才",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "comici",
+        "chinese": "喜剧演员",
+        "partOfSpeech": "(m.) (sing. il comico)",
+        "proficiency": 0
+    },
+    {
+        "italian": "principe",
+        "chinese": "王子",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "risata",
+        "chinese": "大笑",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "italiano medio",
+        "chinese": "普通意大利人",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "pregi",
+        "chinese": "价值, 优点",
+        "partOfSpeech": "(m.) (sing. il pregio)",
+        "proficiency": 0
+    },
+    {
+        "italian": "difetti",
+        "chinese": "不足,缺点",
+        "partOfSpeech": "(m.) (sing. il difetto)",
+        "proficiency": 0
+    },
+    {
+        "italian": "professionalmente",
+        "chinese": "专业地",
+        "partOfSpeech": "(avv.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "caratteristiche",
+        "chinese": "特征，特性",
+        "partOfSpeech": "(f.) (sing. la caratteristica)",
+        "proficiency": 0
+    },
+    {
+        "italian": "positive",
+        "chinese": "积极的, 正面的",
+        "partOfSpeech": "(f.) (sing. positiva)",
+        "proficiency": 0
+    },
+    {
+        "italian": "negative",
+        "chinese": "消极的, 负面的",
+        "partOfSpeech": "(f.) (sing. negativa)",
+        "proficiency": 0
+    },
+    {
+        "italian": "citate",
+        "chinese": "列举, 列出（直陈式现在时、命令式第二人称复数)",
+        "partOfSpeech": "(inf. citare)",
+        "proficiency": 0
+    },
+    {
+        "italian": "mi ha investito una bicicletta",
+        "chinese": "一辆自行车把我撞倒了",
+        "partOfSpeech": null,
+        "proficiency": 0
+    }
+]

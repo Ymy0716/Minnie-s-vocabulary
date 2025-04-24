@@ -1,0 +1,1034 @@
+[
+    {
+        "italian": "prendere il sole",
+        "chinese": "晒太阳, 日光浴",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "sole",
+        "chinese": "太阳, 阳光",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "passeggiare",
+        "chinese": "散步",
+        "partOfSpeech": "（inf.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "nave",
+        "chinese": "轮船",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "scarpe",
+        "chinese": "鞋",
+        "partOfSpeech": "(f.) (sing. la scarpa)",
+        "proficiency": 0
+    },
+    {
+        "italian": "eleganti",
+        "chinese": "优雅的, 雅致的",
+        "partOfSpeech": "(m. e f.) (sing. elegante)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ombrello",
+        "chinese": "雨伞",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "occhiali da sole",
+        "chinese": "太阳镜",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "campeggio",
+        "chinese": "营地, 露营",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "avventura",
+        "chinese": "冒险, 历险",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "solitudine",
+        "chinese": "孤独, 孤寂",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "documento",
+        "chinese": "证件（身份证或护照）",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "bagagli",
+        "chinese": "行李",
+        "partOfSpeech": "(m.) (sing. il bagaglio)",
+        "proficiency": 0
+    },
+    {
+        "italian": "bagaglio a mano",
+        "chinese": "手提行李",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "carta d'imbarco",
+        "chinese": "登机卡, 登机牌",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "buon viaggio",
+        "chinese": "旅途愉快",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "viaggio",
+        "chinese": "旅途",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "partenza",
+        "chinese": "出发, 启程",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "partenti",
+        "chinese": "亲戚",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "festeggiare",
+        "chinese": "庆祝",
+        "partOfSpeech": "（inf.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "Capodanno",
+        "chinese": "元旦, 新年",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "Epifania",
+        "chinese": "主显节（1月6日是意大利公共假日，庆祝东方三王的到来）",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "Natale",
+        "chinese": "圣诞节",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "genitori，(m.)",
+        "chinese": "父母",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "buone feste",
+        "chinese": "节日愉快",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "feste",
+        "chinese": "节, 节日",
+        "partOfSpeech": "(f.) (sing. la festa)",
+        "proficiency": 0
+    },
+    {
+        "italian": "correggete",
+        "chinese": "改正, 修改（直陈式现在时、命令式第二人称复数）",
+        "partOfSpeech": "（inf. correggere）",
+        "proficiency": 0
+    },
+    {
+        "italian": "cugina",
+        "chinese": "堂姊妹, 表姐妹",
+        "partOfSpeech": "la (f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "previsioni",
+        "chinese": "预测, 预报,预估",
+        "partOfSpeech": "(f.) (sing. la previsione)",
+        "proficiency": 0
+    },
+    {
+        "italian": "promesse",
+        "chinese": "许诺",
+        "partOfSpeech": "(f.) (sing. la promessa)",
+        "proficiency": 0
+    },
+    {
+        "italian": "lessico",
+        "chinese": "词汇",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "futuro semplice",
+        "chinese": "简单将来时",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "futuro composto",
+        "chinese": "先将来时（复合将来时）",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "periodo ipotetico",
+        "chinese": "条件主从句",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "impiegata",
+        "chinese": "职员, 雇员",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "Cenone",
+        "chinese": "（元旦前一天晚上的）丰盛晚餐",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "prenotiamo",
+        "chinese": "预订（直陈式现在时、 命令式第一人称复数）",
+        "partOfSpeech": "（inf. prenotare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "bigliettino",
+        "chinese": "纸条",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "vignette",
+        "chinese": "插图",
+        "partOfSpeech": "(f.) (sing. la vignetta)",
+        "proficiency": 0
+    },
+    {
+        "italian": "pioverà",
+        "chinese": "下雨（直陈式简单将来时第三人称单数）",
+        "partOfSpeech": "（inf. piovere）",
+        "proficiency": 0
+    },
+    {
+        "italian": "biglietteria",
+        "chinese": "售票处",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "controllore",
+        "chinese": "检票员, 查票员",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "viaggiatori",
+        "chinese": "旅客, 乘客",
+        "partOfSpeech": "(m.) (sing. il viaggiatore)",
+        "proficiency": 0
+    },
+    {
+        "italian": "binario",
+        "chinese": "站台",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "carrozza",
+        "chinese": "（火车）车厢",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "cambio",
+        "chinese": "换, 换乘",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "diretto",
+        "chinese": "直达火车, 慢车",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "andata",
+        "chinese": "去, 离去; 单程",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ritorno",
+        "chinese": "回来, 返回; 回程",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "centesimi",
+        "chinese": "（货币单位） 分：欧分",
+        "partOfSpeech": "(m.) (sing. il centesimo)",
+        "proficiency": 0
+    },
+    {
+        "italian": "proveniente",
+        "chinese": "来自...的, 从...来的",
+        "partOfSpeech": "(m. e f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "diretto",
+        "chinese": "驶向...的, 开往...的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "è in arrivo",
+        "chinese": "到达, 抵达",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "anziché",
+        "chinese": "宁可,与其...不如... ；而不是",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "direzione",
+        "chinese": "方向",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "regionale veloce",
+        "chinese": "区间快车",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "infine",
+        "chinese": "最后, 终于",
+        "partOfSpeech": "（avv.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "settimana bianca",
+        "chinese": "\"白色星期\", 滑雪假期",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "Alpi",
+        "chinese": "阿尔卑斯山",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "permesso",
+        "chinese": "请假（一小时的外出）；允许，许可",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "prendere le ferie",
+        "chinese": "度假",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "ferie",
+        "chinese": "假期",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "cucinare",
+        "chinese": "做饭, 烹饪",
+        "partOfSpeech": "（inf.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "tira vento",
+        "chinese": "刮风",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "vento",
+        "chinese": "风",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "giorno dopo",
+        "chinese": "后天",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "cielo",
+        "chinese": "天空",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "nuvoloso",
+        "chinese": "多云的, 有云的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "rinunciare",
+        "chinese": "放弃, 撤销",
+        "partOfSpeech": "（inf.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "immagino",
+        "chinese": "猜测（直陈式现在时第一人称单数)",
+        "partOfSpeech": "（inf. immaginare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "nemmeno",
+        "chinese": "也不, 也没",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "nuvola",
+        "chinese": "云",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "all'improvviso",
+        "chinese": "突然, 忽然",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "pessimista",
+        "chinese": "悲观的; 悲观主义者",
+        "partOfSpeech": "(m. e f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "meteo",
+        "chinese": "天气预报; 气象",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "zone",
+        "chinese": "地区",
+        "partOfSpeech": "(f.) (sing. la zona)",
+        "proficiency": 0
+    },
+    {
+        "italian": "temperature",
+        "chinese": "温度, 气温",
+        "partOfSpeech": "(f.) (sing. la temperatura)",
+        "proficiency": 0
+    },
+    {
+        "italian": "variabile",
+        "chinese": "变化的, 可变的",
+        "partOfSpeech": "(m. e f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "temporale",
+        "chinese": "暴风雨, 雷阵雨",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "neve",
+        "chinese": "雪",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "nebbia",
+        "chinese": "雾",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "calmo",
+        "chinese": "平静的, 宁静的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "mosso",
+        "chinese": "(水面) 波动的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "deboli",
+        "chinese": "弱的, 软弱的",
+        "partOfSpeech": "（m. e f.) (sing. debole)",
+        "proficiency": 0
+    },
+    {
+        "italian": "moderati",
+        "chinese": "适度的, 中等的,温和的",
+        "partOfSpeech": "(m.) (sing. moderato)",
+        "proficiency": 0
+    },
+    {
+        "italian": "in diminuzione",
+        "chinese": "下降",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "stabili",
+        "chinese": "稳定的, 平稳的",
+        "partOfSpeech": "(m. e f.) (sing. stạbile)",
+        "proficiency": 0
+    },
+    {
+        "italian": "in aumento",
+        "chinese": "上升",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "nuvolosità",
+        "chinese": "多云",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "intensa",
+        "chinese": "强烈的, 剧烈的; 离强度的",
+        "partOfSpeech": "(f.) (m. intenso)",
+        "proficiency": 0
+    },
+    {
+        "italian": "penisola",
+        "chinese": "半岛 (指意大利)",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "mattino",
+        "chinese": "清晨, 早晨",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "possibilità",
+        "chinese": "可能, 可能性",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "graduale",
+        "chinese": "逐渐的, 渐渐的",
+        "partOfSpeech": "(m. e f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "miglioramento",
+        "chinese": "改进, 完善",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "nevica",
+        "chinese": "下雪（直陈式现在时第三人称单数)",
+        "partOfSpeech": "（inf. nevicare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "coperto",
+        "chinese": "阴天的; 覆盖的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "agitato",
+        "chinese": "动荡的; 激动的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "definizioni",
+        "chinese": "定义, 释义",
+        "partOfSpeech": "(f.) (sing. la definizione)",
+        "proficiency": 0
+    },
+    {
+        "italian": "Babbo Natale",
+        "chinese": "圣诞老人",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "presepe",
+        "chinese": "表现耶稣诞生的雕塑、绘画陈列; （耶稣诞生的）马厩",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "gioco",
+        "chinese": "游戏",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "bingo",
+        "chinese": "宾戈（游戏）",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "tombola",
+        "chinese": "翻筋斗赌戏（一种宾戈游戏名称）",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "dolce",
+        "chinese": "甜食",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "tradizionale",
+        "chinese": "传统的",
+        "partOfSpeech": "(m. e f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "panettone",
+        "chinese": "意大利圣诞节大蛋糕（通常用干果制作）",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "addobbiamo",
+        "chinese": "装饰（直陈式现在时、命令式第一人称复数）",
+        "partOfSpeech": "（inf. addobbare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "avete trascorso",
+        "chinese": "度过（直陈式近过去时第二人称复数）",
+        "partOfSpeech": "（inf. trascorrere）",
+        "proficiency": 0
+    },
+    {
+        "italian": "tradizione",
+        "chinese": "传统",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "curiosità",
+        "chinese": "猎奇, 好奇",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "proverbio",
+        "chinese": "谚语, 格言",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "conoscenti",
+        "chinese": "熟人",
+        "partOfSpeech": "(m. e f.) (sing. il/la conoscente)",
+        "proficiency": 0
+    },
+    {
+        "italian": "presepe vivente",
+        "chinese": "真人版表现耶稣诞生的雕塑、绘画陈列活动",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ricreano",
+        "chinese": "再创作, 再创造 (直陈式现在时第三人称复数)",
+        "partOfSpeech": "（inf. ricreare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "interpretano",
+        "chinese": "表演, 诠释 (直陈式现在时第三人称复数)",
+        "partOfSpeech": "（inf. interpretare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "artigiani",
+        "chinese": "手工艺者, 艺人",
+        "partOfSpeech": "(m.) (sing. l'artigiano)",
+        "proficiency": 0
+    },
+    {
+        "italian": "visitatori",
+        "chinese": "游客, 访客",
+        "partOfSpeech": "(m.) (sing. il visitatore)",
+        "proficiency": 0
+    },
+    {
+        "italian": "botteghe",
+        "chinese": "小作坊",
+        "partOfSpeech": "(f.) (sing. la bottega)",
+        "proficiency": 0
+    },
+    {
+        "italian": "pandoro",
+        "chinese": "一种意大利圣诞节蛋糕",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "torrone",
+        "chinese": "意大利圣诞节甜点果仁饼",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "natalizi",
+        "chinese": "圣诞的, 圣诞节的",
+        "partOfSpeech": "（m.) (sing. natalizio)",
+        "proficiency": 0
+    },
+    {
+        "italian": "produzione",
+        "chinese": "产品, 出产",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "fatti a mano",
+        "chinese": "手工 (制造) 的",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "pasticcerie",
+        "chinese": "糕点店, 面包店",
+        "partOfSpeech": "(f.) (sing. la pasticceria)",
+        "proficiency": 0
+    },
+    {
+        "italian": "arrivo",
+        "chinese": "到达, 到来",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "doni",
+        "chinese": "礼物, 礼品",
+        "partOfSpeech": "(m.) (sing. il dono)",
+        "proficiency": 0
+    },
+    {
+        "italian": "mercatini di Natale",
+        "chinese": "圣诞市场",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "oggetti di artigianato",
+        "chinese": "手工艺品",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "detti",
+        "chinese": "谚语; 说法",
+        "partOfSpeech": "(m.) (sing. il detto)",
+        "proficiency": 0
+    },
+    {
+        "italian": "riassume",
+        "chinese": "归纳, 总结 (直陈式现在时第三人称单数)",
+        "partOfSpeech": "（inf. riassumere）",
+        "proficiency": 0
+    },
+    {
+        "italian": "popolo",
+        "chinese": "人民",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "insegna",
+        "chinese": "教授, 教育, 教学 (直陈式现在时第三人称单数)",
+        "partOfSpeech": "（inf. insegnare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "produce",
+        "chinese": "生产, 制造 (直陈式现在时第三人称单数)",
+        "partOfSpeech": "（inf. produrre）",
+        "proficiency": 0
+    },
+    {
+        "italian": "laboratorio",
+        "chinese": "工作室, 工作坊",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "compilate",
+        "chinese": "填写 (直陈式现在时、命令式第二人称复数)",
+        "partOfSpeech": "（inf. compilare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "mostrare",
+        "chinese": "展示",
+        "partOfSpeech": "（inf.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "Palio di Siena",
+        "chinese": "锡耶纳赛马节",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "Regata Storica",
+        "chinese": "威尼斯龙舟节",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "piatti speciali",
+        "chinese": "特别的菜肴, 特色菜",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "brevemente",
+        "chinese": "简短地",
+        "partOfSpeech": "（avv）",
+        "proficiency": 0
+    },
+    {
+        "italian": "distanze",
+        "chinese": "距离",
+        "partOfSpeech": "(f.) (sing. la distanza)",
+        "proficiency": 0
+    },
+    {
+        "italian": "sia... che...",
+        "chinese": "不但...而且...，不仅...还...",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "rete ferroviaria",
+        "chinese": "铁路网",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "copre",
+        "chinese": "覆盖（直陈式现在时第三人称单 数)",
+        "partOfSpeech": "（inf. coprire）",
+        "proficiency": 0
+    },
+    {
+        "italian": "territorio",
+        "chinese": "领土，版图",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "nazionale",
+        "chinese": "国家的",
+        "partOfSpeech": "(m. e f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "offerti",
+        "chinese": "(动词 offrire 的过去分 词）提供的",
+        "partOfSpeech": "(m.) (sing. offerto)",
+        "proficiency": 0
+    },
+    {
+        "italian": "piuttosto",
+        "chinese": "相当, 挺",
+        "partOfSpeech": "（avv）",
+        "proficiency": 0
+    },
+    {
+        "italian": "esigenza",
+        "chinese": "需求",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "rapidi",
+        "chinese": "快速的",
+        "partOfSpeech": "(m.) (sing. rapido)",
+        "proficiency": 0
+    },
+    {
+        "italian": "lussuosi",
+        "chinese": "奢侈的, 奢华的, 高档的",
+        "partOfSpeech": "(m.) (sing. lussuoso)",
+        "proficiency": 0
+    },
+    {
+        "italian": "cari",
+        "chinese": "昂贵的, 价高的",
+        "partOfSpeech": "(m.) (sing. caro)",
+        "proficiency": 0
+    },
+    {
+        "italian": "oltre",
+        "chinese": "超过, 超越",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "prenotazione",
+        "chinese": "预订",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "obbligatoria",
+        "chinese": "必须履行的, 强制的",
+        "partOfSpeech": "(f.) (m. obbligatorio)",
+        "proficiency": 0
+    },
+    {
+        "italian": "all'interno",
+        "chinese": "在...内部，在...范围内",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "si fermano",
+        "chinese": "停留, 停下（直陈式现在时第三人称复数)",
+        "partOfSpeech": "（inf. fermarsi）",
+        "proficiency": 0
+    },
+    {
+        "italian": "principalmente",
+        "chinese": "主要地, 首要地",
+        "partOfSpeech": "（avv）",
+        "proficiency": 0
+    },
+    {
+        "italian": "principali",
+        "chinese": "主要的, 重要的",
+        "partOfSpeech": "(m. e f.) (sing. principale)",
+        "proficiency": 0
+    },
+    {
+        "italian": "frequenti",
+        "chinese": "频繁的, 多数的, 多次的",
+        "partOfSpeech": "(m. e f.) (sing. frequente)",
+        "proficiency": 0
+    },
+    {
+        "italian": "fare la fila",
+        "chinese": "排队",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "direttamente",
+        "chinese": "直接地",
+        "partOfSpeech": "（avv）",
+        "proficiency": 0
+    },
+    {
+        "italian": "Patrimonio Mondiale dell'Umanità",
+        "chinese": "人类世界遗产",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "raggiungere",
+        "chinese": "到达",
+        "partOfSpeech": "（inf.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "agile",
+        "chinese": "轻巧的, 灵活的",
+        "partOfSpeech": "（m. e f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "siti Unesco",
+        "chinese": "联合国教科文组织名录内的景点",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "guida",
+        "chinese": "向导, 指引",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "dettagliata",
+        "chinese": "详细的, 细节的",
+        "partOfSpeech": "(f.) (m. dettagliato)",
+        "proficiency": 0
+    },
+    {
+        "italian": "Belpaese",
+        "chinese": "美丽国度（这里特指意大利）",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ammirare",
+        "chinese": "欣赏, 仰慕",
+        "partOfSpeech": "（inf.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "grazie a...",
+        "chinese": "多亏, 幸亏; 好在",
+        "partOfSpeech": null,
+        "proficiency": 0
+    }
+]

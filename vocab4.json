@@ -1,0 +1,1052 @@
+[
+    {
+        "italian": "riordinare",
+        "chinese": "整理, 收拾",
+        "partOfSpeech": "（inf.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "compagnia",
+        "chinese": "结伴, 陪伴",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "locandine",
+        "chinese": "演出海报",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "spettacolo",
+        "chinese": "演出",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ridere",
+        "chinese": "笑, 嘲笑",
+        "partOfSpeech": "(inf.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "commedia",
+        "chinese": "喜剧",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "cameriere",
+        "chinese": "服务员",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "sbagliato",
+        "chinese": "错误的, 出错的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "abbiamo fatto confusione",
+        "chinese": "我们搞错了",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "confusione",
+        "chinese": "混淆, 搞错",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "un sacco di gente",
+        "chinese": "很多人",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "diverse",
+        "chinese": "不同的, 相异的",
+        "partOfSpeech": "(f.) (sing. diversa)",
+        "proficiency": 0
+    },
+    {
+        "italian": "che cosa hai fatto di bello?",
+        "chinese": "你做了什么好玩儿的事?",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "peccato!",
+        "chinese": "多丢脸！真遗憾！",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "passato",
+        "chinese": "过去",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "situare un avvenimento nel passato",
+        "chinese": "在过去安排 一件事",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "situare",
+        "chinese": "安置, 安放",
+        "partOfSpeech": "(inf.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "avvenimento",
+        "chinese": "事件",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "data",
+        "chinese": "日期",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ordinare",
+        "chinese": "点餐",
+        "partOfSpeech": "(inf.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "preferenza",
+        "chinese": "偏爱, 喜好",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "passato prossimo",
+        "chinese": "迟过去时",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "avverbio",
+        "chinese": "副词",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "uso",
+        "chinese": "用法",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "male",
+        "chinese": "坏",
+        "partOfSpeech": "（avv.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "passeggiata",
+        "chinese": "散步",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "fatti",
+        "chinese": "事情; 事实",
+        "partOfSpeech": "(m.) (sing. il fatto)",
+        "proficiency": 0
+    },
+    {
+        "italian": "pasta",
+        "chinese": "面食",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ricostruire",
+        "chinese": "重组, 重建",
+        "partOfSpeech": "（inf.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "stamattina",
+        "chinese": "今天早上",
+        "partOfSpeech": "（avv.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "cornetto",
+        "chinese": "牛角面包",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "soggetto",
+        "chinese": "主语",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "due giorni fa",
+        "chinese": "两天前",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "l'altro ieri",
+        "chinese": "前天",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "scorsa",
+        "chinese": "过去的, 以往的",
+        "partOfSpeech": "(f.）(m. scorso)",
+        "proficiency": 0
+    },
+    {
+        "italian": "Germania",
+        "chinese": "德国",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "hanno rubato",
+        "chinese": "盗窃, 偷窃（直陈式近过去时第三人称复数)",
+        "partOfSpeech": "（inf. rubare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "interroga",
+        "chinese": "） 诧问, 提问（直陈式现在时第三人称单数)",
+        "partOfSpeech": "（inf. interrogare",
+        "proficiency": 0
+    },
+    {
+        "italian": "poliziotto",
+        "chinese": "警察",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "mensa",
+        "chinese": "食堂",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "dentista",
+        "chinese": "牙医",
+        "partOfSpeech": "(m. e f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "verbi di movimento",
+        "chinese": "表示运动（趋向）的动词",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "movimento",
+        "chinese": "运动, 动作",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "verbi di stato",
+        "chinese": "表示状态的动词",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "intransitivi",
+        "chinese": "不及物的",
+        "partOfSpeech": "(m.) (sing. intransitivo)",
+        "proficiency": 0
+    },
+    {
+        "italian": "nascere",
+        "chinese": "出生",
+        "partOfSpeech": "（inf.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "transitivi",
+        "chinese": "及物的",
+        "partOfSpeech": "(m.) (sing. transitivo)",
+        "proficiency": 0
+    },
+    {
+        "italian": "completa",
+        "chinese": "完全的, 全部的",
+        "partOfSpeech": "(f.) (m. completo)",
+        "proficiency": 0
+    },
+    {
+        "italian": "intero",
+        "chinese": "全部的, 完整的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "agente di polizia",
+        "chinese": "警官, 警员",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "aula",
+        "chinese": "教室",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ho chiacchierato un po'",
+        "chinese": "我聊了一会儿",
+        "partOfSpeech": "（inf. chiacchierare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "da solo",
+        "chinese": "独自, 单独",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "all'inizio",
+        "chinese": "起初, 开始的时候",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "per prima cosa",
+        "chinese": "第一件事, 首先",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "collegate",
+        "chinese": "连接（直陈式现在时、命令式第二人称复数)",
+        "partOfSpeech": "（inf. collegare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "infiniti",
+        "chinese": "(动词) 不定式, (动词) 原形",
+        "partOfSpeech": "(m.) (sing. l'infinito)",
+        "proficiency": 0
+    },
+    {
+        "italian": "vincere",
+        "chinese": "战胜, 获胜",
+        "partOfSpeech": "（inf.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "lista",
+        "chinese": "列表, 表单",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "Divina Commedia",
+        "chinese": "《神曲》（但丁的长篇叙事诗)",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "squadra",
+        "chinese": "队, 组",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "mima",
+        "chinese": "模仿, 模拟（直陈式现在时第三人称单数)",
+        "partOfSpeech": "（inf. mimare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "esattamente",
+        "chinese": "精确地, 确切地",
+        "partOfSpeech": "（avv.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "appunto",
+        "chinese": "正是, 确实如此",
+        "partOfSpeech": "（avv.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "di quale verbo si tratta",
+        "chinese": "关于哪个动词",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "participio passato",
+        "chinese": "过去分词",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ruoli",
+        "chinese": "角色",
+        "partOfSpeech": "(m.) (sing. il ruolo)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ha pubblicato",
+        "chinese": "发布, 出版（直陈式近过去时第三人称单数)",
+        "partOfSpeech": "（inf. pubblicare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "progetto",
+        "chinese": "计划, 方案",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "è diventato",
+        "chinese": "成为",
+        "partOfSpeech": "（inf. diventare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "appuntamento fisso",
+        "chinese": "固定活动（约定)",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "fisso",
+        "chinese": "定期的, 固定的, 稳定的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "sarda",
+        "chinese": "撒丁鸟的; 撒丁人的",
+        "partOfSpeech": "(f.) (m. sardo)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ospita",
+        "chinese": "接待, 招待（直陈式现在时第三人称单数)",
+        "partOfSpeech": "（inf. ospitare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "artisti",
+        "chinese": "艺术家",
+        "partOfSpeech": "(m.) (sing. l'artista)",
+        "proficiency": 0
+    },
+    {
+        "italian": "locali",
+        "chinese": "当地的, 地方的",
+        "partOfSpeech": "(m. e f.) (sing. locale)",
+        "proficiency": 0
+    },
+    {
+        "italian": "propone",
+        "chinese": "推荐, 建议（直陈式现在时第三人称单数)",
+        "partOfSpeech": "（inf. proporre）",
+        "proficiency": 0
+    },
+    {
+        "italian": "musica classica",
+        "chinese": "古典音乐",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ospite",
+        "chinese": "客人",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "violinista",
+        "chinese": "小提琴手",
+        "partOfSpeech": "(m. e f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "premi",
+        "chinese": "宠, 奖金, 奖品",
+        "partOfSpeech": "(m.) (sing. il premio)",
+        "proficiency": 0
+    },
+    {
+        "italian": "quartetto",
+        "chinese": "四重奏; 四重唱",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "dura",
+        "chinese": "持续; 持久 (直陈式现在时第三人称单数)",
+        "partOfSpeech": "（inf. durare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "evento",
+        "chinese": "事件, 大事",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "scuola elementare",
+        "chinese": "小学",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "riferire al resto della classe",
+        "chinese": "向班里其他同学汇报, 转述",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "scambiatevi",
+        "chinese": "相互交换（命令式第二人称复数)",
+        "partOfSpeech": "（inf. scambiarsi）",
+        "proficiency": 0
+    },
+    {
+        "italian": "e morto",
+        "chinese": "去世（直陈式近过去时第三人称单数)",
+        "partOfSpeech": "（inf. morire）",
+        "proficiency": 0
+    },
+    {
+        "italian": "bellezza",
+        "chinese": "美好, 美丽",
+        "partOfSpeech": "（f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "illustrazioni",
+        "chinese": "插图, 图片",
+        "partOfSpeech": "(f.) (sing. l'illustrazione)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ho fame",
+        "chinese": "我饿了",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "fame",
+        "chinese": "饥饿",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "listino",
+        "chinese": "价目表, 清单",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "tramezzino",
+        "chinese": "三明治, 夹片面包",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "fetta",
+        "chinese": "薄片, 切片",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "torta al cioccolato",
+        "chinese": "巧克力蛋糕",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "hai deciso",
+        "chinese": "决定（直陈式近过去时第 二人称单数）",
+        "partOfSpeech": "（inf. decidere）",
+        "proficiency": 0
+    },
+    {
+        "italian": "anzi",
+        "chinese": "相反, 反而",
+        "partOfSpeech": "（avv.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "meglio",
+        "chinese": "更好地, 软好地",
+        "partOfSpeech": "（avv.）",
+        "proficiency": 0
+    },
+    {
+        "italian": "dunque",
+        "chinese": "所以, 于是",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "formaggio",
+        "chinese": "奶酪",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "caffè macchiato",
+        "chinese": "玛琪朵咖啡（点缀少许牛奶的咖啡)",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "acqua minerale naturale",
+        "chinese": "天然矿泉水（不带气泡)",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "crudo",
+        "chinese": "生的; 经过加工的 (如 prosciutto crudo生火腿)",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "mozzarella",
+        "chinese": "莫扎莱拉奶酪（一种母水牛奶酪)",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "lattina",
+        "chinese": "罐头; 易拉罐，（一）听",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "deciso",
+        "chinese": "（动词 decidere 的过去分词）决定了的, 确定的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "caffè corretto",
+        "chinese": "加酒调制的咖啡",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "caffellatte",
+        "chinese": "牛奶咖啡",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "tè",
+        "chinese": "茶",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "tisane",
+        "chinese": "药茶",
+        "partOfSpeech": "(f.) (sing. la tisana)",
+        "proficiency": 0
+    },
+    {
+        "italian": "cioccolata in tazza",
+        "chinese": "巧克力饮料, 热巧克力",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "panna",
+        "chinese": "奶油",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "tè freddo",
+        "chinese": "冰茶, 凉茶",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "pomodoro",
+        "chinese": "西红柿, 番茄",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "pizzette",
+        "chinese": "小块比萨饼",
+        "partOfSpeech": "(f.) (sing. la pizzetta)",
+        "proficiency": 0
+    },
+    {
+        "italian": "aperitivi",
+        "chinese": "开胃酒",
+        "partOfSpeech": "(m.) (sing. l'aperitivo)",
+        "proficiency": 0
+    },
+    {
+        "italian": "analcolico",
+        "chinese": "不含酒精的: 不含酒精的饮料",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "bibite",
+        "chinese": "软饮料, 不含酒精的饮料",
+        "partOfSpeech": "(f.) (sing. la bibita)",
+        "proficiency": 0
+    },
+    {
+        "italian": "spremuta d'arancia",
+        "chinese": "鲜榨橙汁",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "succhi di frutta",
+        "chinese": "果汁",
+        "partOfSpeech": "(m.) (sing. il succo di frutta)",
+        "proficiency": 0
+    },
+    {
+        "italian": "birra alla spina",
+        "chinese": "生啤酒, 扎啤",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "tiramisù",
+        "chinese": "提拉米苏（一种意大利甜食）",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "coppetta gelato",
+        "chinese": "小杯冰激凌",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "drammatizzate",
+        "chinese": "编写剧本, 改编成戏剧（直陈式现在时、命令式第二人称复套)",
+        "partOfSpeech": "（inf. drammatizzare）",
+        "proficiency": 0
+    },
+    {
+        "italian": "ho sete",
+        "chinese": "我渴了",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "sete",
+        "chinese": "渴",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "macchina di seconda mano",
+        "chinese": "二手车",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "a causa di...",
+        "chinese": "由于, 因为",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "preferito",
+        "chinese": "更喜爱的, 最喜欢的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "spiegare",
+        "chinese": "解释, 说明",
+        "partOfSpeech": "(inf.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "personali",
+        "chinese": "个人的",
+        "partOfSpeech": "(m. e f.) (sing. personale)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ricerca",
+        "chinese": "调查, 研究",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "a volte",
+        "chinese": "有时候",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "solite cose",
+        "chinese": "平常的事情, 一般的事情",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "occasione",
+        "chinese": "机会, 机遇",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "prodotti",
+        "chinese": "产品",
+        "partOfSpeech": "(m.) (sing. il prodotto)",
+        "proficiency": 0
+    },
+    {
+        "italian": "banco",
+        "chinese": "柜台, 吧台",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "quasi",
+        "chinese": "几乎, 差不多",
+        "partOfSpeech": "(avv.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "moka",
+        "chinese": "莫卡咖啡壶",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "caffettiera",
+        "chinese": "咖啡壶",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "design industriale",
+        "chinese": "工业设计",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "industriale",
+        "chinese": "工业的",
+        "partOfSpeech": "(m. e f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "museo di arte contemporanea",
+        "chinese": "现代艺术博物馆",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "contemporanea",
+        "chinese": "现代的,当代的",
+        "partOfSpeech": "(f.) (m. contemporaneo)",
+        "proficiency": 0
+    },
+    {
+        "italian": "invenzione",
+        "chinese": "发明",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "macchina per il caffè da bar",
+        "chinese": "酒吧专用咖啡机",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "velocità",
+        "chinese": "速度",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "preparazione",
+        "chinese": "准备, 筹备",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "consumazione",
+        "chinese": "消费品；在公共场所吃的东西或喝的饮料",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "oltre a…",
+        "chinese": "除 ⋯⋯ 之外",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "tazzina",
+        "chinese": "咖啡杯，（喝咖啡的）小杯子",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "sapore",
+        "chinese": "口味, 味道",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "leggero",
+        "chinese": "轻的, 轻微的; 淡的, 清爽的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ristretto",
+        "chinese": "浓的, 浓缩的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "forte",
+        "chinese": "强烈的, 浓烈的",
+        "partOfSpeech": "(m. e f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "liquore",
+        "chinese": "烈酒",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "caldo",
+        "chinese": "热的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "pochissimo",
+        "chinese": "很少的, 极少的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "bevanda",
+        "chinese": "饮料",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "colore",
+        "chinese": "颜色",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "abiti",
+        "chinese": "衣服",
+        "partOfSpeech": "(m.) (sing. l'abito)",
+        "proficiency": 0
+    },
+    {
+        "italian": "frati cappuccini",
+        "chinese": "（天主教）嘉布遣修道会修士",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "consiglio",
+        "chinese": "建议",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "soltanto",
+        "chinese": "只, 仅仅",
+        "partOfSpeech": "(avv.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "passione",
+        "chinese": "酷爱，激情",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "grafico",
+        "chinese": "图表, 图示",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "consumo",
+        "chinese": "消费",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "quotidiano",
+        "chinese": "每天的, 日常的",
+        "partOfSpeech": "(m.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "mattina appena svegli",
+        "chinese": "早晨刚一醒来",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "metà mattina",
+        "chinese": "上午",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "appena si sveglia",
+        "chinese": "他（她）一醒来",
+        "partOfSpeech": null,
+        "proficiency": 0
+    },
+    {
+        "italian": "incertezza",
+        "chinese": "不确定, 不肯定",
+        "partOfSpeech": "(f.)",
+        "proficiency": 0
+    },
+    {
+        "italian": "ordinazioni",
+        "chinese": "定做; 订购；点单",
+        "partOfSpeech": "(f.) (sing. l'ordinazione)",
+        "proficiency": 0
+    },
+    {
+        "italian": "in base a...",
+        "chinese": "在......的基础上",
+        "partOfSpeech": null,
+        "proficiency": 0
+    }
+]
