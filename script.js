@@ -92,7 +92,7 @@ function showCard() {
 
   // 调用 GPT API 生成例句
   fetchExampleSentence(card.italian);
-  
+
   // 自动朗读单词
   speakWord(card.italian);
 }
@@ -158,7 +158,7 @@ function updateStats() {
 
   document.getElementById('stats').textContent =
     `记住的单词：${rememberedCount}/${total} (${percentage}%)`;
-  
+
   // 更新每日学习目标显示
   document.getElementById('daily-goal').textContent = remainingWords; // 只显示数字
 }
@@ -390,7 +390,7 @@ document.getElementById('continueButton').addEventListener('click', continueLear
 function toggleExpand(section) {
     const content = document.getElementById(section);
     const arrow = document.getElementById(`arrow-${section}`);
-    
+
     if (content.classList.contains('hidden')) {
         content.classList.remove('hidden');
         arrow.textContent = '▼'; // 改变箭头方向为向下
